@@ -1,0 +1,7871 @@
+{
+  "nodes": {
+    "a-b-testing": {
+      "type": "concept",
+      "title": "A/B Testing",
+      "aliases": [
+        "A/B Testing"
+      ],
+      "tags": [
+        "experimentation",
+        "data-science",
+        "statistics",
+        "model-evaluation"
+      ],
+      "path": "wiki\\concepts\\a-b-testing.md"
+    },
+    "ab-test": {
+      "type": "concept",
+      "title": "A/B Test",
+      "aliases": [
+        "A/B Test"
+      ],
+      "tags": [
+        "experimentation",
+        "statistics"
+      ],
+      "path": "wiki\\concepts\\ab-test.md"
+    },
+    "ab-testing": {
+      "type": "concept",
+      "title": "A/B Testing",
+      "aliases": [
+        "A/B Testing"
+      ],
+      "tags": [
+        "experimentation",
+        "statistics"
+      ],
+      "path": "wiki\\concepts\\ab-testing.md"
+    },
+    "adaptive-wisdom-of-crowds": {
+      "type": "concept",
+      "title": "Adaptive Wisdom of Crowds",
+      "aliases": [
+        "Adaptive Wisdom of Crowds"
+      ],
+      "tags": [
+        "social-theory",
+        "collective-intelligence",
+        "network-theory"
+      ],
+      "path": "wiki\\concepts\\adaptive-wisdom-of-crowds.md"
+    },
+    "agentic-ai": {
+      "type": "concept",
+      "title": "Agentic AI",
+      "aliases": [
+        "Agentic AI"
+      ],
+      "tags": [
+        "ai",
+        "ai-architecture",
+        "automation",
+        "ai-capability",
+        "autonomous-systems",
+        "ai-governance"
+      ],
+      "path": "wiki\\concepts\\agentic-ai.md"
+    },
+    "ai-as-a-successor": {
+      "type": "concept",
+      "title": "AI as a Successor",
+      "aliases": [
+        "AI as a Successor"
+      ],
+      "tags": [
+        "ai-application",
+        "legacy-management",
+        "digital-immortality"
+      ],
+      "path": "wiki\\concepts\\ai-as-a-successor.md"
+    },
+    "ai-as-a-tool-for-augmentation": {
+      "type": "concept",
+      "title": "AI as a Tool for Augmentation",
+      "aliases": [
+        "AI as a Tool for Augmentation"
+      ],
+      "tags": [
+        "ai-philosophy",
+        "creativity"
+      ],
+      "path": "wiki\\concepts\\ai-as-a-tool-for-augmentation.md"
+    },
+    "ai-as-an-amplifier-of-knowledge": {
+      "type": "concept",
+      "title": "AI as an Amplifier of Knowledge",
+      "aliases": [
+        "AI as an Amplifier of Knowledge"
+      ],
+      "tags": [
+        "ai",
+        "human-computer-interaction",
+        "epistemology"
+      ],
+      "path": "wiki\\concepts\\ai-as-an-amplifier-of-knowledge.md"
+    },
+    "ai-as-an-augmentation-tool": {
+      "type": "concept",
+      "title": "AI as an Augmentation Tool",
+      "aliases": [
+        "AI as an Augmentation Tool"
+      ],
+      "tags": [
+        "ai-ethics",
+        "creative-professions"
+      ],
+      "path": "wiki\\concepts\\ai-as-an-augmentation-tool.md"
+    },
+    "ai-generated-likeness": {
+      "type": "concept",
+      "title": "AI-Generated Likeness",
+      "aliases": [
+        "AI-Generated Likeness"
+      ],
+      "tags": [
+        "legal-issue",
+        "ethics",
+        "vocal-synthesis"
+      ],
+      "path": "wiki\\concepts\\ai-generated-likeness.md"
+    },
+    "ai-hallucination": {
+      "type": "concept",
+      "title": "AI Hallucination",
+      "aliases": [
+        "AI Hallucination"
+      ],
+      "tags": [
+        "ai",
+        "llm",
+        "truthfulness"
+      ],
+      "path": "wiki\\concepts\\ai-hallucination.md"
+    },
+    "ai-in-medicine": {
+      "type": "concept",
+      "title": "AI in Medicine",
+      "aliases": [
+        "AI in Medicine"
+      ],
+      "tags": [
+        "applied-ai",
+        "healthcare"
+      ],
+      "path": "wiki\\concepts\\ai-in-medicine.md"
+    },
+    "ai-insight": {
+      "type": "concept",
+      "title": "AI Insight",
+      "aliases": [
+        "AI Insight"
+      ],
+      "tags": [
+        "ai-capability",
+        "creativity",
+        "artificial-general-intelligence"
+      ],
+      "path": "wiki\\concepts\\ai-insight.md"
+    },
+    "ai-managed-affairs": {
+      "type": "concept",
+      "title": "AI-Managed Affairs",
+      "aliases": [
+        "AI-Managed Affairs"
+      ],
+      "tags": [
+        "artificial-intelligence",
+        "governance",
+        "legal-tech"
+      ],
+      "path": "wiki\\concepts\\ai-managed-affairs.md"
+    },
+    "ai-model-training": {
+      "type": "concept",
+      "title": "AI Model Training",
+      "aliases": [
+        "AI Model Training"
+      ],
+      "tags": [
+        "machine-learning",
+        "copyright",
+        "legal-issue"
+      ],
+      "path": "wiki\\concepts\\ai-model-training.md"
+    },
+    "ai-obligations": {
+      "type": "concept",
+      "title": "AI Obligations",
+      "aliases": [
+        "AI Obligations"
+      ],
+      "tags": [
+        "ai-governance",
+        "ai-ethics",
+        "duty-of-care"
+      ],
+      "path": "wiki\\concepts\\ai-obligations.md"
+    },
+    "ai-programmed-ai": {
+      "type": "concept",
+      "title": "AI-Programmed AI",
+      "aliases": [
+        "AI-Programmed AI"
+      ],
+      "tags": [
+        "artificial-intelligence",
+        "machine-learning",
+        "meta-learning"
+      ],
+      "path": "wiki\\concepts\\ai-programmed-ai.md"
+    },
+    "ai-restrictions": {
+      "type": "concept",
+      "title": "AI Restrictions",
+      "aliases": [
+        "AI Restrictions"
+      ],
+      "tags": [
+        "ai-governance",
+        "ai-ethics",
+        "regulation"
+      ],
+      "path": "wiki\\concepts\\ai-restrictions.md"
+    },
+    "ai-rights": {
+      "type": "concept",
+      "title": "AI Rights",
+      "aliases": [
+        "AI Rights"
+      ],
+      "tags": [
+        "ai-governance",
+        "ai-ethics",
+        "legal-framework"
+      ],
+      "path": "wiki\\concepts\\ai-rights.md"
+    },
+    "ai-scale-advantage": {
+      "type": "concept",
+      "title": "AI Scale Advantage",
+      "aliases": [
+        "AI Scale Advantage"
+      ],
+      "tags": [
+        "artificial-intelligence",
+        "generative-ai",
+        "copyright"
+      ],
+      "path": "wiki\\concepts\\ai-scale-advantage.md"
+    },
+    "ai": {
+      "type": "concept",
+      "title": "Artificial Intelligence",
+      "aliases": [
+        "Artificial Intelligence"
+      ],
+      "tags": [
+        "ai",
+        "economics",
+        "labor"
+      ],
+      "path": "wiki\\concepts\\ai.md"
+    },
+    "algorithmic-amplification": {
+      "type": "concept",
+      "title": "Algorithmic Amplification",
+      "aliases": [
+        "Algorithmic Amplification"
+      ],
+      "tags": [
+        "algorithm",
+        "social-media",
+        "content-moderation"
+      ],
+      "path": "wiki\\concepts\\algorithmic-amplification.md"
+    },
+    "analytic-engineering": {
+      "type": "concept",
+      "title": "Analytic Engineering",
+      "aliases": [
+        "Analytic Engineering"
+      ],
+      "tags": [
+        "data-science",
+        "problem-decomposition",
+        "methodology"
+      ],
+      "path": "wiki\\concepts\\analytic-engineering.md"
+    },
+    "area-under-the-roc-curve": {
+      "type": "concept",
+      "title": "Area Under the ROC Curve (AUC)",
+      "aliases": [
+        "Area Under the ROC Curve (AUC)"
+      ],
+      "tags": [
+        "machine-learning",
+        "evaluation-metric"
+      ],
+      "path": "wiki\\concepts\\area-under-the-roc-curve.md"
+    },
+    "artist-consent": {
+      "type": "concept",
+      "title": "Artist Consent",
+      "aliases": [
+        "Artist Consent"
+      ],
+      "tags": [
+        "ai-ethics",
+        "copyright-law",
+        "data-rights"
+      ],
+      "path": "wiki\\concepts\\artist-consent.md"
+    },
+    "artistic-influence": {
+      "type": "concept",
+      "title": "Artistic Influence",
+      "aliases": [
+        "Artistic Influence"
+      ],
+      "tags": [
+        "creativity",
+        "art-history",
+        "music"
+      ],
+      "path": "wiki\\concepts\\artistic-influence.md"
+    },
+    "attention-economy": {
+      "type": "concept",
+      "title": "Attention Economy",
+      "aliases": [
+        "Attention Economy"
+      ],
+      "tags": [
+        "business-model",
+        "economics",
+        "social-media"
+      ],
+      "path": "wiki\\concepts\\attention-economy.md"
+    },
+    "attribution-modeling": {
+      "type": "concept",
+      "title": "Attribution Modeling",
+      "aliases": [
+        "Attribution Modeling"
+      ],
+      "tags": [
+        "digital-marketing",
+        "modeling"
+      ],
+      "path": "wiki\\concepts\\attribution-modeling.md"
+    },
+    "auc": {
+      "type": "concept",
+      "title": "AUC (Area Under the Curve)",
+      "aliases": [
+        "AUC (Area Under the Curve)"
+      ],
+      "tags": [
+        "model-evaluation",
+        "metric"
+      ],
+      "path": "wiki\\concepts\\auc.md"
+    },
+    "audience-selection-for-on-line-brand-advertising": {
+      "type": "concept",
+      "title": "Audience Selection for On-line Brand Advertising",
+      "aliases": [
+        "Audience Selection for On-line Brand Advertising"
+      ],
+      "tags": [
+        "advertising",
+        "social-networks",
+        "data-mining"
+      ],
+      "path": "wiki\\concepts\\audience-selection-for-on-line-brand-advertising.md"
+    },
+    "augmented-collective-beings": {
+      "type": "concept",
+      "title": "Augmented Collective Beings",
+      "aliases": [
+        "Augmented Collective Beings"
+      ],
+      "tags": [
+        "human-ai-collaboration",
+        "iot"
+      ],
+      "path": "wiki\\concepts\\augmented-collective-beings.md"
+    },
+    "automation-frontier": {
+      "type": "concept",
+      "title": "Automation Frontier",
+      "aliases": [
+        "Automation Frontier"
+      ],
+      "tags": [
+        "automation",
+        "ai-adoption",
+        "technology-assessment"
+      ],
+      "path": "wiki\\concepts\\automation-frontier.md"
+    },
+    "bandit-algorithms": {
+      "type": "concept",
+      "title": "Bandit Algorithms",
+      "aliases": [
+        "Bandit Algorithms"
+      ],
+      "tags": [
+        "machine-learning",
+        "optimization"
+      ],
+      "path": "wiki\\concepts\\bandit-algorithms.md"
+    },
+    "bandit-modeling": {
+      "type": "concept",
+      "title": "Bandit Modeling",
+      "aliases": [
+        "Bandit Modeling"
+      ],
+      "tags": [
+        "machine-learning",
+        "online-learning"
+      ],
+      "path": "wiki\\concepts\\bandit-modeling.md"
+    },
+    "bandit-problem": {
+      "type": "concept",
+      "title": "Bandit Problem",
+      "aliases": [
+        "Bandit Problem"
+      ],
+      "tags": [
+        "reinforcement-learning",
+        "machine-learning"
+      ],
+      "path": "wiki\\concepts\\bandit-problem.md"
+    },
+    "base-rate": {
+      "type": "concept",
+      "title": "Base Rate",
+      "aliases": [
+        "Base Rate"
+      ],
+      "tags": [
+        "probability",
+        "statistics"
+      ],
+      "path": "wiki\\concepts\\base-rate.md"
+    },
+    "bias-in-machine-learning": {
+      "type": "concept",
+      "title": "Bias (in Machine Learning)",
+      "aliases": [
+        "Bias (in Machine Learning)"
+      ],
+      "tags": [
+        "machine-learning",
+        "model-error"
+      ],
+      "path": "wiki\\concepts\\bias-in-machine-learning.md"
+    },
+    "bias-variance-tradeoff": {
+      "type": "concept",
+      "title": "Bias-Variance Tradeoff",
+      "aliases": [
+        "Bias-Variance Tradeoff"
+      ],
+      "tags": [
+        "machine-learning",
+        "model-tuning"
+      ],
+      "path": "wiki\\concepts\\bias-variance-tradeoff.md"
+    },
+    "bifurcation-of-humanity": {
+      "type": "concept",
+      "title": "Bifurcation of Humanity",
+      "aliases": [
+        "Bifurcation of Humanity"
+      ],
+      "tags": [
+        "societal-impact",
+        "ai-theory"
+      ],
+      "path": "wiki\\concepts\\bifurcation-of-humanity.md"
+    },
+    "big-data-and-data-science": {
+      "type": "concept",
+      "title": "Big Data and Data Science",
+      "aliases": [
+        "Big Data and Data Science"
+      ],
+      "tags": [
+        "data-science",
+        "ethics",
+        "decision-making"
+      ],
+      "path": "wiki\\concepts\\big-data-and-data-science.md"
+    },
+    "big-data": {
+      "type": "concept",
+      "title": "Big Data",
+      "aliases": [
+        "Big Data"
+      ],
+      "tags": [
+        "technology",
+        "data"
+      ],
+      "path": "wiki\\concepts\\big-data.md"
+    },
+    "binary-classification": {
+      "type": "concept",
+      "title": "Binary Classification",
+      "aliases": [
+        "Binary Classification"
+      ],
+      "tags": [
+        "machine-learning",
+        "modeling"
+      ],
+      "path": "wiki\\concepts\\binary-classification.md"
+    },
+    "black-box-predictive-models": {
+      "type": "concept",
+      "title": "Black Box Predictive Models",
+      "aliases": [
+        "Black Box Predictive Models"
+      ],
+      "tags": [
+        "machine-learning",
+        "big-data",
+        "explainability"
+      ],
+      "path": "wiki\\concepts\\black-box-predictive-models.md"
+    },
+    "bubble-chart": {
+      "type": "concept",
+      "title": "Bubble Chart",
+      "aliases": [
+        "Bubble Chart"
+      ],
+      "tags": [
+        "data-visualization",
+        "chart-type"
+      ],
+      "path": "wiki\\concepts\\bubble-chart.md"
+    },
+    "business-impact-with-machine-learning": {
+      "type": "concept",
+      "title": "Business Impact with Machine Learning",
+      "aliases": [
+        "Business Impact with Machine Learning"
+      ],
+      "tags": [
+        "data-science",
+        "business",
+        "mlops"
+      ],
+      "path": "wiki\\concepts\\business-impact-with-machine-learning.md"
+    },
+    "causal-analytics": {
+      "type": "concept",
+      "title": "Causal Analytics",
+      "aliases": [
+        "Causal Analytics"
+      ],
+      "tags": [
+        "causal-inference",
+        "analytics"
+      ],
+      "path": "wiki\\concepts\\causal-analytics.md"
+    },
+    "causal-classification": {
+      "type": "concept",
+      "title": "Causal Classification",
+      "aliases": [
+        "Causal Classification"
+      ],
+      "tags": [
+        "machine-learning",
+        "causal-inference"
+      ],
+      "path": "wiki\\concepts\\causal-classification.md"
+    },
+    "causal-decision-making": {
+      "type": "concept",
+      "title": "Causal Decision Making",
+      "aliases": [
+        "Causal Decision Making"
+      ],
+      "tags": [
+        "machine-learning",
+        "causal-inference"
+      ],
+      "path": "wiki\\concepts\\causal-decision-making.md"
+    },
+    "causal-effect-estimation": {
+      "type": "concept",
+      "title": "Causal Effect Estimation",
+      "aliases": [
+        "Causal Effect Estimation"
+      ],
+      "tags": [
+        "causality",
+        "statistics"
+      ],
+      "path": "wiki\\concepts\\causal-effect-estimation.md"
+    },
+    "causal-impact-models": {
+      "type": "concept",
+      "title": "Causal Impact Models",
+      "aliases": [
+        "Causal Impact Models"
+      ],
+      "tags": [
+        "causal-inference",
+        "machine-learning"
+      ],
+      "path": "wiki\\concepts\\causal-impact-models.md"
+    },
+    "causal-inference-at-massive-scale": {
+      "type": "concept",
+      "title": "Causal Inference at Massive Scale",
+      "aliases": [
+        "Causal Inference at Massive Scale"
+      ],
+      "tags": [
+        "causality",
+        "big-data",
+        "research"
+      ],
+      "path": "wiki\\concepts\\causal-inference-at-massive-scale.md"
+    },
+    "causal-inference": {
+      "type": "concept",
+      "title": "Causal Inference",
+      "aliases": [
+        "Causal Inference"
+      ],
+      "tags": [
+        "statistics",
+        "data-science"
+      ],
+      "path": "wiki\\concepts\\causal-inference.md"
+    },
+    "causal-targeting": {
+      "type": "concept",
+      "title": "Causal Targeting",
+      "aliases": [
+        "Causal Targeting"
+      ],
+      "tags": [
+        "data-science",
+        "advertising",
+        "marketing"
+      ],
+      "path": "wiki\\concepts\\causal-targeting.md"
+    },
+    "churn-prediction": {
+      "type": "concept",
+      "title": "Churn Prediction",
+      "aliases": [
+        "Churn Prediction"
+      ],
+      "tags": [
+        "business-application",
+        "data-science"
+      ],
+      "path": "wiki\\concepts\\churn-prediction.md"
+    },
+    "cloaking-device": {
+      "type": "concept",
+      "title": "Cloaking Device",
+      "aliases": [
+        "Cloaking Device"
+      ],
+      "tags": [
+        "privacy",
+        "user-control",
+        "technique",
+        "inference"
+      ],
+      "path": "wiki\\concepts\\cloaking-device.md"
+    },
+    "closing-triangles": {
+      "type": "concept",
+      "title": "Closing Triangles",
+      "aliases": [
+        "Closing Triangles"
+      ],
+      "tags": [
+        "network-theory",
+        "algorithms",
+        "social-networks"
+      ],
+      "path": "wiki\\concepts\\closing-triangles.md"
+    },
+    "collaborative-filtering": {
+      "type": "concept",
+      "title": "Collaborative Filtering",
+      "aliases": [
+        "Collaborative Filtering"
+      ],
+      "tags": [
+        "ai",
+        "recommendation-systems",
+        "machine-learning"
+      ],
+      "path": "wiki\\concepts\\collaborative-filtering.md"
+    },
+    "common-sense-in-ai": {
+      "type": "concept",
+      "title": "Common Sense (in AI)",
+      "aliases": [
+        "Common Sense (in AI)"
+      ],
+      "tags": [
+        "ai-concept",
+        "knowledge-representation"
+      ],
+      "path": "wiki\\concepts\\common-sense-in-ai.md"
+    },
+    "consent-for-ai-training": {
+      "type": "concept",
+      "title": "Consent for AI Training",
+      "aliases": [
+        "Consent for AI Training"
+      ],
+      "tags": [
+        "ai-ethics",
+        "copyright",
+        "artist-rights"
+      ],
+      "path": "wiki\\concepts\\consent-for-ai-training.md"
+    },
+    "consequences-of-error": {
+      "type": "concept",
+      "title": "Consequences of Error",
+      "aliases": [
+        "Consequences of Error"
+      ],
+      "tags": [
+        "risk-management",
+        "ai-ethics"
+      ],
+      "path": "wiki\\concepts\\consequences-of-error.md"
+    },
+    "consumer-surplus": {
+      "type": "concept",
+      "title": "Consumer Surplus",
+      "aliases": [
+        "Consumer Surplus"
+      ],
+      "tags": [
+        "economics",
+        "social-media",
+        "valuation"
+      ],
+      "path": "wiki\\concepts\\consumer-surplus.md"
+    },
+    "copyright-law": {
+      "type": "concept",
+      "title": "Copyright Law",
+      "aliases": [
+        "Copyright Law"
+      ],
+      "tags": [
+        "intellectual-property",
+        "legal-framework"
+      ],
+      "path": "wiki\\concepts\\copyright-law.md"
+    },
+    "corporate-residence-fraud-detection": {
+      "type": "concept",
+      "title": "Corporate Residence Fraud Detection",
+      "aliases": [
+        "Corporate Residence Fraud Detection"
+      ],
+      "tags": [
+        "predictive-modeling",
+        "fraud-detection",
+        "tax-evasion"
+      ],
+      "path": "wiki\\concepts\\corporate-residence-fraud-detection.md"
+    },
+    "cost-of-error": {
+      "type": "concept",
+      "title": "Cost of Error",
+      "aliases": [
+        "Cost of Error"
+      ],
+      "tags": [
+        "risk-assessment",
+        "ai-ethics",
+        "automation"
+      ],
+      "path": "wiki\\concepts\\cost-of-error.md"
+    },
+    "counterfactual-explanations": {
+      "type": "concept",
+      "title": "Counterfactual Explanations",
+      "aliases": [
+        "Counterfactual Explanations"
+      ],
+      "tags": [
+        "machine-learning",
+        "explainable-ai",
+        "generative-ai"
+      ],
+      "path": "wiki\\concepts\\counterfactual-explanations.md"
+    },
+    "credit-assignment-problem": {
+      "type": "concept",
+      "title": "Credit Assignment Problem",
+      "aliases": [
+        "Credit Assignment Problem"
+      ],
+      "tags": [
+        "reinforcement-learning",
+        "machine-learning"
+      ],
+      "path": "wiki\\concepts\\credit-assignment-problem.md"
+    },
+    "crowdsourced-data-in-public-health": {
+      "type": "concept",
+      "title": "Crowdsourced Data in Public Health",
+      "aliases": [
+        "Crowdsourced Data in Public Health"
+      ],
+      "tags": [
+        "crowdsourcing",
+        "public-health",
+        "data-science"
+      ],
+      "path": "wiki\\concepts\\crowdsourced-data-in-public-health.md"
+    },
+    "crowdsourced-labeling": {
+      "type": "concept",
+      "title": "Crowdsourced Labeling",
+      "aliases": [
+        "Crowdsourced Labeling"
+      ],
+      "tags": [
+        "machine-learning",
+        "data-science",
+        "technique"
+      ],
+      "path": "wiki\\concepts\\crowdsourced-labeling.md"
+    },
+    "crowdsourcing": {
+      "type": "concept",
+      "title": "Crowdsourcing",
+      "aliases": [
+        "Crowdsourcing"
+      ],
+      "tags": [
+        "human-computation",
+        "data-science"
+      ],
+      "path": "wiki\\concepts\\crowdsourcing.md"
+    },
+    "curation-as-an-artist-role": {
+      "type": "concept",
+      "title": "Curation as an Artist Role",
+      "aliases": [
+        "Curation as an Artist Role"
+      ],
+      "tags": [
+        "future-of-work",
+        "creative-professions"
+      ],
+      "path": "wiki\\concepts\\curation-as-an-artist-role.md"
+    },
+    "curiosity-in-the-age-of-ai": {
+      "type": "concept",
+      "title": "Curiosity in the Age of AI",
+      "aliases": [
+        "Curiosity in the Age of AI"
+      ],
+      "tags": [
+        "human-computer-interaction",
+        "education",
+        "cognitive-science"
+      ],
+      "path": "wiki\\concepts\\curiosity-in-the-age-of-ai.md"
+    },
+    "customer-churn": {
+      "type": "concept",
+      "title": "Customer Churn",
+      "aliases": [
+        "Customer Churn"
+      ],
+      "tags": [
+        "business-problem",
+        "classification"
+      ],
+      "path": "wiki\\concepts\\customer-churn.md"
+    },
+    "data-analytic-thinking": {
+      "type": "concept",
+      "title": "Data-Analytic Thinking",
+      "aliases": [
+        "Data-Analytic Thinking"
+      ],
+      "tags": [
+        "methodology",
+        "business-strategy",
+        "data-science"
+      ],
+      "path": "wiki\\concepts\\data-analytic-thinking.md"
+    },
+    "data-as-an-asset": {
+      "type": "concept",
+      "title": "Data as an Asset",
+      "aliases": [
+        "Data as an Asset"
+      ],
+      "tags": [
+        "data-strategy",
+        "business"
+      ],
+      "path": "wiki\\concepts\\data-as-an-asset.md"
+    },
+    "data-driven-investment-strategies": {
+      "type": "concept",
+      "title": "Data-Driven Investment Strategies",
+      "aliases": [
+        "Data-Driven Investment Strategies"
+      ],
+      "tags": [
+        "investment",
+        "data-science",
+        "fintech"
+      ],
+      "path": "wiki\\concepts\\data-driven-investment-strategies.md"
+    },
+    "data-ingestion-and-cleaning": {
+      "type": "concept",
+      "title": "Data Ingestion and Cleaning",
+      "aliases": [
+        "Data Ingestion and Cleaning"
+      ],
+      "tags": [
+        "data-science",
+        "data-preparation"
+      ],
+      "path": "wiki\\concepts\\data-ingestion-and-cleaning.md"
+    },
+    "data-mining": {
+      "type": "concept",
+      "title": "Data Mining",
+      "aliases": [
+        "Data Mining"
+      ],
+      "tags": [
+        "technique",
+        "data-analysis"
+      ],
+      "path": "wiki\\concepts\\data-mining.md"
+    },
+    "data-privacy-and-security": {
+      "type": "concept",
+      "title": "Data Privacy and Security",
+      "aliases": [
+        "Data Privacy and Security"
+      ],
+      "tags": [
+        "ethics",
+        "data-governance"
+      ],
+      "path": "wiki\\concepts\\data-privacy-and-security.md"
+    },
+    "data-science": {
+      "type": "concept",
+      "title": "Data Science",
+      "aliases": [
+        "Data Science"
+      ],
+      "tags": [
+        "data-analysis",
+        "business-intelligence",
+        "field",
+        "methodology"
+      ],
+      "path": "wiki\\concepts\\data-science.md"
+    },
+    "dataframe": {
+      "type": "concept",
+      "title": "Dataframe",
+      "aliases": [
+        "Dataframe"
+      ],
+      "tags": [
+        "data-structure",
+        "python"
+      ],
+      "path": "wiki\\concepts\\dataframe.md"
+    },
+    "digital-twins-of-ai-ceos": {
+      "type": "concept",
+      "title": "Digital Twins of AI CEOs",
+      "aliases": [
+        "Digital Twins of AI CEOs"
+      ],
+      "tags": [
+        "corporate-governance",
+        "ai-in-business",
+        "future-of-work"
+      ],
+      "path": "wiki\\concepts\\digital-twins-of-ai-ceos.md"
+    },
+    "discounted-cash-flow-analysis": {
+      "type": "concept",
+      "title": "Discounted Cash Flow Analysis",
+      "aliases": [
+        "Discounted Cash Flow Analysis"
+      ],
+      "tags": [
+        "finance",
+        "valuation",
+        "corporate-finance"
+      ],
+      "path": "wiki\\concepts\\discounted-cash-flow-analysis.md"
+    },
+    "displacement-of-labor-by-technology": {
+      "type": "concept",
+      "title": "Displacement of Labor by Technology",
+      "aliases": [
+        "Displacement of Labor by Technology"
+      ],
+      "tags": [
+        "economics",
+        "labor",
+        "technology-impact"
+      ],
+      "path": "wiki\\concepts\\displacement-of-labor-by-technology.md"
+    },
+    "dopamine-response-social-media": {
+      "type": "concept",
+      "title": "Dopamine Response (Social Media)",
+      "aliases": [
+        "Dopamine Response (Social Media)"
+      ],
+      "tags": [
+        "neuroscience",
+        "social-media",
+        "addiction"
+      ],
+      "path": "wiki\\concepts\\dopamine-response-social-media.md"
+    },
+    "echo-chambers-and-filter-bubbles": {
+      "type": "concept",
+      "title": "Echo Chambers and Filter Bubbles",
+      "aliases": [
+        "Echo Chambers and Filter Bubbles"
+      ],
+      "tags": [
+        "social-media",
+        "algorithms",
+        "societal-impact"
+      ],
+      "path": "wiki\\concepts\\echo-chambers-and-filter-bubbles.md"
+    },
+    "effort-to-cloak": {
+      "type": "concept",
+      "title": "Effort to Cloak",
+      "aliases": [
+        "Effort to Cloak"
+      ],
+      "tags": [
+        "metric",
+        "privacy",
+        "user-control"
+      ],
+      "path": "wiki\\concepts\\effort-to-cloak.md"
+    },
+    "equitable-compensation": {
+      "type": "concept",
+      "title": "Equitable Compensation",
+      "aliases": [
+        "Equitable Compensation"
+      ],
+      "tags": [
+        "ai-ethics",
+        "creator-economy",
+        "copyright-law"
+      ],
+      "path": "wiki\\concepts\\equitable-compensation.md"
+    },
+    "evidence-counterfactual": {
+      "type": "concept",
+      "title": "Evidence Counterfactual",
+      "aliases": [
+        "Evidence Counterfactual"
+      ],
+      "tags": [
+        "explainability",
+        "transparency",
+        "machine-learning",
+        "model-explainability",
+        "ai",
+        "data-analysis"
+      ],
+      "path": "wiki\\concepts\\evidence-counterfactual.md"
+    },
+    "expected-roi-framework": {
+      "type": "concept",
+      "title": "Expected ROI Framework",
+      "aliases": [
+        "Expected ROI Framework"
+      ],
+      "tags": [
+        "project-management",
+        "data-science-strategy"
+      ],
+      "path": "wiki\\concepts\\expected-roi-framework.md"
+    },
+    "expected-value-framework": {
+      "type": "concept",
+      "title": "Expected Value Framework",
+      "aliases": [
+        "Expected Value Framework"
+      ],
+      "tags": [
+        "data-science",
+        "project-evaluation",
+        "framework"
+      ],
+      "path": "wiki\\concepts\\expected-value-framework.md"
+    },
+    "experimentation": {
+      "type": "concept",
+      "title": "Experimentation",
+      "aliases": [
+        "Experimentation"
+      ],
+      "tags": [
+        "data-science",
+        "product-management"
+      ],
+      "path": "wiki\\concepts\\experimentation.md"
+    },
+    "expert-systems-paradigm": {
+      "type": "concept",
+      "title": "Expert Systems Paradigm",
+      "aliases": [
+        "Expert Systems Paradigm"
+      ],
+      "tags": [
+        "ai",
+        "history-of-ai",
+        "knowledge-representation"
+      ],
+      "path": "wiki\\concepts\\expert-systems-paradigm.md"
+    },
+    "expert-systems": {
+      "type": "concept",
+      "title": "Expert Systems",
+      "aliases": [
+        "Expert Systems"
+      ],
+      "tags": [
+        "ai-paradigm",
+        "history-of-ai"
+      ],
+      "path": "wiki\\concepts\\expert-systems.md"
+    },
+    "fair-use": {
+      "type": "concept",
+      "title": "Fair Use",
+      "aliases": [
+        "Fair Use"
+      ],
+      "tags": [
+        "copyright-law",
+        "legal-doctrine",
+        "intellectual-property",
+        "legal-defense"
+      ],
+      "path": "wiki\\concepts\\fair-use.md"
+    },
+    "fairness-aware-machine-learning": {
+      "type": "concept",
+      "title": "Fairness-Aware Machine Learning",
+      "aliases": [
+        "Fairness-Aware Machine Learning"
+      ],
+      "tags": [
+        "machine-learning",
+        "computer-science",
+        "ethics"
+      ],
+      "path": "wiki\\concepts\\fairness-aware-machine-learning.md"
+    },
+    "false-news-detection-for-users": {
+      "type": "concept",
+      "title": "False News Detection (for users)",
+      "aliases": [
+        "False News Detection (for users)"
+      ],
+      "tags": [
+        "media-literacy",
+        "misinformation",
+        "technique"
+      ],
+      "path": "wiki\\concepts\\false-news-detection-for-users.md"
+    },
+    "false-news": {
+      "type": "concept",
+      "title": "False News",
+      "aliases": [
+        "False News"
+      ],
+      "tags": [
+        "misinformation",
+        "social-media",
+        "information-theory"
+      ],
+      "path": "wiki\\concepts\\false-news.md"
+    },
+    "feature-engineering": {
+      "type": "concept",
+      "title": "Feature Engineering",
+      "aliases": [
+        "Feature Engineering"
+      ],
+      "tags": [
+        "data-science",
+        "machine-learning"
+      ],
+      "path": "wiki\\concepts\\feature-engineering.md"
+    },
+    "feed-algorithms": {
+      "type": "concept",
+      "title": "Feed Algorithms",
+      "aliases": [
+        "Feed Algorithms"
+      ],
+      "tags": [
+        "algorithms",
+        "social-media",
+        "recommender-systems"
+      ],
+      "path": "wiki\\concepts\\feed-algorithms.md"
+    },
+    "feedback-mechanisms-in-social-media": {
+      "type": "concept",
+      "title": "Feedback Mechanisms in Social Media",
+      "aliases": [
+        "Feedback Mechanisms in Social Media"
+      ],
+      "tags": [
+        "social-media",
+        "platform-design",
+        "information-quality"
+      ],
+      "path": "wiki\\concepts\\feedback-mechanisms-in-social-media.md"
+    },
+    "filter-bubbles-echo-chambers": {
+      "type": "concept",
+      "title": "Filter Bubbles / Echo Chambers",
+      "aliases": [
+        "Filter Bubbles / Echo Chambers"
+      ],
+      "tags": [
+        "social-media",
+        "information-theory"
+      ],
+      "path": "wiki\\concepts\\filter-bubbles-echo-chambers.md"
+    },
+    "fine-grained-behavior-data": {
+      "type": "concept",
+      "title": "Fine-grained Behavior Data",
+      "aliases": [
+        "Fine-grained Behavior Data"
+      ],
+      "tags": [
+        "data-type",
+        "analytics"
+      ],
+      "path": "wiki\\concepts\\fine-grained-behavior-data.md"
+    },
+    "fine-tuning": {
+      "type": "concept",
+      "title": "Fine-tuning",
+      "aliases": [
+        "Fine-tuning"
+      ],
+      "tags": [
+        "machine-learning",
+        "model-training"
+      ],
+      "path": "wiki\\concepts\\fine-tuning.md"
+    },
+    "four-levers-of-change": {
+      "type": "concept",
+      "title": "Four Levers of Change",
+      "aliases": [
+        "Four Levers of Change"
+      ],
+      "tags": [
+        "framework",
+        "regulation",
+        "technology-policy"
+      ],
+      "path": "wiki\\concepts\\four-levers-of-change.md"
+    },
+    "four-levers": {
+      "type": "concept",
+      "title": "Four Levers",
+      "aliases": [
+        "Four Levers"
+      ],
+      "tags": [
+        "framework",
+        "social-media",
+        "regulation"
+      ],
+      "path": "wiki\\concepts\\four-levers.md"
+    },
+    "friend-suggestion-algorithms": {
+      "type": "concept",
+      "title": "Friend Suggestion Algorithms (PYMK)",
+      "aliases": [
+        "Friend Suggestion Algorithms (PYMK)"
+      ],
+      "tags": [
+        "algorithms",
+        "social-networks",
+        "recommender-systems"
+      ],
+      "path": "wiki\\concepts\\friend-suggestion-algorithms.md"
+    },
+    "functional-music": {
+      "type": "concept",
+      "title": "Functional Music",
+      "aliases": [
+        "Functional Music"
+      ],
+      "tags": [
+        "ai-in-music",
+        "music-generation"
+      ],
+      "path": "wiki\\concepts\\functional-music.md"
+    },
+    "gartners-hype-cycle": {
+      "type": "concept",
+      "title": "Gartner's Hype Cycle",
+      "aliases": [
+        "Gartner's Hype Cycle"
+      ],
+      "tags": [
+        "model",
+        "framework",
+        "technology-assessment"
+      ],
+      "path": "wiki\\concepts\\gartners-hype-cycle.md"
+    },
+    "general-intelligence-ai": {
+      "type": "concept",
+      "title": "General Intelligence (AI)",
+      "aliases": [
+        "General Intelligence (AI)"
+      ],
+      "tags": [
+        "ai-paradigm",
+        "modern-ai"
+      ],
+      "path": "wiki\\concepts\\general-intelligence-ai.md"
+    },
+    "general-intelligence": {
+      "type": "concept",
+      "title": "General Intelligence",
+      "aliases": [
+        "General Intelligence"
+      ],
+      "tags": [
+        "ai-paradigm",
+        "modern-ai"
+      ],
+      "path": "wiki\\concepts\\general-intelligence.md"
+    },
+    "generative-ai": {
+      "type": "concept",
+      "title": "Generative AI",
+      "aliases": [
+        "Generative AI"
+      ],
+      "tags": [
+        "ai",
+        "creative-industry",
+        "technology"
+      ],
+      "path": "wiki\\concepts\\generative-ai.md"
+    },
+    "human-machine-intelligence-systems": {
+      "type": "concept",
+      "title": "Human+Machine Intelligence Systems",
+      "aliases": [
+        "Human+Machine Intelligence Systems"
+      ],
+      "tags": [
+        "ai-systems",
+        "crowdsourcing",
+        "research"
+      ],
+      "path": "wiki\\concepts\\human-machine-intelligence-systems.md"
+    },
+    "hype-machine-concept": {
+      "type": "concept",
+      "title": "Hype Machine (Concept)",
+      "aliases": [
+        "Hype Machine (Concept)"
+      ],
+      "tags": [
+        "social-media",
+        "business-model"
+      ],
+      "path": "wiki\\concepts\\hype-machine-concept.md"
+    },
+    "hype-machine": {
+      "type": "entity",
+      "title": "Hype Machine",
+      "aliases": [
+        "Hype Machine"
+      ],
+      "tags": [
+        "social-media",
+        "information-ecosystem",
+        "misinformation"
+      ],
+      "path": "wiki\\entities\\hype-machine.md"
+    },
+    "hyper-socialization": {
+      "type": "concept",
+      "title": "Hyper Socialization",
+      "aliases": [
+        "Hyper Socialization"
+      ],
+      "tags": [
+        "neuroscience",
+        "sociology",
+        "social-psychology",
+        "social-dynamics",
+        "algorithmic-influence"
+      ],
+      "path": "wiki\\concepts\\hyper-socialization.md"
+    },
+    "image-forming-defensive-mechanism": {
+      "type": "concept",
+      "title": "Image Forming Defensive Mechanism",
+      "aliases": [
+        "Image Forming Defensive Mechanism"
+      ],
+      "tags": [
+        "philosophy",
+        "psychology",
+        "social-media"
+      ],
+      "path": "wiki\\concepts\\image-forming-defensive-mechanism.md"
+    },
+    "imbalanced-data": {
+      "type": "concept",
+      "title": "Imbalanced Data",
+      "aliases": [
+        "Imbalanced Data"
+      ],
+      "tags": [
+        "data-characteristic",
+        "model-evaluation"
+      ],
+      "path": "wiki\\concepts\\imbalanced-data.md"
+    },
+    "independence-assumption-in-naive-bayes": {
+      "type": "concept",
+      "title": "Independence Assumption (in Naive Bayes)",
+      "aliases": [
+        "Independence Assumption (in Naive Bayes)"
+      ],
+      "tags": [
+        "statistical-assumption",
+        "machine-learning"
+      ],
+      "path": "wiki\\concepts\\independence-assumption-in-naive-bayes.md"
+    },
+    "influencers": {
+      "type": "concept",
+      "title": "Influencers",
+      "aliases": [
+        "Influencers"
+      ],
+      "tags": [
+        "social-media",
+        "social-influence"
+      ],
+      "path": "wiki\\concepts\\influencers.md"
+    },
+    "innovators-dilemma": {
+      "type": "concept",
+      "title": "Innovator's Dilemma",
+      "aliases": [
+        "Innovator's Dilemma"
+      ],
+      "tags": [
+        "business-strategy",
+        "technology-adoption"
+      ],
+      "path": "wiki\\concepts\\innovators-dilemma.md"
+    },
+    "instance-level-classification-explanation": {
+      "type": "concept",
+      "title": "Instance-Level Classification Explanation",
+      "aliases": [
+        "Instance-Level Classification Explanation"
+      ],
+      "tags": [
+        "explainability",
+        "machine-learning",
+        "transparency"
+      ],
+      "path": "wiki\\concepts\\instance-level-classification-explanation.md"
+    },
+    "interoperability-and-portability": {
+      "type": "concept",
+      "title": "Interoperability and Portability",
+      "aliases": [
+        "Interoperability and Portability"
+      ],
+      "tags": [
+        "regulation",
+        "technology-policy",
+        "competition"
+      ],
+      "path": "wiki\\concepts\\interoperability-and-portability.md"
+    },
+    "interoperability": {
+      "type": "concept",
+      "title": "Interoperability",
+      "aliases": [
+        "Interoperability"
+      ],
+      "tags": [
+        "technology",
+        "regulation",
+        "standards"
+      ],
+      "path": "wiki\\concepts\\interoperability.md"
+    },
+    "interpretable-machine-learning": {
+      "type": "concept",
+      "title": "Interpretable Machine Learning",
+      "aliases": [
+        "Interpretable Machine Learning"
+      ],
+      "tags": [
+        "machine-learning",
+        "responsible-ai"
+      ],
+      "path": "wiki\\concepts\\interpretable-machine-learning.md"
+    },
+    "k-nearest-neighbors": {
+      "type": "concept",
+      "title": "K-Nearest Neighbors (KNN)",
+      "aliases": [
+        "K-Nearest Neighbors (KNN)"
+      ],
+      "tags": [
+        "machine-learning",
+        "classification-algorithm"
+      ],
+      "path": "wiki\\concepts\\k-nearest-neighbors.md"
+    },
+    "large-language-models": {
+      "type": "concept",
+      "title": "Large Language Models",
+      "aliases": [
+        "Large Language Models"
+      ],
+      "tags": [
+        "generative-ai",
+        "ai-model"
+      ],
+      "path": "wiki\\concepts\\large-language-models.md"
+    },
+    "leakage": {
+      "type": "concept",
+      "title": "Leakage",
+      "aliases": [
+        "Leakage"
+      ],
+      "tags": [
+        "data-science",
+        "model-evaluation",
+        "pitfall"
+      ],
+      "path": "wiki\\concepts\\leakage.md"
+    },
+    "learning-curve": {
+      "type": "concept",
+      "title": "Learning Curve",
+      "aliases": [
+        "Learning Curve"
+      ],
+      "tags": [
+        "tool",
+        "analytics",
+        "machine-learning"
+      ],
+      "path": "wiki\\concepts\\learning-curve.md"
+    },
+    "learning-with-machines": {
+      "type": "concept",
+      "title": "Learning with Machines",
+      "aliases": [
+        "Learning with Machines"
+      ],
+      "tags": [
+        "education",
+        "artificial-intelligence",
+        "pedagogy"
+      ],
+      "path": "wiki\\concepts\\learning-with-machines.md"
+    },
+    "likely-to-sell-model": {
+      "type": "concept",
+      "title": "Likely to Sell Model",
+      "aliases": [
+        "Likely to Sell Model"
+      ],
+      "tags": [
+        "machine-learning",
+        "predictive-analytics",
+        "real-estate"
+      ],
+      "path": "wiki\\concepts\\likely-to-sell-model.md"
+    },
+    "likeness-rights": {
+      "type": "concept",
+      "title": "Likeness Rights",
+      "aliases": [
+        "Likeness Rights"
+      ],
+      "tags": [
+        "legal",
+        "intellectual-property",
+        "ai-ethics"
+      ],
+      "path": "wiki\\concepts\\likeness-rights.md"
+    },
+    "linear-regression": {
+      "type": "concept",
+      "title": "Linear Regression",
+      "aliases": [
+        "Linear Regression"
+      ],
+      "tags": [
+        "machine-learning",
+        "modeling"
+      ],
+      "path": "wiki\\concepts\\linear-regression.md"
+    },
+    "loan-default": {
+      "type": "concept",
+      "title": "Loan Default",
+      "aliases": [
+        "Loan Default"
+      ],
+      "tags": [
+        "finance",
+        "risk-management",
+        "lending"
+      ],
+      "path": "wiki\\concepts\\loan-default.md"
+    },
+    "logistic-regression": {
+      "type": "concept",
+      "title": "Logistic Regression",
+      "aliases": [
+        "Logistic Regression"
+      ],
+      "tags": [
+        "machine-learning",
+        "modeling"
+      ],
+      "path": "wiki\\concepts\\logistic-regression.md"
+    },
+    "lrsdv-model": {
+      "type": "concept",
+      "title": "LRSVD Model (Linear Logistic Regression Singular-Value Decomposition)",
+      "aliases": [
+        "LRSVD Model (Linear Logistic Regression Singular-Value Decomposition)"
+      ],
+      "tags": [
+        "machine-learning-model",
+        "logistic-regression",
+        "svd"
+      ],
+      "path": "wiki\\concepts\\lrsdv-model.md"
+    },
+    "machine-learning-algorithms": {
+      "type": "concept",
+      "title": "Machine Learning Algorithms",
+      "aliases": [
+        "Machine Learning Algorithms"
+      ],
+      "tags": [
+        "machine-learning",
+        "ai"
+      ],
+      "path": "wiki\\concepts\\machine-learning-algorithms.md"
+    },
+    "machine-learning": {
+      "type": "concept",
+      "title": "Machine Learning",
+      "aliases": [
+        "Machine Learning"
+      ],
+      "tags": [
+        "ai-paradigm",
+        "data-science"
+      ],
+      "path": "wiki\\concepts\\machine-learning.md"
+    },
+    "machine-programmed-ai": {
+      "type": "concept",
+      "title": "Machine-Programmed AI",
+      "aliases": [
+        "Machine-Programmed AI"
+      ],
+      "tags": [
+        "machine-learning",
+        "ai-development",
+        "explainable-ai"
+      ],
+      "path": "wiki\\concepts\\machine-programmed-ai.md"
+    },
+    "market-effect": {
+      "type": "concept",
+      "title": "Market Effect",
+      "aliases": [
+        "Market Effect"
+      ],
+      "tags": [
+        "copyright-law",
+        "legal-principle",
+        "economics"
+      ],
+      "path": "wiki\\concepts\\market-effect.md"
+    },
+    "media-literacy": {
+      "type": "concept",
+      "title": "Media Literacy",
+      "aliases": [
+        "Media Literacy"
+      ],
+      "tags": [
+        "education",
+        "critical-thinking",
+        "misinformation"
+      ],
+      "path": "wiki\\concepts\\media-literacy.md"
+    },
+    "model-explainability": {
+      "type": "concept",
+      "title": "Model Explainability",
+      "aliases": [
+        "Model Explainability"
+      ],
+      "tags": [
+        "concept",
+        "machine-learning",
+        "model-management"
+      ],
+      "path": "wiki\\concepts\\model-explainability.md"
+    },
+    "model-to-pick-a-model": {
+      "type": "concept",
+      "title": "Model to Pick a Model",
+      "aliases": [
+        "Model to Pick a Model"
+      ],
+      "tags": [
+        "machine-learning",
+        "personalization",
+        "uplift-modeling"
+      ],
+      "path": "wiki\\concepts\\model-to-pick-a-model.md"
+    },
+    "modern-ai-chatbots": {
+      "type": "concept",
+      "title": "Modern AI Chatbots",
+      "aliases": [
+        "Modern AI Chatbots"
+      ],
+      "tags": [
+        "ai",
+        "nlp",
+        "conversational-ai"
+      ],
+      "path": "wiki\\concepts\\modern-ai-chatbots.md"
+    },
+    "multimodal-models": {
+      "type": "concept",
+      "title": "Multimodal Models",
+      "aliases": [
+        "Multimodal Models"
+      ],
+      "tags": [
+        "ai",
+        "machine-learning"
+      ],
+      "path": "wiki\\concepts\\multimodal-models.md"
+    },
+    "music-sampling": {
+      "type": "concept",
+      "title": "Music Sampling",
+      "aliases": [
+        "Music Sampling"
+      ],
+      "tags": [
+        "music-production",
+        "copyright"
+      ],
+      "path": "wiki\\concepts\\music-sampling.md"
+    },
+    "naive-bayes": {
+      "type": "concept",
+      "title": "Naive Bayes",
+      "aliases": [
+        "Naive Bayes"
+      ],
+      "tags": [
+        "machine-learning",
+        "classification-algorithm"
+      ],
+      "path": "wiki\\concepts\\naive-bayes.md"
+    },
+    "natural-experiment": {
+      "type": "concept",
+      "title": "Natural Experiment",
+      "aliases": [
+        "Natural Experiment"
+      ],
+      "tags": [
+        "experimentation",
+        "causality"
+      ],
+      "path": "wiki\\concepts\\natural-experiment.md"
+    },
+    "network-effects": {
+      "type": "concept",
+      "title": "Network Effects",
+      "aliases": [
+        "Network Effects"
+      ],
+      "tags": [
+        "economics",
+        "market-dynamics",
+        "social-media"
+      ],
+      "path": "wiki\\concepts\\network-effects.md"
+    },
+    "neural-network-based-ai": {
+      "type": "concept",
+      "title": "Neural Network-Based AI",
+      "aliases": [
+        "Neural Network-Based AI"
+      ],
+      "tags": [
+        "artificial-intelligence",
+        "machine-learning",
+        "llm"
+      ],
+      "path": "wiki\\concepts\\neural-network-based-ai.md"
+    },
+    "neural-precursors-to-behavior-change": {
+      "type": "concept",
+      "title": "Neural Precursors to Behavior Change",
+      "aliases": [
+        "Neural Precursors to Behavior Change"
+      ],
+      "tags": [
+        "neuroscience",
+        "psychology",
+        "persuasion"
+      ],
+      "path": "wiki\\concepts\\neural-precursors-to-behavior-change.md"
+    },
+    "news-feed-algorithms": {
+      "type": "concept",
+      "title": "News Feed Algorithms",
+      "aliases": [
+        "News Feed Algorithms"
+      ],
+      "tags": [
+        "algorithms",
+        "social-media",
+        "content-curation"
+      ],
+      "path": "wiki\\concepts\\news-feed-algorithms.md"
+    },
+    "non-parametric-algorithms": {
+      "type": "concept",
+      "title": "Non-parametric Algorithms",
+      "aliases": [
+        "Non-parametric Algorithms"
+      ],
+      "tags": [
+        "machine-learning",
+        "algorithm-type"
+      ],
+      "path": "wiki\\concepts\\non-parametric-algorithms.md"
+    },
+    "objectionable-bias": {
+      "type": "concept",
+      "title": "Objectionable Bias",
+      "aliases": [
+        "Objectionable Bias"
+      ],
+      "tags": [
+        "machine-learning",
+        "ethics",
+        "data-bias"
+      ],
+      "path": "wiki\\concepts\\objectionable-bias.md"
+    },
+    "online-advertising-attribution": {
+      "type": "concept",
+      "title": "Online Advertising Attribution",
+      "aliases": [
+        "Online Advertising Attribution"
+      ],
+      "tags": [
+        "domain-knowledge",
+        "marketing-analytics"
+      ],
+      "path": "wiki\\concepts\\online-advertising-attribution.md"
+    },
+    "oversampling": {
+      "type": "concept",
+      "title": "Oversampling",
+      "aliases": [
+        "Oversampling"
+      ],
+      "tags": [
+        "data-preprocessing",
+        "sampling"
+      ],
+      "path": "wiki\\concepts\\oversampling.md"
+    },
+    "paradigm-shifts-in-ai": {
+      "type": "concept",
+      "title": "Paradigm Shifts in AI",
+      "aliases": [
+        "Paradigm Shifts in AI"
+      ],
+      "tags": [
+        "ai-theory",
+        "history-of-ai"
+      ],
+      "path": "wiki\\concepts\\paradigm-shifts-in-ai.md"
+    },
+    "peer-to-peer-lending": {
+      "type": "concept",
+      "title": "Peer-to-Peer Lending",
+      "aliases": [
+        "Peer-to-Peer Lending"
+      ],
+      "tags": [
+        "fintech",
+        "lending",
+        "investment"
+      ],
+      "path": "wiki\\concepts\\peer-to-peer-lending.md"
+    },
+    "persuasion-machine": {
+      "type": "concept",
+      "title": "Persuasion Machine",
+      "aliases": [
+        "Persuasion Machine"
+      ],
+      "tags": [
+        "social-media",
+        "influence",
+        "marketing"
+      ],
+      "path": "wiki\\concepts\\persuasion-machine.md"
+    },
+    "political-polarization": {
+      "type": "concept",
+      "title": "Political Polarization",
+      "aliases": [
+        "Political Polarization"
+      ],
+      "tags": [
+        "political-science",
+        "social-dynamics"
+      ],
+      "path": "wiki\\concepts\\political-polarization.md"
+    },
+    "predicting-loan-default": {
+      "type": "concept",
+      "title": "Predicting Loan Default",
+      "aliases": [
+        "Predicting Loan Default"
+      ],
+      "tags": [
+        "predictive-analytics",
+        "finance",
+        "risk-management"
+      ],
+      "path": "wiki\\concepts\\predicting-loan-default.md"
+    },
+    "predictive-analytics": {
+      "type": "concept",
+      "title": "Predictive Analytics",
+      "aliases": [
+        "Predictive Analytics"
+      ],
+      "tags": [
+        "data-science",
+        "machine-learning",
+        "analytics"
+      ],
+      "path": "wiki\\concepts\\predictive-analytics.md"
+    },
+    "predictive-modeling": {
+      "type": "concept",
+      "title": "Predictive Modeling",
+      "aliases": [
+        "Predictive Modeling"
+      ],
+      "tags": [
+        "data-science",
+        "machine-learning",
+        "inference"
+      ],
+      "path": "wiki\\concepts\\predictive-modeling.md"
+    },
+    "predictive-models-in-music-industry": {
+      "type": "concept",
+      "title": "Predictive Models in the Music Industry",
+      "aliases": [
+        "Predictive Models in the Music Industry"
+      ],
+      "tags": [
+        "predictive-modeling",
+        "ai",
+        "music-industry",
+        "data-analysis"
+      ],
+      "path": "wiki\\concepts\\predictive-models-in-music-industry.md"
+    },
+    "predictive-models-in-music": {
+      "type": "concept",
+      "title": "Predictive Models in Music",
+      "aliases": [
+        "Predictive Models in Music"
+      ],
+      "tags": [
+        "ai",
+        "music-industry",
+        "data-analytics"
+      ],
+      "path": "wiki\\concepts\\predictive-models-in-music.md"
+    },
+    "privacy": {
+      "type": "concept",
+      "title": "Privacy",
+      "aliases": [
+        "Privacy"
+      ],
+      "tags": [
+        "policy",
+        "regulation",
+        "ethics"
+      ],
+      "path": "wiki\\concepts\\privacy.md"
+    },
+    "probabilistic-roi-framework": {
+      "type": "concept",
+      "title": "Probabilistic ROI Framework",
+      "aliases": [
+        "Probabilistic ROI Framework"
+      ],
+      "tags": [
+        "project-evaluation",
+        "roi-calculation",
+        "machine-learning"
+      ],
+      "path": "wiki\\concepts\\probabilistic-roi-framework.md"
+    },
+    "quasi-experiment": {
+      "type": "concept",
+      "title": "Quasi-Experiment",
+      "aliases": [
+        "Quasi-Experiment"
+      ],
+      "tags": [
+        "experimentation",
+        "causality"
+      ],
+      "path": "wiki\\concepts\\quasi-experiment.md"
+    },
+    "reinforcement-learning": {
+      "type": "concept",
+      "title": "Reinforcement Learning",
+      "aliases": [
+        "Reinforcement Learning"
+      ],
+      "tags": [
+        "machine-learning",
+        "ai"
+      ],
+      "path": "wiki\\concepts\\reinforcement-learning.md"
+    },
+    "reskilling": {
+      "type": "concept",
+      "title": "Reskilling",
+      "aliases": [
+        "Reskilling"
+      ],
+      "tags": [
+        "labor",
+        "education",
+        "policy"
+      ],
+      "path": "wiki\\concepts\\reskilling.md"
+    },
+    "response-inhibition": {
+      "type": "concept",
+      "title": "Response Inhibition",
+      "aliases": [
+        "Response Inhibition"
+      ],
+      "tags": [
+        "neuroscience",
+        "psychology",
+        "social-media-effects"
+      ],
+      "path": "wiki\\concepts\\response-inhibition.md"
+    },
+    "return-on-investment": {
+      "type": "concept",
+      "title": "Return on Investment",
+      "aliases": [
+        "Return on Investment"
+      ],
+      "tags": [
+        "finance",
+        "performance-metric"
+      ],
+      "path": "wiki\\concepts\\return-on-investment.md"
+    },
+    "roc-curve": {
+      "type": "concept",
+      "title": "ROC Curve",
+      "aliases": [
+        "ROC Curve"
+      ],
+      "tags": [
+        "machine-learning",
+        "evaluation-metric",
+        "data-visualization",
+        "model-evaluation",
+        "classification"
+      ],
+      "path": "wiki\\concepts\\roc-curve.md"
+    },
+    "rule-based-expert-systems": {
+      "type": "concept",
+      "title": "Rule-Based Expert Systems",
+      "aliases": [
+        "Rule-Based Expert Systems"
+      ],
+      "tags": [
+        "ai-paradigm",
+        "history-of-ai"
+      ],
+      "path": "wiki\\concepts\\rule-based-expert-systems.md"
+    },
+    "russian-interference-2016-election": {
+      "type": "concept",
+      "title": "Russian Interference in 2016 Election",
+      "aliases": [
+        "Russian Interference in 2016 Election"
+      ],
+      "tags": [
+        "political-science",
+        "social-media",
+        "disinformation"
+      ],
+      "path": "wiki\\concepts\\russian-interference-2016-election.md"
+    },
+    "sampling-music": {
+      "type": "concept",
+      "title": "Sampling (Music)",
+      "aliases": [
+        "Sampling (Music)"
+      ],
+      "tags": [
+        "music-production",
+        "copyright",
+        "business-model"
+      ],
+      "path": "wiki\\concepts\\sampling-music.md"
+    },
+    "scatter-plot": {
+      "type": "concept",
+      "title": "Scatter Plot",
+      "aliases": [
+        "Scatter Plot"
+      ],
+      "tags": [
+        "data-visualization",
+        "chart-type"
+      ],
+      "path": "wiki\\concepts\\scatter-plot.md"
+    },
+    "selection-bias": {
+      "type": "concept",
+      "title": "Selection Bias",
+      "aliases": [
+        "Selection Bias"
+      ],
+      "tags": [
+        "statistics",
+        "confounding"
+      ],
+      "path": "wiki\\concepts\\selection-bias.md"
+    },
+    "short-term-engagement-model": {
+      "type": "concept",
+      "title": "Short-term Engagement Model",
+      "aliases": [
+        "Short-term Engagement Model"
+      ],
+      "tags": [
+        "business-models",
+        "social-media",
+        "corporate-strategy"
+      ],
+      "path": "wiki\\concepts\\short-term-engagement-model.md"
+    },
+    "skill-bias-technical-change": {
+      "type": "concept",
+      "title": "Skill Bias Technical Change",
+      "aliases": [
+        "Skill Bias Technical Change"
+      ],
+      "tags": [
+        "economics",
+        "labor-economics",
+        "automation",
+        "ai"
+      ],
+      "path": "wiki\\concepts\\skill-bias-technical-change.md"
+    },
+    "skill-biased-technical-change": {
+      "type": "concept",
+      "title": "Skill-Biased Technical Change",
+      "aliases": [
+        "Skill-Biased Technical Change"
+      ],
+      "tags": [
+        "economics",
+        "labor-economics"
+      ],
+      "path": "wiki\\concepts\\skill-biased-technical-change.md"
+    },
+    "slight-edge-in-finance": {
+      "type": "concept",
+      "title": "Slight Edge (in finance)",
+      "aliases": [
+        "Slight Edge (in finance)"
+      ],
+      "tags": [
+        "finance",
+        "strategy"
+      ],
+      "path": "wiki\\concepts\\slight-edge-in-finance.md"
+    },
+    "social-validation": {
+      "type": "concept",
+      "title": "Social Validation",
+      "aliases": [
+        "Social Validation"
+      ],
+      "tags": [
+        "psychology",
+        "social-media",
+        "engagement"
+      ],
+      "path": "wiki\\concepts\\social-validation.md"
+    },
+    "sparse-data": {
+      "type": "concept",
+      "title": "Sparse Data",
+      "aliases": [
+        "Sparse Data"
+      ],
+      "tags": [
+        "data-characteristic",
+        "machine-learning"
+      ],
+      "path": "wiki\\concepts\\sparse-data.md"
+    },
+    "spread-of-falsity": {
+      "type": "concept",
+      "title": "Spread of Falsity",
+      "aliases": [
+        "Spread of Falsity"
+      ],
+      "tags": [
+        "misinformation",
+        "social-media",
+        "network-science"
+      ],
+      "path": "wiki\\concepts\\spread-of-falsity.md"
+    },
+    "statistical-inference-on-social-media-data": {
+      "type": "concept",
+      "title": "Statistical Inference on Social Media Data",
+      "aliases": [
+        "Statistical Inference on Social Media Data"
+      ],
+      "tags": [
+        "data-science",
+        "social-media",
+        "predictive-modeling"
+      ],
+      "path": "wiki\\concepts\\statistical-inference-on-social-media-data.md"
+    },
+    "structural-reform-of-social-media": {
+      "type": "concept",
+      "title": "Structural Reform of Social Media",
+      "aliases": [
+        "Structural Reform of Social Media"
+      ],
+      "tags": [
+        "regulation",
+        "policy",
+        "social-media"
+      ],
+      "path": "wiki\\concepts\\structural-reform-of-social-media.md"
+    },
+    "substitution-ai-in-creative-work": {
+      "type": "concept",
+      "title": "Substitution (AI in creative work)",
+      "aliases": [
+        "Substitution (AI in creative work)"
+      ],
+      "tags": [
+        "ai-ethics",
+        "creative-industry",
+        "labor"
+      ],
+      "path": "wiki\\concepts\\substitution-ai-in-creative-work.md"
+    },
+    "supervised-learning": {
+      "type": "concept",
+      "title": "Supervised Learning",
+      "aliases": [
+        "Supervised Learning"
+      ],
+      "tags": [
+        "machine-learning"
+      ],
+      "path": "wiki\\concepts\\supervised-learning.md"
+    },
+    "supervised-machine-learning": {
+      "type": "concept",
+      "title": "Supervised Machine Learning",
+      "aliases": [
+        "Supervised Machine Learning"
+      ],
+      "tags": [
+        "machine-learning"
+      ],
+      "path": "wiki\\concepts\\supervised-machine-learning.md"
+    },
+    "synthetic-voices": {
+      "type": "concept",
+      "title": "Synthetic Voices",
+      "aliases": [
+        "Synthetic Voices"
+      ],
+      "tags": [
+        "ai",
+        "music-technology",
+        "ethics"
+      ],
+      "path": "wiki\\concepts\\synthetic-voices.md"
+    },
+    "techno-dystopianism": {
+      "type": "concept",
+      "title": "Techno-dystopianism",
+      "aliases": [
+        "Techno-dystopianism"
+      ],
+      "tags": [
+        "philosophy-of-technology",
+        "social-criticism"
+      ],
+      "path": "wiki\\concepts\\techno-dystopianism.md"
+    },
+    "techno-utopianism": {
+      "type": "concept",
+      "title": "Techno-utopianism",
+      "aliases": [
+        "Techno-utopianism"
+      ],
+      "tags": [
+        "philosophy-of-technology",
+        "social-criticism"
+      ],
+      "path": "wiki\\concepts\\techno-utopianism.md"
+    },
+    "the-explanation-trick": {
+      "type": "concept",
+      "title": "The Explanation Trick",
+      "aliases": [
+        "The Explanation Trick"
+      ],
+      "tags": [
+        "technique",
+        "model-explainability"
+      ],
+      "path": "wiki\\concepts\\the-explanation-trick.md"
+    },
+    "the-hype-machine-concept": {
+      "type": "concept",
+      "title": "The Hype Machine (concept)",
+      "aliases": [
+        "The Hype Machine (concept)"
+      ],
+      "tags": [
+        "social-media",
+        "business-model",
+        "engagement"
+      ],
+      "path": "wiki\\concepts\\the-hype-machine-concept.md"
+    },
+    "the-persuasion-machine": {
+      "type": "concept",
+      "title": "The Persuasion Machine",
+      "aliases": [
+        "The Persuasion Machine"
+      ],
+      "tags": [
+        "ai-systems",
+        "machine-learning",
+        "social-media"
+      ],
+      "path": "wiki\\concepts\\the-persuasion-machine.md"
+    },
+    "theoretical-causal-model": {
+      "type": "concept",
+      "title": "Theoretical Causal Model",
+      "aliases": [
+        "Theoretical Causal Model"
+      ],
+      "tags": [
+        "modeling",
+        "causal-inference",
+        "data-strategy"
+      ],
+      "path": "wiki\\concepts\\theoretical-causal-model.md"
+    },
+    "train-test-split": {
+      "type": "concept",
+      "title": "Train-Test Split",
+      "aliases": [
+        "Train-Test Split"
+      ],
+      "tags": [
+        "model-validation",
+        "data-preparation"
+      ],
+      "path": "wiki\\concepts\\train-test-split.md"
+    },
+    "training-data-provenance": {
+      "type": "concept",
+      "title": "Training Data Provenance",
+      "aliases": [
+        "Training Data Provenance"
+      ],
+      "tags": [
+        "ai-auditing",
+        "data-governance"
+      ],
+      "path": "wiki\\concepts\\training-data-provenance.md"
+    },
+    "training-on-publicly-available-material": {
+      "type": "concept",
+      "title": "Training on Publicly Available Material",
+      "aliases": [
+        "Training on Publicly Available Material"
+      ],
+      "tags": [
+        "ai",
+        "copyright",
+        "data-sourcing"
+      ],
+      "path": "wiki\\concepts\\training-on-publicly-available-material.md"
+    },
+    "transformative-test": {
+      "type": "concept",
+      "title": "Transformative Test",
+      "aliases": [
+        "Transformative Test"
+      ],
+      "tags": [
+        "legal-concept",
+        "copyright"
+      ],
+      "path": "wiki\\concepts\\transformative-test.md"
+    },
+    "transformative-use": {
+      "type": "concept",
+      "title": "Transformative Use",
+      "aliases": [
+        "Transformative Use"
+      ],
+      "tags": [
+        "copyright-law",
+        "legal-principle"
+      ],
+      "path": "wiki\\concepts\\transformative-use.md"
+    },
+    "transformer-architecture": {
+      "type": "concept",
+      "title": "Transformer Architecture",
+      "aliases": [
+        "Transformer Architecture"
+      ],
+      "tags": [
+        "ai-technique",
+        "deep-learning",
+        "nlp"
+      ],
+      "path": "wiki\\concepts\\transformer-architecture.md"
+    },
+    "trust-in-ai": {
+      "type": "concept",
+      "title": "Trust in AI",
+      "aliases": [
+        "Trust in AI"
+      ],
+      "tags": [
+        "ai",
+        "ai-ethics",
+        "human-computer-interaction",
+        "automation"
+      ],
+      "path": "wiki\\concepts\\trust-in-ai.md"
+    },
+    "undersampling": {
+      "type": "concept",
+      "title": "Undersampling",
+      "aliases": [
+        "Undersampling"
+      ],
+      "tags": [
+        "data-preprocessing",
+        "sampling"
+      ],
+      "path": "wiki\\concepts\\undersampling.md"
+    },
+    "unsupervised-learning": {
+      "type": "concept",
+      "title": "Unsupervised Learning",
+      "aliases": [
+        "Unsupervised Learning"
+      ],
+      "tags": [
+        "machine-learning"
+      ],
+      "path": "wiki\\concepts\\unsupervised-learning.md"
+    },
+    "valuation-thesis": {
+      "type": "concept",
+      "title": "Valuation Thesis",
+      "aliases": [
+        "Valuation Thesis"
+      ],
+      "tags": [
+        "finance",
+        "valuation",
+        "investment"
+      ],
+      "path": "wiki\\concepts\\valuation-thesis.md"
+    },
+    "variance-in-machine-learning": {
+      "type": "concept",
+      "title": "Variance (in Machine Learning)",
+      "aliases": [
+        "Variance (in Machine Learning)"
+      ],
+      "tags": [
+        "machine-learning",
+        "model-error"
+      ],
+      "path": "wiki\\concepts\\variance-in-machine-learning.md"
+    },
+    "voice-fakes": {
+      "type": "concept",
+      "title": "Voice Fakes",
+      "aliases": [
+        "Voice Fakes"
+      ],
+      "tags": [
+        "generative-ai",
+        "synthetic-media",
+        "voice-synthesis"
+      ],
+      "path": "wiki\\concepts\\voice-fakes.md"
+    },
+    "voice-forensics": {
+      "type": "concept",
+      "title": "Voice Forensics",
+      "aliases": [
+        "Voice Forensics"
+      ],
+      "tags": [
+        "ai",
+        "security",
+        "audio-analysis"
+      ],
+      "path": "wiki\\concepts\\voice-forensics.md"
+    },
+    "voice-synthesis": {
+      "type": "concept",
+      "title": "Voice Synthesis",
+      "aliases": [
+        "Voice Synthesis"
+      ],
+      "tags": [
+        "ai",
+        "audio-technology",
+        "intellectual-property"
+      ],
+      "path": "wiki\\concepts\\voice-synthesis.md"
+    },
+    "vote-choice-social-media-influence": {
+      "type": "concept",
+      "title": "Vote Choice (Social Media Influence)",
+      "aliases": [
+        "Vote Choice (Social Media Influence)"
+      ],
+      "tags": [
+        "political-science",
+        "social-media",
+        "behavioral-science"
+      ],
+      "path": "wiki\\concepts\\vote-choice-social-media-influence.md"
+    },
+    "voter-turnout-social-media-influence": {
+      "type": "concept",
+      "title": "Voter Turnout (Social Media Influence)",
+      "aliases": [
+        "Voter Turnout (Social Media Influence)"
+      ],
+      "tags": [
+        "political-science",
+        "social-media",
+        "behavioral-science"
+      ],
+      "path": "wiki\\concepts\\voter-turnout-social-media-influence.md"
+    },
+    "walled-gardens": {
+      "type": "concept",
+      "title": "Walled Gardens",
+      "aliases": [
+        "Walled Gardens"
+      ],
+      "tags": [
+        "business-model",
+        "technology",
+        "competition"
+      ],
+      "path": "wiki\\concepts\\walled-gardens.md"
+    },
+    "wisdom-of-crowds": {
+      "type": "concept",
+      "title": "Wisdom of Crowds",
+      "aliases": [
+        "Wisdom of Crowds"
+      ],
+      "tags": [
+        "social-theory",
+        "collective-intelligence",
+        "social-dynamics",
+        "information-theory",
+        "social-media"
+      ],
+      "path": "wiki\\concepts\\wisdom-of-crowds.md"
+    },
+    "american-pie-song": {
+      "type": "entity",
+      "title": "American Pie (song)",
+      "aliases": [
+        "American Pie (song)"
+      ],
+      "tags": [
+        "song",
+        "copyright-infringement",
+        "legal-evidence"
+      ],
+      "path": "wiki\\entities\\american-pie-song.md"
+    },
+    "amper-music": {
+      "type": "entity",
+      "title": "Amper Music",
+      "aliases": [
+        "Amper Music"
+      ],
+      "tags": [
+        "startup",
+        "ai-in-music",
+        "company"
+      ],
+      "path": "wiki\\entities\\amper-music.md"
+    },
+    "andreessen-horowitz": {
+      "type": "entity",
+      "title": "Andreessen Horowitz",
+      "aliases": [
+        "Andreessen Horowitz"
+      ],
+      "tags": [
+        "venture-capital",
+        "tech-investment",
+        "institution"
+      ],
+      "path": "wiki\\entities\\andreessen-horowitz.md"
+    },
+    "andy-warhol-case": {
+      "type": "entity",
+      "title": "Andy Warhol case",
+      "aliases": [
+        "Andy Warhol case"
+      ],
+      "tags": [
+        "legal-case",
+        "copyright-law",
+        "fair-use"
+      ],
+      "path": "wiki\\entities\\andy-warhol-case.md"
+    },
+    "anthropic-ai-company": {
+      "type": "entity",
+      "title": "Anthropic (AI Company)",
+      "aliases": [
+        "Anthropic (AI Company)"
+      ],
+      "tags": [
+        "company",
+        "artificial-intelligence",
+        "legal-case"
+      ],
+      "path": "wiki\\entities\\anthropic-ai-company.md"
+    },
+    "aswath-damodaran": {
+      "type": "entity",
+      "title": "Aswath Damodaran",
+      "aliases": [
+        "Aswath Damodaran"
+      ],
+      "tags": [
+        "academic",
+        "finance-expert",
+        "author"
+      ],
+      "path": "wiki\\entities\\aswath-damodaran.md"
+    },
+    "auto-tune": {
+      "type": "entity",
+      "title": "Auto-Tune",
+      "aliases": [
+        "Auto-Tune"
+      ],
+      "tags": [
+        "music-technology",
+        "audio-processing"
+      ],
+      "path": "wiki\\entities\\auto-tune.md"
+    },
+    "autotune": {
+      "type": "entity",
+      "title": "Autotune",
+      "aliases": [
+        "Autotune"
+      ],
+      "tags": [
+        "technology",
+        "music-production"
+      ],
+      "path": "wiki\\entities\\autotune.md"
+    },
+    "been-kim": {
+      "type": "entity",
+      "title": "Been Kim",
+      "aliases": [
+        "Been Kim"
+      ],
+      "tags": [
+        "researcher",
+        "computer-scientist"
+      ],
+      "path": "wiki\\entities\\been-kim.md"
+    },
+    "boomie": {
+      "type": "entity",
+      "title": "Boomie",
+      "aliases": [
+        "Boomie"
+      ],
+      "tags": [
+        "ai-platform",
+        "ai-in-music",
+        "company"
+      ],
+      "path": "wiki\\entities\\boomie.md"
+    },
+    "boomy-ai": {
+      "type": "entity",
+      "title": "Boomy AI",
+      "aliases": [
+        "Boomy AI"
+      ],
+      "tags": [
+        "company",
+        "ai-music",
+        "tool"
+      ],
+      "path": "wiki\\entities\\boomy-ai.md"
+    },
+    "bruce-g-buchanan": {
+      "type": "entity",
+      "title": "Bruce G. Buchanan",
+      "aliases": [
+        "Bruce G. Buchanan"
+      ],
+      "tags": [
+        "academic",
+        "advisor"
+      ],
+      "path": "wiki\\entities\\bruce-g-buchanan.md"
+    },
+    "canva": {
+      "type": "entity",
+      "title": "Canva",
+      "aliases": [
+        "Canva"
+      ],
+      "tags": [
+        "software",
+        "educational-technology"
+      ],
+      "path": "wiki\\entities\\canva.md"
+    },
+    "capital-one": {
+      "type": "entity",
+      "title": "Capital One",
+      "aliases": [
+        "Capital One"
+      ],
+      "tags": [
+        "company",
+        "finance"
+      ],
+      "path": "wiki\\entities\\capital-one.md"
+    },
+    "carlos-fernandez-lauria": {
+      "type": "entity",
+      "title": "Carlos Fernandez-Lauria",
+      "aliases": [
+        "Carlos Fernandez-Lauria"
+      ],
+      "tags": [
+        "researcher"
+      ],
+      "path": "wiki\\entities\\carlos-fernandez-lauria.md"
+    },
+    "carlos": {
+      "type": "entity",
+      "title": "Carlos",
+      "aliases": [
+        "Carlos"
+      ],
+      "tags": [
+        "host",
+        "person"
+      ],
+      "path": "wiki\\entities\\carlos.md"
+    },
+    "chat-ds": {
+      "type": "entity",
+      "title": "ChatDS",
+      "aliases": [
+        "ChatDS"
+      ],
+      "tags": [
+        "ai-chatbot",
+        "interview-candidate"
+      ],
+      "path": "wiki\\entities\\chat-ds.md"
+    },
+    "chatds": {
+      "type": "entity",
+      "title": "ChatDS",
+      "aliases": [
+        "ChatDS"
+      ],
+      "tags": [
+        "ai-system",
+        "chatbot",
+        "data-science-tool"
+      ],
+      "path": "wiki\\entities\\chatds.md"
+    },
+    "chatgpt": {
+      "type": "entity",
+      "title": "ChatGPT",
+      "aliases": [
+        "ChatGPT"
+      ],
+      "tags": [
+        "generative-ai",
+        "ai-chatbot",
+        "product"
+      ],
+      "path": "wiki\\entities\\chatgpt.md"
+    },
+    "christina-lehrman": {
+      "type": "entity",
+      "title": "Christina Lehrman",
+      "aliases": [
+        "Christina Lehrman"
+      ],
+      "tags": [
+        "researcher",
+        "communication-scientist"
+      ],
+      "path": "wiki\\entities\\christina-lehrman.md"
+    },
+    "claudia-perelis": {
+      "type": "entity",
+      "title": "Claudia Perelis",
+      "aliases": [
+        "Claudia Perelis"
+      ],
+      "tags": [
+        "data-scientist"
+      ],
+      "path": "wiki\\entities\\claudia-perelis.md"
+    },
+    "compass": {
+      "type": "entity",
+      "title": "Compass",
+      "aliases": [
+        "Compass"
+      ],
+      "tags": [
+        "company",
+        "real-estate",
+        "technology",
+        "b2b"
+      ],
+      "path": "wiki\\entities\\compass.md"
+    },
+    "content-id": {
+      "type": "entity",
+      "title": "Content ID",
+      "aliases": [
+        "Content ID"
+      ],
+      "tags": [
+        "technology",
+        "copyright-management"
+      ],
+      "path": "wiki\\entities\\content-id.md"
+    },
+    "cyberwar-book": {
+      "type": "entity",
+      "title": "Cyberwar (Book)",
+      "aliases": [
+        "Cyberwar (Book)"
+      ],
+      "tags": [
+        "book",
+        "political-science"
+      ],
+      "path": "wiki\\entities\\cyberwar-book.md"
+    },
+    "cyc-project": {
+      "type": "entity",
+      "title": "Cyc Project",
+      "aliases": [
+        "Cyc Project"
+      ],
+      "tags": [
+        "ai-project",
+        "knowledge-base"
+      ],
+      "path": "wiki\\entities\\cyc-project.md"
+    },
+    "damodaran-bot": {
+      "type": "entity",
+      "title": "Damodaran Bot (Debot)",
+      "aliases": [
+        "Damodaran Bot (Debot)"
+      ],
+      "tags": [
+        "ai-system",
+        "fintech",
+        "valuation-tool"
+      ],
+      "path": "wiki\\entities\\damodaran-bot.md"
+    },
+    "daniel-kahneman": {
+      "type": "entity",
+      "title": "Daniel Kahneman",
+      "aliases": [
+        "Daniel Kahneman"
+      ],
+      "tags": [
+        "person",
+        "psychologist",
+        "nobel-laureate"
+      ],
+      "path": "wiki\\entities\\daniel-kahneman.md"
+    },
+    "data-science-for-business": {
+      "type": "entity",
+      "title": "Data Science for Business",
+      "aliases": [
+        "Data Science for Business"
+      ],
+      "tags": [
+        "book",
+        "data-science"
+      ],
+      "path": "wiki\\entities\\data-science-for-business.md"
+    },
+    "debot": {
+      "type": "entity",
+      "title": "debot",
+      "aliases": [
+        "debot"
+      ],
+      "tags": [
+        "ai-tool",
+        "finance"
+      ],
+      "path": "wiki\\entities\\debot.md"
+    },
+    "delete-facebook-movement": {
+      "type": "entity",
+      "title": "Delete Facebook Movement",
+      "aliases": [
+        "Delete Facebook Movement"
+      ],
+      "tags": [
+        "social-movement",
+        "activism"
+      ],
+      "path": "wiki\\entities\\delete-facebook-movement.md"
+    },
+    "demystifying-ai-chats": {
+      "type": "entity",
+      "title": "Demystifying AI Chats",
+      "aliases": [
+        "Demystifying AI Chats"
+      ],
+      "tags": [
+        "chat-series"
+      ],
+      "path": "wiki\\entities\\demystifying-ai-chats.md"
+    },
+    "discover-weekly-playlist": {
+      "type": "entity",
+      "title": "Discover Weekly Playlist",
+      "aliases": [
+        "Discover Weekly Playlist"
+      ],
+      "tags": [
+        "product",
+        "playlist",
+        "ai-application"
+      ],
+      "path": "wiki\\entities\\discover-weekly-playlist.md"
+    },
+    "discover-weekly": {
+      "type": "entity",
+      "title": "Discover Weekly",
+      "aliases": [
+        "Discover Weekly"
+      ],
+      "tags": [
+        "product",
+        "playlist",
+        "ai-application"
+      ],
+      "path": "wiki\\entities\\discover-weekly.md"
+    },
+    "doug-lenat": {
+      "type": "entity",
+      "title": "Doug Lenat",
+      "aliases": [
+        "Doug Lenat"
+      ],
+      "tags": [
+        "person",
+        "ai-pioneer",
+        "researcher"
+      ],
+      "path": "wiki\\entities\\doug-lenat.md"
+    },
+    "dstillery": {
+      "type": "entity",
+      "title": "Dstillery",
+      "aliases": [
+        "Dstillery"
+      ],
+      "tags": [
+        "company",
+        "adtech"
+      ],
+      "path": "wiki\\entities\\dstillery.md"
+    },
+    "elon-musk": {
+      "type": "entity",
+      "title": "Elon Musk",
+      "aliases": [
+        "Elon Musk"
+      ],
+      "tags": [
+        "person",
+        "entrepreneur",
+        "technologist"
+      ],
+      "path": "wiki\\entities\\elon-musk.md"
+    },
+    "facebook-audience-network": {
+      "type": "entity",
+      "title": "Facebook Audience Network",
+      "aliases": [
+        "Facebook Audience Network"
+      ],
+      "tags": [
+        "platform",
+        "advertising",
+        "technology"
+      ],
+      "path": "wiki\\entities\\facebook-audience-network.md"
+    },
+    "facebook": {
+      "type": "entity",
+      "title": "Facebook",
+      "aliases": [
+        "Facebook"
+      ],
+      "tags": [
+        "social-media-platform",
+        "company",
+        "social-media",
+        "technology"
+      ],
+      "path": "wiki\\entities\\facebook.md"
+    },
+    "fico-score": {
+      "type": "entity",
+      "title": "FICO Score",
+      "aliases": [
+        "FICO Score"
+      ],
+      "tags": [
+        "credit-score",
+        "data-attribute"
+      ],
+      "path": "wiki\\entities\\fico-score.md"
+    },
+    "foster-provost": {
+      "type": "persona",
+      "title": "Foster Provost",
+      "aliases": [
+        "Foster Provost"
+      ],
+      "tags": [
+        "persona",
+        "data-science-and-machine-learning-for-business-decision-making"
+      ],
+      "path": "wiki\\persona\\foster-provost.md"
+    },
+    "fubon-center-for-technology-business-and-innovation": {
+      "type": "entity",
+      "title": "Fubon Center for Technology, Business and Innovation",
+      "aliases": [
+        "Fubon Center for Technology",
+        "Business and Innovation"
+      ],
+      "tags": [
+        "research-center",
+        "institution",
+        "innovation"
+      ],
+      "path": "wiki\\entities\\fubon-center-for-technology-business-and-innovation.md"
+    },
+    "gardner-hype-cycle": {
+      "type": "entity",
+      "title": "Gardner Hype Cycle",
+      "aliases": [
+        "Gardner Hype Cycle"
+      ],
+      "tags": [
+        "technology-model"
+      ],
+      "path": "wiki\\entities\\gardner-hype-cycle.md"
+    },
+    "garry-kasparov": {
+      "type": "entity",
+      "title": "Garry Kasparov",
+      "aliases": [
+        "Garry Kasparov"
+      ],
+      "tags": [
+        "person",
+        "chess-grandmaster"
+      ],
+      "path": "wiki\\entities\\garry-kasparov.md"
+    },
+    "gartner": {
+      "type": "entity",
+      "title": "Gartner",
+      "aliases": [
+        "Gartner"
+      ],
+      "tags": [
+        "organization",
+        "research-firm"
+      ],
+      "path": "wiki\\entities\\gartner.md"
+    },
+    "gdpr": {
+      "type": "entity",
+      "title": "GDPR",
+      "aliases": [
+        "GDPR"
+      ],
+      "tags": [
+        "regulation",
+        "privacy",
+        "data-protection"
+      ],
+      "path": "wiki\\entities\\gdpr.md"
+    },
+    "ginsu": {
+      "type": "entity",
+      "title": "Ginsu",
+      "aliases": [
+        "Ginsu"
+      ],
+      "tags": [
+        "quantitative-model",
+        "financial-model"
+      ],
+      "path": "wiki\\entities\\ginsu.md"
+    },
+    "google-books-case": {
+      "type": "entity",
+      "title": "Google Books Case",
+      "aliases": [
+        "Google Books Case"
+      ],
+      "tags": [
+        "legal-case",
+        "copyright-law",
+        "precedent",
+        "fair-use"
+      ],
+      "path": "wiki\\entities\\google-books-case.md"
+    },
+    "google-books": {
+      "type": "entity",
+      "title": "Google Books",
+      "aliases": [
+        "Google Books"
+      ],
+      "tags": [
+        "project",
+        "legal-case",
+        "copyright"
+      ],
+      "path": "wiki\\entities\\google-books.md"
+    },
+    "google-brain": {
+      "type": "entity",
+      "title": "Google Brain",
+      "aliases": [
+        "Google Brain"
+      ],
+      "tags": [
+        "research-lab",
+        "institution"
+      ],
+      "path": "wiki\\entities\\google-brain.md"
+    },
+    "herb-simon": {
+      "type": "entity",
+      "title": "Herb Simon",
+      "aliases": [
+        "Herb Simon"
+      ],
+      "tags": [
+        "person",
+        "ai-pioneer",
+        "nobel-laureate"
+      ],
+      "path": "wiki\\entities\\herb-simon.md"
+    },
+    "holly-herndon": {
+      "type": "entity",
+      "title": "Holly Herndon",
+      "aliases": [
+        "Holly Herndon"
+      ],
+      "tags": [
+        "person",
+        "artist",
+        "musician"
+      ],
+      "path": "wiki\\entities\\holly-herndon.md"
+    },
+    "holly-plus": {
+      "type": "entity",
+      "title": "Holly+",
+      "aliases": [
+        "Holly+"
+      ],
+      "tags": [
+        "ai-model",
+        "product",
+        "voice-synthesis"
+      ],
+      "path": "wiki\\entities\\holly-plus.md"
+    },
+    "howie-singer": {
+      "type": "entity",
+      "title": "Howie Singer",
+      "aliases": [
+        "Howie Singer"
+      ],
+      "tags": [
+        "person",
+        "music-industry",
+        "technologist"
+      ],
+      "path": "wiki\\entities\\howie-singer.md"
+    },
+    "hype-machine-book": {
+      "type": "entity",
+      "title": "Hype Machine (Book)",
+      "aliases": [
+        "Hype Machine (Book)"
+      ],
+      "tags": [
+        "book",
+        "social-media",
+        "technology"
+      ],
+      "path": "wiki\\entities\\hype-machine-book.md"
+    },
+    "integral-ad-science": {
+      "type": "entity",
+      "title": "Integral Ad Science",
+      "aliases": [
+        "Integral Ad Science"
+      ],
+      "tags": [
+        "company",
+        "tech-company"
+      ],
+      "path": "wiki\\entities\\integral-ad-science.md"
+    },
+    "international-machine-learning-society": {
+      "type": "entity",
+      "title": "International Machine Learning Society",
+      "aliases": [
+        "International Machine Learning Society"
+      ],
+      "tags": [
+        "organization",
+        "academic-society",
+        "professional-society"
+      ],
+      "path": "wiki\\entities\\international-machine-learning-society.md"
+    },
+    "internist": {
+      "type": "entity",
+      "title": "Internist",
+      "aliases": [
+        "Internist"
+      ],
+      "tags": [
+        "ai-system",
+        "expert-system",
+        "medical-ai"
+      ],
+      "path": "wiki\\entities\\internist.md"
+    },
+    "jack-myers": {
+      "type": "entity",
+      "title": "Jack Myers",
+      "aliases": [
+        "Jack Myers"
+      ],
+      "tags": [
+        "person",
+        "physician"
+      ],
+      "path": "wiki\\entities\\jack-myers.md"
+    },
+    "jackson-and-gollum": {
+      "type": "entity",
+      "title": "Jackson and Gollum",
+      "aliases": [
+        "Jackson and Gollum"
+      ],
+      "tags": [
+        "researcher"
+      ],
+      "path": "wiki\\entities\\jackson-and-gollum.md"
+    },
+    "jane-yung-jen-hsu": {
+      "type": "entity",
+      "title": "Jane Yung-jen Hsu",
+      "aliases": [
+        "Jane Yung-jen Hsu"
+      ],
+      "tags": [
+        "professor",
+        "computer-scientist"
+      ],
+      "path": "wiki\\entities\\jane-yung-jen-hsu.md"
+    },
+    "jiddu-krishnamurthy": {
+      "type": "entity",
+      "title": "Jiddu Krishnamurthy",
+      "aliases": [
+        "Jiddu Krishnamurthy"
+      ],
+      "tags": [
+        "philosopher",
+        "thinker"
+      ],
+      "path": "wiki\\entities\\jiddu-krishnamurthy.md"
+    },
+    "jiddu-krishnamurti": {
+      "type": "entity",
+      "title": "Jiddu Krishnamurti",
+      "aliases": [
+        "Jiddu Krishnamurti"
+      ],
+      "tags": [
+        "philosopher",
+        "thinker"
+      ],
+      "path": "wiki\\entities\\jiddu-krishnamurti.md"
+    },
+    "joao-sedoc": {
+      "type": "entity",
+      "title": "Joao Sedoc",
+      "aliases": [
+        "Joao Sedoc"
+      ],
+      "tags": [
+        "professor",
+        "chatbot-expert",
+        "person",
+        "interviewer"
+      ],
+      "path": "wiki\\entities\\joao-sedoc.md"
+    },
+    "john-steinbeck": {
+      "type": "entity",
+      "title": "John Steinbeck",
+      "aliases": [
+        "John Steinbeck"
+      ],
+      "tags": [
+        "author"
+      ],
+      "path": "wiki\\entities\\john-steinbeck.md"
+    },
+    "jupiter-notebook": {
+      "type": "entity",
+      "title": "Jupiter Notebook",
+      "aliases": [
+        "Jupiter Notebook"
+      ],
+      "tags": [
+        "software",
+        "development-environment"
+      ],
+      "path": "wiki\\entities\\jupiter-notebook.md"
+    },
+    "kathleen-hall-jamison": {
+      "type": "entity",
+      "title": "Kathleen Hall Jamison",
+      "aliases": [
+        "Kathleen Hall Jamison"
+      ],
+      "tags": [
+        "author",
+        "academic"
+      ],
+      "path": "wiki\\entities\\kathleen-hall-jamison.md"
+    },
+    "key-changes-book": {
+      "type": "entity",
+      "title": "Key Changes: The Ten Times Technology has Transformed the Music Industry",
+      "aliases": [
+        {
+          "Key Changes": "The Ten Times Technology has Transformed the Music Industry"
+        }
+      ],
+      "tags": [
+        "book",
+        "music-industry",
+        "technology"
+      ],
+      "path": "wiki\\entities\\key-changes-book.md"
+    },
+    "lander-lndr": {
+      "type": "entity",
+      "title": "Lander (LNDR)",
+      "aliases": [
+        "Lander (LNDR)"
+      ],
+      "tags": [
+        "software",
+        "ai-tool",
+        "music-production"
+      ],
+      "path": "wiki\\entities\\lander-lndr.md"
+    },
+    "lending-club": {
+      "type": "entity",
+      "title": "LendingClub",
+      "aliases": [
+        "LendingClub"
+      ],
+      "tags": [
+        "company",
+        "fintech",
+        "p2p-lending"
+      ],
+      "path": "wiki\\entities\\lending-club.md"
+    },
+    "lendingclub": {
+      "type": "entity",
+      "title": "LendingClub",
+      "aliases": [
+        "LendingClub"
+      ],
+      "tags": [
+        "company",
+        "data-source",
+        "finance"
+      ],
+      "path": "wiki\\entities\\lendingclub.md"
+    },
+    "linkedin": {
+      "type": "entity",
+      "title": "LinkedIn",
+      "aliases": [
+        "LinkedIn"
+      ],
+      "tags": [
+        "social-media-platform",
+        "company",
+        "professional-network",
+        "social-media"
+      ],
+      "path": "wiki\\entities\\linkedin.md"
+    },
+    "llm": {
+      "type": "entity",
+      "title": "LLM (Large Language Model)",
+      "aliases": [
+        "LLM (Large Language Model)"
+      ],
+      "tags": [
+        "technology",
+        "ai-model",
+        "neural-network"
+      ],
+      "path": "wiki\\entities\\llm.md"
+    },
+    "machine-learning-journal": {
+      "type": "entity",
+      "title": "Machine Learning (journal)",
+      "aliases": [
+        "Machine Learning (journal)"
+      ],
+      "tags": [
+        "journal",
+        "publication",
+        "academic-journal"
+      ],
+      "path": "wiki\\entities\\machine-learning-journal.md"
+    },
+    "midjourney": {
+      "type": "entity",
+      "title": "Midjourney",
+      "aliases": [
+        "Midjourney"
+      ],
+      "tags": [
+        "ai-model",
+        "image-generation",
+        "company"
+      ],
+      "path": "wiki\\entities\\midjourney.md"
+    },
+    "mit-initiative-on-the-digital-economy": {
+      "type": "entity",
+      "title": "MIT Initiative on the Digital Economy",
+      "aliases": [
+        "MIT Initiative on the Digital Economy"
+      ],
+      "tags": [
+        "research-center",
+        "mit",
+        "economics"
+      ],
+      "path": "wiki\\entities\\mit-initiative-on-the-digital-economy.md"
+    },
+    "muskbot": {
+      "type": "entity",
+      "title": "Muskbot",
+      "aliases": [
+        "Muskbot"
+      ],
+      "tags": [
+        "hypothetical-entity",
+        "ai-agent",
+        "digital-twin"
+      ],
+      "path": "wiki\\entities\\muskbot.md"
+    },
+    "mypersonality": {
+      "type": "entity",
+      "title": "myPersonality",
+      "aliases": [
+        "myPersonality"
+      ],
+      "tags": [
+        "facebook-application",
+        "data-source",
+        "research"
+      ],
+      "path": "wiki\\entities\\mypersonality.md"
+    },
+    "napster": {
+      "type": "entity",
+      "title": "Napster",
+      "aliases": [
+        "Napster"
+      ],
+      "tags": [
+        "company",
+        "music-technology",
+        "file-sharing"
+      ],
+      "path": "wiki\\entities\\napster.md"
+    },
+    "nate-silver": {
+      "type": "entity",
+      "title": "Nate Silver",
+      "aliases": [
+        "Nate Silver"
+      ],
+      "tags": [
+        "pundit",
+        "statistician"
+      ],
+      "path": "wiki\\entities\\nate-silver.md"
+    },
+    "national-institute-of-standards": {
+      "type": "entity",
+      "title": "National Institute of Standards",
+      "aliases": [
+        "National Institute of Standards"
+      ],
+      "tags": [
+        "organization",
+        "government",
+        "standards"
+      ],
+      "path": "wiki\\entities\\national-institute-of-standards.md"
+    },
+    "new-york-university": {
+      "type": "entity",
+      "title": "New York University",
+      "aliases": [
+        "New York University"
+      ],
+      "tags": [
+        "university",
+        "institution"
+      ],
+      "path": "wiki\\entities\\new-york-university.md"
+    },
+    "nyu-center-for-data-science": {
+      "type": "entity",
+      "title": "NYU Center for Data Science",
+      "aliases": [
+        "NYU Center for Data Science"
+      ],
+      "tags": [
+        "research-center",
+        "university",
+        "institution"
+      ],
+      "path": "wiki\\entities\\nyu-center-for-data-science.md"
+    },
+    "nyu-stern-school-of-business": {
+      "type": "entity",
+      "title": "NYU Stern School of Business",
+      "aliases": [
+        "NYU Stern School of Business"
+      ],
+      "tags": [
+        "university",
+        "business-school",
+        "institution"
+      ],
+      "path": "wiki\\entities\\nyu-stern-school-of-business.md"
+    },
+    "nyu-stern": {
+      "type": "entity",
+      "title": "NYU Stern",
+      "aliases": [
+        "NYU Stern"
+      ],
+      "tags": [
+        "university",
+        "institution"
+      ],
+      "path": "wiki\\entities\\nyu-stern.md"
+    },
+    "openai": {
+      "type": "entity",
+      "title": "OpenAI",
+      "aliases": [
+        "OpenAI"
+      ],
+      "tags": [
+        "company",
+        "ai-lab"
+      ],
+      "path": "wiki\\entities\\openai.md"
+    },
+    "oswath": {
+      "type": "entity",
+      "title": "Oswath",
+      "aliases": [
+        "Oswath"
+      ],
+      "tags": [
+        "person",
+        "finance-expert"
+      ],
+      "path": "wiki\\entities\\oswath.md"
+    },
+    "pandas": {
+      "type": "entity",
+      "title": "pandas",
+      "aliases": [
+        "pandas"
+      ],
+      "tags": [
+        "software",
+        "python-library"
+      ],
+      "path": "wiki\\entities\\pandas.md"
+    },
+    "panos-ipeirotis": {
+      "type": "entity",
+      "title": "Panos Ipeirotis",
+      "aliases": [
+        "Panos Ipeirotis"
+      ],
+      "tags": [
+        "professor",
+        "academic"
+      ],
+      "path": "wiki\\entities\\panos-ipeirotis.md"
+    },
+    "panos": {
+      "type": "entity",
+      "title": "Panos",
+      "aliases": [
+        "Panos"
+      ],
+      "tags": [
+        "person",
+        "colleague"
+      ],
+      "path": "wiki\\entities\\panos.md"
+    },
+    "paul-bennett": {
+      "type": "entity",
+      "title": "Paul Bennett",
+      "aliases": [
+        "Paul Bennett"
+      ],
+      "tags": [
+        "researcher",
+        "computer-scientist"
+      ],
+      "path": "wiki\\entities\\paul-bennett.md"
+    },
+    "pedro-dominguez": {
+      "type": "entity",
+      "title": "Pedro Dominguez",
+      "aliases": [
+        "Pedro Dominguez"
+      ],
+      "tags": [
+        "person",
+        "author"
+      ],
+      "path": "wiki\\entities\\pedro-dominguez.md"
+    },
+    "productbooklab-com": {
+      "type": "entity",
+      "title": "productbooklab.com",
+      "aliases": [
+        "productbooklab.com"
+      ],
+      "tags": [
+        "book-club",
+        "product-management",
+        "online-community"
+      ],
+      "path": "wiki\\entities\\productbooklab-com.md"
+    },
+    "prosper": {
+      "type": "entity",
+      "title": "Prosper",
+      "aliases": [
+        "Prosper"
+      ],
+      "tags": [
+        "company",
+        "fintech",
+        "p2p-lending"
+      ],
+      "path": "wiki\\entities\\prosper.md"
+    },
+    "renms": {
+      "type": "entity",
+      "title": "RENMS",
+      "aliases": [
+        "RENMS"
+      ],
+      "tags": [
+        "regulation",
+        "finance"
+      ],
+      "path": "wiki\\entities\\renms.md"
+    },
+    "ronnie-kohavi": {
+      "type": "entity",
+      "title": "Ronnie Kohavi",
+      "aliases": [
+        "Ronnie Kohavi"
+      ],
+      "tags": [
+        "person",
+        "tech-industry"
+      ],
+      "path": "wiki\\entities\\ronnie-kohavi.md"
+    },
+    "rumi-chunara": {
+      "type": "entity",
+      "title": "Rumi Chunara",
+      "aliases": [
+        "Rumi Chunara"
+      ],
+      "tags": [
+        "academic",
+        "speaker"
+      ],
+      "path": "wiki\\entities\\rumi-chunara.md"
+    },
+    "russian-interference-in-2016-election": {
+      "type": "entity",
+      "title": "Russian Interference in 2016 Election",
+      "aliases": [
+        "Russian Interference in 2016 Election"
+      ],
+      "tags": [
+        "political-event",
+        "disinformation",
+        "social-media-manipulation"
+      ],
+      "path": "wiki\\entities\\russian-interference-in-2016-election.md"
+    },
+    "science-journal": {
+      "type": "entity",
+      "title": "Science (journal)",
+      "aliases": [
+        "Science (journal)"
+      ],
+      "tags": [
+        "academic-journal",
+        "publication"
+      ],
+      "path": "wiki\\entities\\science-journal.md"
+    },
+    "scott-page": {
+      "type": "entity",
+      "title": "Scott Page",
+      "aliases": [
+        "Scott Page"
+      ],
+      "tags": [
+        "researcher",
+        "academic"
+      ],
+      "path": "wiki\\entities\\scott-page.md"
+    },
+    "sean-parker": {
+      "type": "entity",
+      "title": "Sean Parker",
+      "aliases": [
+        "Sean Parker"
+      ],
+      "tags": [
+        "technologist",
+        "entrepreneur"
+      ],
+      "path": "wiki\\entities\\sean-parker.md"
+    },
+    "sean": {
+      "type": "entity",
+      "title": "Sean",
+      "aliases": [
+        "Sean"
+      ],
+      "tags": [
+        "educator",
+        "teacher"
+      ],
+      "path": "wiki\\entities\\sean.md"
+    },
+    "securities-and-exchange-commission": {
+      "type": "entity",
+      "title": "Securities and Exchange Commission (SEC)",
+      "aliases": [
+        "Securities and Exchange Commission (SEC)"
+      ],
+      "tags": [
+        "regulator",
+        "government-agency"
+      ],
+      "path": "wiki\\entities\\securities-and-exchange-commission.md"
+    },
+    "shutterstock": {
+      "type": "entity",
+      "title": "Shutterstock",
+      "aliases": [
+        "Shutterstock"
+      ],
+      "tags": [
+        "company",
+        "stock-media"
+      ],
+      "path": "wiki\\entities\\shutterstock.md"
+    },
+    "sinan-aral": {
+      "type": "entity",
+      "title": "Sinan Aral",
+      "aliases": [
+        "Sinan Aral"
+      ],
+      "tags": [
+        "author",
+        "academic",
+        "mit"
+      ],
+      "path": "wiki\\entities\\sinan-aral.md"
+    },
+    "society-of-composers-and-lyricists-scl": {
+      "type": "entity",
+      "title": "Society of Composers and Lyricists (SCL)",
+      "aliases": [
+        "Society of Composers and Lyricists (SCL)"
+      ],
+      "tags": [
+        "organization",
+        "music-industry"
+      ],
+      "path": "wiki\\entities\\society-of-composers-and-lyricists-scl.md"
+    },
+    "spotify": {
+      "type": "entity",
+      "title": "Spotify",
+      "aliases": [
+        "Spotify"
+      ],
+      "tags": [
+        "company",
+        "b2c",
+        "tech"
+      ],
+      "path": "wiki\\entities\\spotify.md"
+    },
+    "stop-hate-for-profit-movement": {
+      "type": "entity",
+      "title": "Stop Hate for Profit Movement",
+      "aliases": [
+        "Stop Hate for Profit Movement"
+      ],
+      "tags": [
+        "social-movement",
+        "activism"
+      ],
+      "path": "wiki\\entities\\stop-hate-for-profit-movement.md"
+    },
+    "tcav": {
+      "type": "entity",
+      "title": "TCAV",
+      "aliases": [
+        "TCAV"
+      ],
+      "tags": [
+        "project",
+        "award-winner"
+      ],
+      "path": "wiki\\entities\\tcav.md"
+    },
+    "the-grapes-of-wrath": {
+      "type": "entity",
+      "title": "The Grapes of Wrath",
+      "aliases": [
+        "The Grapes of Wrath"
+      ],
+      "tags": [
+        "book",
+        "literature",
+        "social-commentary"
+      ],
+      "path": "wiki\\entities\\the-grapes-of-wrath.md"
+    },
+    "the-hype-machine-book": {
+      "type": "entity",
+      "title": "The Hype Machine (book)",
+      "aliases": [
+        "The Hype Machine (book)"
+      ],
+      "tags": [
+        "book",
+        "social-media",
+        "technology"
+      ],
+      "path": "wiki\\entities\\the-hype-machine-book.md"
+    },
+    "the-hype-machine": {
+      "type": "entity",
+      "title": "The Hype Machine",
+      "aliases": [
+        "The Hype Machine"
+      ],
+      "tags": [
+        "book",
+        "social-media"
+      ],
+      "path": "wiki\\entities\\the-hype-machine.md"
+    },
+    "the-social-dilemma": {
+      "type": "entity",
+      "title": "The Social Dilemma",
+      "aliases": [
+        "The Social Dilemma"
+      ],
+      "tags": [
+        "documentary",
+        "media"
+      ],
+      "path": "wiki\\entities\\the-social-dilemma.md"
+    },
+    "thinking-with-machines": {
+      "type": "entity",
+      "title": "Thinking With Machines",
+      "aliases": [
+        "Thinking With Machines"
+      ],
+      "tags": [
+        "book",
+        "ai"
+      ],
+      "path": "wiki\\entities\\thinking-with-machines.md"
+    },
+    "tom-fassett": {
+      "type": "entity",
+      "title": "Tom Fassett",
+      "aliases": [
+        "Tom Fassett"
+      ],
+      "tags": [
+        "person",
+        "author"
+      ],
+      "path": "wiki\\entities\\tom-fassett.md"
+    },
+    "tom-fawcett": {
+      "type": "entity",
+      "title": "Tom Fawcett",
+      "aliases": [
+        "Tom Fawcett"
+      ],
+      "tags": [
+        "academic",
+        "data-scientist",
+        "researcher",
+        "author",
+        "machine-learning",
+        "person"
+      ],
+      "path": "wiki\\entities\\tom-fawcett.md"
+    },
+    "twitter": {
+      "type": "entity",
+      "title": "Twitter",
+      "aliases": [
+        "Twitter"
+      ],
+      "tags": [
+        "social-media-platform",
+        "company"
+      ],
+      "path": "wiki\\entities\\twitter.md"
+    },
+    "universal-music": {
+      "type": "entity",
+      "title": "Universal Music",
+      "aliases": [
+        "Universal Music"
+      ],
+      "tags": [
+        "company",
+        "music-label"
+      ],
+      "path": "wiki\\entities\\universal-music.md"
+    },
+    "vasant-dhar": {
+      "type": "entity",
+      "title": "Vasant Dhar",
+      "aliases": [
+        "Vasant Dhar"
+      ],
+      "tags": [
+        "person",
+        "researcher",
+        "author",
+        "academic",
+        "ai-researcher",
+        "professor",
+        "ai-expert"
+      ],
+      "path": "wiki\\entities\\vasant-dhar.md"
+    },
+    "verizon": {
+      "type": "entity",
+      "title": "Verizon",
+      "aliases": [
+        "Verizon"
+      ],
+      "tags": [
+        "company",
+        "telecommunications"
+      ],
+      "path": "wiki\\entities\\verizon.md"
+    },
+    "warner-music": {
+      "type": "entity",
+      "title": "Warner Music",
+      "aliases": [
+        "Warner Music"
+      ],
+      "tags": [
+        "company",
+        "music-label"
+      ],
+      "path": "wiki\\entities\\warner-music.md"
+    },
+    "waymo": {
+      "type": "entity",
+      "title": "Waymo",
+      "aliases": [
+        "Waymo"
+      ],
+      "tags": [
+        "company",
+        "autonomous-vehicles",
+        "technology"
+      ],
+      "path": "wiki\\entities\\waymo.md"
+    },
+    "whatsapp": {
+      "type": "entity",
+      "title": "WhatsApp",
+      "aliases": [
+        "WhatsApp"
+      ],
+      "tags": [
+        "company",
+        "messaging-platform",
+        "technology"
+      ],
+      "path": "wiki\\entities\\whatsapp.md"
+    },
+    "whimo": {
+      "type": "entity",
+      "title": "Whimo",
+      "aliases": [
+        "Whimo"
+      ],
+      "tags": [
+        "company",
+        "autonomous-vehicles"
+      ],
+      "path": "wiki\\entities\\whimo.md"
+    },
+    "xiao-sid-dog": {
+      "type": "entity",
+      "title": "Xiao Sid Dog",
+      "aliases": [
+        "Xiao Sid Dog"
+      ],
+      "tags": [
+        "researcher",
+        "developer"
+      ],
+      "path": "wiki\\entities\\xiao-sid-dog.md"
+    },
+    "youtube": {
+      "type": "entity",
+      "title": "YouTube",
+      "aliases": [
+        "YouTube"
+      ],
+      "tags": [
+        "platform",
+        "video-hosting"
+      ],
+      "path": "wiki\\entities\\youtube.md"
+    },
+    "index": {
+      "type": "unknown",
+      "title": "Wiki Index",
+      "aliases": [],
+      "tags": [],
+      "path": "wiki\\index.md"
+    },
+    "log": {
+      "type": "unknown",
+      "title": "Wiki Log",
+      "aliases": [],
+      "tags": [],
+      "path": "wiki\\log.md"
+    },
+    "causal-vs-predictive-targeting": {
+      "type": "persona",
+      "title": "Causal vs Predictive Targeting",
+      "aliases": [
+        "Causal vs Predictive Targeting"
+      ],
+      "tags": [
+        "persona",
+        "data-science-and-machine-learning-for-business-decision-making"
+      ],
+      "path": "wiki\\persona\\causal-vs-predictive-targeting.md"
+    },
+    "counterfactual-explanations-for-inference": {
+      "type": "persona",
+      "title": "Counterfactual Explanations for Inference",
+      "aliases": [
+        "Counterfactual Explanations for Inference"
+      ],
+      "tags": [
+        "persona",
+        "data-science-and-machine-learning-for-business-decision-making"
+      ],
+      "path": "wiki\\persona\\counterfactual-explanations-for-inference.md"
+    },
+    "data-leakage-in-applied-data-science": {
+      "type": "persona",
+      "title": "Data Leakage in Applied Data Science",
+      "aliases": [
+        "Data Leakage in Applied Data Science"
+      ],
+      "tags": [
+        "persona",
+        "data-science-and-machine-learning-for-business-decision-making"
+      ],
+      "path": "wiki\\persona\\data-leakage-in-applied-data-science.md"
+    },
+    "intellectual-evolution": {
+      "type": "persona",
+      "title": "Intellectual Evolution",
+      "aliases": [
+        "Intellectual Evolution"
+      ],
+      "tags": [
+        "persona",
+        "data-science-and-machine-learning-for-business-decision-making"
+      ],
+      "path": "wiki\\persona\\intellectual-evolution.md"
+    },
+    "mentor-network-and-influences": {
+      "type": "persona",
+      "title": "Mentor Network and Influences",
+      "aliases": [
+        "Mentor Network and Influences"
+      ],
+      "tags": [
+        "persona",
+        "data-science-and-machine-learning-for-business-decision-making"
+      ],
+      "path": "wiki\\persona\\mentor-network-and-influences.md"
+    },
+    "rhetorical-style-and-pedagogy": {
+      "type": "persona",
+      "title": "Rhetorical Style and Pedagogy",
+      "aliases": [
+        "Rhetorical Style and Pedagogy"
+      ],
+      "tags": [
+        "persona",
+        "data-science-and-machine-learning-for-business-decision-making"
+      ],
+      "path": "wiki\\persona\\rhetorical-style-and-pedagogy.md"
+    },
+    "thinking-patterns": {
+      "type": "persona",
+      "title": "Thinking Patterns and Frameworks",
+      "aliases": [
+        "Thinking Patterns and Frameworks"
+      ],
+      "tags": [
+        "persona",
+        "data-science-and-machine-learning-for-business-decision-making"
+      ],
+      "path": "wiki\\persona\\thinking-patterns.md"
+    },
+    "stub-ai-in-business-speaker-series-fireside-chat-with-sinan-aral-and-nyu-stern-prof-x": {
+      "type": "stub",
+      "title": "AI in Business Speaker Series — Fireside Chat with Sinan Aral and NYU Stern Prof Foster Provost",
+      "aliases": [
+        "Ai In Business Speaker Series Fireside Chat With Sinan Aral And Nyu Stern Prof Xzgvhlq Xwi",
+        "Fireside Chat Sinan Aral Foster Provost",
+        "The Hype Machine Discussion"
+      ],
+      "tags": [
+        "rag-stub"
+      ],
+      "path": "wiki\\stubs\\stub-ai-in-business-speaker-series-fireside-chat-with-sinan-aral-and-nyu-stern-prof-x.md"
+    },
+    "stub-can-an-ai-chatbot-pass-a-data-science-interview-eika-9k23v4": {
+      "type": "stub",
+      "title": "Can An Ai Chatbot Pass A Data Science Interview Eika 9K23V4",
+      "aliases": [
+        "Can An Ai Chatbot Pass A Data Science Interview Eika 9K23V4"
+      ],
+      "tags": [
+        "rag-stub"
+      ],
+      "path": "wiki\\stubs\\stub-can-an-ai-chatbot-pass-a-data-science-interview-eika-9k23v4.md"
+    },
+    "stub-data-science-for-business-book-review-discussion-with-author-foster-provost-and-": {
+      "type": "stub",
+      "title": "Data Science For Business Book Review Discussion With Author Foster Provost And Cqbrdy4Qz1K",
+      "aliases": [
+        "Data Science For Business Book Review Discussion With Author Foster Provost And Cqbrdy4Qz1K",
+        "Data Science for Business book review with Foster Provost"
+      ],
+      "tags": [
+        "rag-stub"
+      ],
+      "path": "wiki\\stubs\\stub-data-science-for-business-book-review-discussion-with-author-foster-provost-and-.md"
+    },
+    "stub-is-ai-a-threat-to-the-creative-professions-ai-and-the-music-industry-8pjr7a6fxqe": {
+      "type": "stub",
+      "title": "Is AI a Threat to the Creative Professions? AI and the Music Industry",
+      "aliases": [
+        "Is Ai A Threat To The Creative Professions Ai And The Music Industry 8Pjr7A6Fxqe"
+      ],
+      "tags": [
+        "rag-stub"
+      ],
+      "path": "wiki\\stubs\\stub-is-ai-a-threat-to-the-creative-professions-ai-and-the-music-industry-8pjr7a6fxqe.md"
+    },
+    "stub-vasant-dhar-on-thinking-with-machines-with-foster-provost-aa-0s60eapk": {
+      "type": "stub",
+      "title": "Vasant Dhar On Thinking With Machines With Foster Provost",
+      "aliases": [
+        "Vasant Dhar On Thinking With Machines With Foster Provost Aa 0S60Eapk"
+      ],
+      "tags": [
+        "rag-stub"
+      ],
+      "path": "wiki\\stubs\\stub-vasant-dhar-on-thinking-with-machines-with-foster-provost-aa-0s60eapk.md"
+    }
+  },
+  "edges": [
+    {
+      "from": "a-b-testing",
+      "to": "experimentation",
+      "type": "is_a"
+    },
+    {
+      "from": "a-b-testing",
+      "to": "causal-inference",
+      "type": "is_a"
+    },
+    {
+      "from": "a-b-testing",
+      "to": "spotify",
+      "type": "used_by"
+    },
+    {
+      "from": "a-b-testing",
+      "to": "bandit-modeling",
+      "type": "contrasted_with"
+    },
+    {
+      "from": "a-b-testing",
+      "to": "selection-bias",
+      "type": "avoids"
+    },
+    {
+      "from": "a-b-testing",
+      "to": "causal-impact-models",
+      "type": "is-a-data-source-for"
+    },
+    {
+      "from": "ab-testing",
+      "to": "quasi-experiment",
+      "type": "is_alternative_to"
+    },
+    {
+      "from": "ab-testing",
+      "to": "model-to-pick-a-model",
+      "type": "is_prerequisite_for"
+    },
+    {
+      "from": "adaptive-wisdom-of-crowds",
+      "to": "wisdom-of-crowds",
+      "type": "is_an_evolution_of"
+    },
+    {
+      "from": "adaptive-wisdom-of-crowds",
+      "to": "hype-machine",
+      "type": "can_leverage"
+    },
+    {
+      "from": "agentic-ai",
+      "to": "damodaran-bot",
+      "type": "is_exemplified_by"
+    },
+    {
+      "from": "agentic-ai",
+      "to": "ai-rights",
+      "type": "raises_questions_about"
+    },
+    {
+      "from": "agentic-ai",
+      "to": "ai-obligations",
+      "type": "raises_questions_about"
+    },
+    {
+      "from": "ai-as-a-successor",
+      "to": "muskbot",
+      "type": "is_exemplified_by"
+    },
+    {
+      "from": "ai-as-an-augmentation-tool",
+      "to": "large-language-models",
+      "type": "is_a_perspective_on"
+    },
+    {
+      "from": "ai-generated-likeness",
+      "to": "generative-ai",
+      "type": "is_an_application_of"
+    },
+    {
+      "from": "ai-generated-likeness",
+      "to": "holly-plus",
+      "type": "is_an_example_of"
+    },
+    {
+      "from": "ai-in-medicine",
+      "to": "chatds",
+      "type": "serves-as-adoption-model-for"
+    },
+    {
+      "from": "ai-model-training",
+      "to": "generative-ai",
+      "type": "is_a_core_process_of"
+    },
+    {
+      "from": "ai-model-training",
+      "to": "copyright-law",
+      "type": "is_a_subject_of"
+    },
+    {
+      "from": "ai-model-training",
+      "to": "american-pie-song",
+      "type": "is_exemplified_by_infringement_of"
+    },
+    {
+      "from": "ai-obligations",
+      "to": "agentic-ai",
+      "type": "is_a_concern_for"
+    },
+    {
+      "from": "ai-programmed-ai",
+      "to": "neural-network-based-ai",
+      "type": "creates"
+    },
+    {
+      "from": "ai-rights",
+      "to": "agentic-ai",
+      "type": "is_a_concern_for"
+    },
+    {
+      "from": "ai-scale-advantage",
+      "to": "fair-use",
+      "type": "complicates_analysis_of"
+    },
+    {
+      "from": "ai",
+      "to": "displacement-of-labor-by-technology",
+      "type": "causes"
+    },
+    {
+      "from": "ai",
+      "to": "modern-ai-chatbots",
+      "type": "is_exemplified_by"
+    },
+    {
+      "from": "analytic-engineering",
+      "to": "expected-value-framework",
+      "type": "uses"
+    },
+    {
+      "from": "analytic-engineering",
+      "to": "data-science-for-business",
+      "type": "is_discussed_in"
+    },
+    {
+      "from": "area-under-the-roc-curve",
+      "to": "roc-curve",
+      "type": "is_derived_from"
+    },
+    {
+      "from": "artist-consent",
+      "to": "equitable-compensation",
+      "type": "is_related_to"
+    },
+    {
+      "from": "artist-consent",
+      "to": "large-language-models",
+      "type": "is_a_legal_consideration_for"
+    },
+    {
+      "from": "artist-consent",
+      "to": "andreessen-horowitz",
+      "type": "is_opposed_by"
+    },
+    {
+      "from": "artistic-influence",
+      "to": "fair-use",
+      "type": "is-adjudicated-by"
+    },
+    {
+      "from": "attention-economy",
+      "to": "the-hype-machine-concept",
+      "type": "underpins"
+    },
+    {
+      "from": "attention-economy",
+      "to": "persuasion-machine",
+      "type": "enables"
+    },
+    {
+      "from": "attribution-modeling",
+      "to": "online-advertising-attribution",
+      "type": "is_a_part_of"
+    },
+    {
+      "from": "auc",
+      "to": "roc-curve",
+      "type": "is_derived_from"
+    },
+    {
+      "from": "audience-selection-for-on-line-brand-advertising",
+      "to": "foster-provost",
+      "type": "is_researched_by"
+    },
+    {
+      "from": "audience-selection-for-on-line-brand-advertising",
+      "to": "causal-targeting",
+      "type": "is_an_example_of"
+    },
+    {
+      "from": "augmented-collective-beings",
+      "to": "jane-yung-jen-hsu",
+      "type": "is_researched_by"
+    },
+    {
+      "from": "automation-frontier",
+      "to": "trust-in-ai",
+      "type": "is_related_to"
+    },
+    {
+      "from": "automation-frontier",
+      "to": "cost-of-error",
+      "type": "is_determined_by"
+    },
+    {
+      "from": "bandit-algorithms",
+      "to": "reinforcement-learning",
+      "type": "is-a-type-of"
+    },
+    {
+      "from": "bandit-modeling",
+      "to": "ab-test",
+      "type": "contrasted_with"
+    },
+    {
+      "from": "bandit-modeling",
+      "to": "bandit-problem",
+      "type": "applies"
+    },
+    {
+      "from": "bandit-problem",
+      "to": "reinforcement-learning",
+      "type": "is_a_type_of"
+    },
+    {
+      "from": "bandit-problem",
+      "to": "credit-assignment-problem",
+      "type": "lacks_the_challenge_of"
+    },
+    {
+      "from": "bias-in-machine-learning",
+      "to": "bias-variance-tradeoff",
+      "type": "component_of"
+    },
+    {
+      "from": "bias-variance-tradeoff",
+      "to": "bias-in-machine-learning",
+      "type": "involves"
+    },
+    {
+      "from": "bias-variance-tradeoff",
+      "to": "variance-in-machine-learning",
+      "type": "involves"
+    },
+    {
+      "from": "big-data-and-data-science",
+      "to": "objectionable-bias",
+      "type": "can_lead_to"
+    },
+    {
+      "from": "big-data",
+      "to": "data-science",
+      "type": "supports"
+    },
+    {
+      "from": "big-data",
+      "to": "gartners-hype-cycle",
+      "type": "evaluated_by"
+    },
+    {
+      "from": "binary-classification",
+      "to": "supervised-machine-learning",
+      "type": "is_a_type_of"
+    },
+    {
+      "from": "bubble-chart",
+      "to": "scatter-plot",
+      "type": "is_alternative_to"
+    },
+    {
+      "from": "causal-analytics",
+      "to": "predictive-analytics",
+      "type": "is_a_type_of"
+    },
+    {
+      "from": "causal-classification",
+      "to": "foster-provost",
+      "type": "is_researched_by"
+    },
+    {
+      "from": "causal-classification",
+      "to": "causal-decision-making",
+      "type": "is_related_to"
+    },
+    {
+      "from": "causal-decision-making",
+      "to": "foster-provost",
+      "type": "is_researched_by"
+    },
+    {
+      "from": "causal-decision-making",
+      "to": "causal-targeting",
+      "type": "informs"
+    },
+    {
+      "from": "causal-decision-making",
+      "to": "causal-classification",
+      "type": "is_related_to"
+    },
+    {
+      "from": "causal-effect-estimation",
+      "to": "ab-testing",
+      "type": "is_a_method_for"
+    },
+    {
+      "from": "causal-impact-models",
+      "to": "ab-test",
+      "type": "analyzes_data_from"
+    },
+    {
+      "from": "causal-inference-at-massive-scale",
+      "to": "foster-provost",
+      "type": "is-research-interest-of"
+    },
+    {
+      "from": "causal-inference",
+      "to": "a-b-testing",
+      "type": "includes"
+    },
+    {
+      "from": "causal-inference",
+      "to": "quasi-experiment",
+      "type": "includes"
+    },
+    {
+      "from": "causal-targeting",
+      "to": "foster-provost",
+      "type": "is_researched_by"
+    },
+    {
+      "from": "causal-targeting",
+      "to": "causal-decision-making",
+      "type": "is_an_application_of"
+    },
+    {
+      "from": "causal-targeting",
+      "to": "audience-selection-for-on-line-brand-advertising",
+      "type": "is_a_specific_type_of"
+    },
+    {
+      "from": "churn-prediction",
+      "to": "logistic-regression",
+      "type": "uses"
+    },
+    {
+      "from": "cloaking-device",
+      "to": "predictive-modeling",
+      "type": "provides_control_over"
+    },
+    {
+      "from": "cloaking-device",
+      "to": "evidence-counterfactual",
+      "type": "is-combined-with"
+    },
+    {
+      "from": "cloaking-device",
+      "to": "statistical-inference-on-social-media-data",
+      "type": "provides-control-over"
+    },
+    {
+      "from": "closing-triangles",
+      "to": "friend-suggestion-algorithms",
+      "type": "is_a_method_used_by"
+    },
+    {
+      "from": "closing-triangles",
+      "to": "political-polarization",
+      "type": "contributes_to"
+    },
+    {
+      "from": "collaborative-filtering",
+      "to": "spotify",
+      "type": "is-used-by"
+    },
+    {
+      "from": "collaborative-filtering",
+      "to": "discover-weekly",
+      "type": "is-a-method-for"
+    },
+    {
+      "from": "common-sense-in-ai",
+      "to": "cyc-project",
+      "type": "was_goal_of"
+    },
+    {
+      "from": "common-sense-in-ai",
+      "to": "general-intelligence-ai",
+      "type": "is_a_feature_of"
+    },
+    {
+      "from": "consequences-of-error",
+      "to": "trust-in-ai",
+      "type": "influences"
+    },
+    {
+      "from": "consumer-surplus",
+      "to": "facebook",
+      "type": "is_created_by"
+    },
+    {
+      "from": "copyright-law",
+      "to": "generative-ai",
+      "type": "is_applied_to"
+    },
+    {
+      "from": "copyright-law",
+      "to": "napster",
+      "type": "was_applied_to"
+    },
+    {
+      "from": "corporate-residence-fraud-detection",
+      "to": "evidence-counterfactual",
+      "type": "can-be-explained-by"
+    },
+    {
+      "from": "cost-of-error",
+      "to": "trust-in-ai",
+      "type": "influences"
+    },
+    {
+      "from": "cost-of-error",
+      "to": "automation-frontier",
+      "type": "determines"
+    },
+    {
+      "from": "counterfactual-explanations",
+      "to": "foster-provost",
+      "type": "is_researched_by"
+    },
+    {
+      "from": "counterfactual-explanations",
+      "to": "causal-decision-making",
+      "type": "is_related_to"
+    },
+    {
+      "from": "crowdsourced-data-in-public-health",
+      "to": "rumi-chunara",
+      "type": "is_research_topic_of"
+    },
+    {
+      "from": "crowdsourced-labeling",
+      "to": "foster-provost",
+      "type": "pioneered_by"
+    },
+    {
+      "from": "crowdsourcing",
+      "to": "panos-ipeirotis",
+      "type": "is_researched_by"
+    },
+    {
+      "from": "crowdsourcing",
+      "to": "jane-yung-jen-hsu",
+      "type": "is_researched_by"
+    },
+    {
+      "from": "curation-as-an-artist-role",
+      "to": "large-language-models",
+      "type": "is_a_potential_consequence_of"
+    },
+    {
+      "from": "curiosity-in-the-age-of-ai",
+      "to": "learning-with-machines",
+      "type": "is-central-to"
+    },
+    {
+      "from": "customer-churn",
+      "to": "binary-classification",
+      "type": "is_an_example_of"
+    },
+    {
+      "from": "data-analytic-thinking",
+      "to": "data-science-for-business",
+      "type": "is-central-concept-in"
+    },
+    {
+      "from": "data-analytic-thinking",
+      "to": "data-science",
+      "type": "is_a_part_of"
+    },
+    {
+      "from": "data-driven-investment-strategies",
+      "to": "peer-to-peer-lending",
+      "type": "is_applied_to"
+    },
+    {
+      "from": "data-driven-investment-strategies",
+      "to": "machine-learning",
+      "type": "uses"
+    },
+    {
+      "from": "data-driven-investment-strategies",
+      "to": "predictive-modeling",
+      "type": "uses"
+    },
+    {
+      "from": "data-ingestion-and-cleaning",
+      "to": "predictive-modeling",
+      "type": "is_a_prerequisite_for"
+    },
+    {
+      "from": "data-mining",
+      "to": "data-science",
+      "type": "is-technique-in"
+    },
+    {
+      "from": "data-science",
+      "to": "data-mining",
+      "type": "uses-technique"
+    },
+    {
+      "from": "data-science",
+      "to": "predictive-analytics",
+      "type": "includes-method"
+    },
+    {
+      "from": "data-science",
+      "to": "data-analytic-thinking",
+      "type": "is-fundamental-to"
+    },
+    {
+      "from": "data-science",
+      "to": "big-data",
+      "type": "uses"
+    },
+    {
+      "from": "data-science",
+      "to": "predictive-analytics",
+      "type": "includes"
+    },
+    {
+      "from": "dataframe",
+      "to": "pandas",
+      "type": "is_a_component_of"
+    },
+    {
+      "from": "digital-twins-of-ai-ceos",
+      "to": "daniel-kahneman",
+      "type": "was_discussed_with"
+    },
+    {
+      "from": "discounted-cash-flow-analysis",
+      "to": "damodaran-bot",
+      "type": "is_used_by"
+    },
+    {
+      "from": "displacement-of-labor-by-technology",
+      "to": "skill-biased-technical-change",
+      "type": "is_explained_by"
+    },
+    {
+      "from": "displacement-of-labor-by-technology",
+      "to": "reskilling",
+      "type": "is_mitigated_by"
+    },
+    {
+      "from": "dopamine-response-social-media",
+      "to": "sean-parker",
+      "type": "was-described-by"
+    },
+    {
+      "from": "echo-chambers-and-filter-bubbles",
+      "to": "hype-machine",
+      "type": "created_by"
+    },
+    {
+      "from": "echo-chambers-and-filter-bubbles",
+      "to": "political-polarization",
+      "type": "contributes_to"
+    },
+    {
+      "from": "effort-to-cloak",
+      "to": "cloaking-device",
+      "type": "is-a-metric-for"
+    },
+    {
+      "from": "effort-to-cloak",
+      "to": "lrsdv-model",
+      "type": "is-calculated-using"
+    },
+    {
+      "from": "equitable-compensation",
+      "to": "artist-consent",
+      "type": "is_related_to"
+    },
+    {
+      "from": "evidence-counterfactual",
+      "to": "instance-level-classification-explanation",
+      "type": "is-a-type-of"
+    },
+    {
+      "from": "evidence-counterfactual",
+      "to": "corporate-residence-fraud-detection",
+      "type": "applied-to"
+    },
+    {
+      "from": "evidence-counterfactual",
+      "to": "facebook",
+      "type": "can-be-used-by"
+    },
+    {
+      "from": "expected-value-framework",
+      "to": "data-science-for-business",
+      "type": "is_discussed_in"
+    },
+    {
+      "from": "expected-value-framework",
+      "to": "analytic-engineering",
+      "type": "is_used_in"
+    },
+    {
+      "from": "expected-value-framework",
+      "to": "probabilistic-roi-framework",
+      "type": "is_related_to"
+    },
+    {
+      "from": "experimentation",
+      "to": "a-b-testing",
+      "type": "includes"
+    },
+    {
+      "from": "expert-systems-paradigm",
+      "to": "damodaran-bot",
+      "type": "is_a_modern_application_of"
+    },
+    {
+      "from": "expert-systems",
+      "to": "machine-learning",
+      "type": "preceded"
+    },
+    {
+      "from": "expert-systems",
+      "to": "internist",
+      "type": "exemplified_by"
+    },
+    {
+      "from": "fair-use",
+      "to": "transformative-use",
+      "type": "is_determined_by"
+    },
+    {
+      "from": "fair-use",
+      "to": "market-effect",
+      "type": "is_determined_by"
+    },
+    {
+      "from": "fair-use",
+      "to": "google-books-case",
+      "type": "is_a_precedent_for"
+    },
+    {
+      "from": "fair-use",
+      "to": "andy-warhol-case",
+      "type": "is_a_precedent_for"
+    },
+    {
+      "from": "fairness-aware-machine-learning",
+      "to": "objectionable-bias",
+      "type": "aims_to_reduce"
+    },
+    {
+      "from": "feature-engineering",
+      "to": "chatds",
+      "type": "is-a-process-that-challenged"
+    },
+    {
+      "from": "feed-algorithms",
+      "to": "hype-machine",
+      "type": "is_a_component_of"
+    },
+    {
+      "from": "feedback-mechanisms-in-social-media",
+      "to": "the-hype-machine",
+      "type": "is_a_feature_of"
+    },
+    {
+      "from": "filter-bubbles-echo-chambers",
+      "to": "hype-machine",
+      "type": "is_a_potential_consequence_of"
+    },
+    {
+      "from": "fine-grained-behavior-data",
+      "to": "sparse-data",
+      "type": "is_characterized_by"
+    },
+    {
+      "from": "fine-tuning",
+      "to": "chatds",
+      "type": "is-a-method-to-adapt"
+    },
+    {
+      "from": "four-levers-of-change",
+      "to": "interoperability-and-portability",
+      "type": "informs"
+    },
+    {
+      "from": "four-levers",
+      "to": "attention-economy",
+      "type": "includes"
+    },
+    {
+      "from": "friend-suggestion-algorithms",
+      "to": "hype-machine",
+      "type": "is_a_component_of"
+    },
+    {
+      "from": "friend-suggestion-algorithms",
+      "to": "closing-triangles",
+      "type": "uses_method"
+    },
+    {
+      "from": "functional-music",
+      "to": "large-language-models",
+      "type": "is_a_use_case_of"
+    },
+    {
+      "from": "functional-music",
+      "to": "amper-music",
+      "type": "was_created_by"
+    },
+    {
+      "from": "functional-music",
+      "to": "boomie",
+      "type": "is_created_by"
+    },
+    {
+      "from": "gartners-hype-cycle",
+      "to": "gartner",
+      "type": "created_by"
+    },
+    {
+      "from": "general-intelligence-ai",
+      "to": "machine-learning",
+      "type": "succeeded"
+    },
+    {
+      "from": "general-intelligence-ai",
+      "to": "transformer-architecture",
+      "type": "enabled_by"
+    },
+    {
+      "from": "general-intelligence-ai",
+      "to": "chatgpt",
+      "type": "exemplified_by"
+    },
+    {
+      "from": "general-intelligence-ai",
+      "to": "common-sense-in-ai",
+      "type": "possesses"
+    },
+    {
+      "from": "general-intelligence",
+      "to": "paradigm-shifts-in-ai",
+      "type": "is_an_example_of"
+    },
+    {
+      "from": "general-intelligence",
+      "to": "common-sense-in-ai",
+      "type": "includes"
+    },
+    {
+      "from": "generative-ai",
+      "to": "voice-synthesis",
+      "type": "is-used-for"
+    },
+    {
+      "from": "generative-ai",
+      "to": "substitution-ai-in-creative-work",
+      "type": "enables"
+    },
+    {
+      "from": "generative-ai",
+      "to": "society-of-composers-and-lyricists-scl",
+      "type": "is-a-threat-to"
+    },
+    {
+      "from": "human-machine-intelligence-systems",
+      "to": "foster-provost",
+      "type": "is-research-interest-of"
+    },
+    {
+      "from": "hype-machine-concept",
+      "to": "attention-economy",
+      "type": "is-driven-by"
+    },
+    {
+      "from": "hype-machine-concept",
+      "to": "persuasion-machine",
+      "type": "is-a"
+    },
+    {
+      "from": "hype-machine",
+      "to": "influencers",
+      "type": "amplifies"
+    },
+    {
+      "from": "hype-machine",
+      "to": "political-polarization",
+      "type": "potentially_causes"
+    },
+    {
+      "from": "hype-machine",
+      "to": "spread-of-falsity",
+      "type": "enables"
+    },
+    {
+      "from": "hype-machine",
+      "to": "friend-suggestion-algorithms",
+      "type": "composed_of"
+    },
+    {
+      "from": "hype-machine",
+      "to": "feed-algorithms",
+      "type": "composed_of"
+    },
+    {
+      "from": "hyper-socialization",
+      "to": "the-hype-machine-book",
+      "type": "is_a_concept_in"
+    },
+    {
+      "from": "hyper-socialization",
+      "to": "hype-machine",
+      "type": "driven_by"
+    },
+    {
+      "from": "hyper-socialization",
+      "to": "wisdom-of-crowds",
+      "type": "contrasts_with"
+    },
+    {
+      "from": "image-forming-defensive-mechanism",
+      "to": "jiddu-krishnamurthy",
+      "type": "originated_by"
+    },
+    {
+      "from": "independence-assumption-in-naive-bayes",
+      "to": "naive-bayes",
+      "type": "is_assumption_of"
+    },
+    {
+      "from": "influencers",
+      "to": "wisdom-of-crowds",
+      "type": "undermines"
+    },
+    {
+      "from": "influencers",
+      "to": "christina-lehrman",
+      "type": "researched_by"
+    },
+    {
+      "from": "influencers",
+      "to": "jackson-and-gollum",
+      "type": "researched_by"
+    },
+    {
+      "from": "innovators-dilemma",
+      "to": "napster",
+      "type": "explains-reaction-to"
+    },
+    {
+      "from": "interoperability-and-portability",
+      "to": "network-effects",
+      "type": "counteracts"
+    },
+    {
+      "from": "interoperability",
+      "to": "structural-reform-of-social-media",
+      "type": "is_a_component_of"
+    },
+    {
+      "from": "interpretable-machine-learning",
+      "to": "been-kim",
+      "type": "is_researched_by"
+    },
+    {
+      "from": "interpretable-machine-learning",
+      "to": "tcav",
+      "type": "is_an_example_of"
+    },
+    {
+      "from": "k-nearest-neighbors",
+      "to": "non-parametric-algorithms",
+      "type": "is_a_type_of"
+    },
+    {
+      "from": "large-language-models",
+      "to": "functional-music",
+      "type": "enables"
+    },
+    {
+      "from": "large-language-models",
+      "to": "voice-fakes",
+      "type": "enables"
+    },
+    {
+      "from": "large-language-models",
+      "to": "chatgpt",
+      "type": "is_an_example_of"
+    },
+    {
+      "from": "leakage",
+      "to": "predictive-modeling",
+      "type": "is_a_problem_in"
+    },
+    {
+      "from": "learning-curve",
+      "to": "predictive-analytics",
+      "type": "is_a_tool_for"
+    },
+    {
+      "from": "learning-with-machines",
+      "to": "curiosity-in-the-age-of-ai",
+      "type": "emphasizes"
+    },
+    {
+      "from": "learning-with-machines",
+      "to": "canva",
+      "type": "utilizes"
+    },
+    {
+      "from": "likely-to-sell-model",
+      "to": "causal-effect-estimation",
+      "type": "contrasted_with"
+    },
+    {
+      "from": "likeness-rights",
+      "to": "voice-synthesis",
+      "type": "is-relevant-to"
+    },
+    {
+      "from": "loan-default",
+      "to": "peer-to-peer-lending",
+      "type": "is_a_risk_in"
+    },
+    {
+      "from": "loan-default",
+      "to": "predictive-modeling",
+      "type": "is_predicted_by"
+    },
+    {
+      "from": "logistic-regression",
+      "to": "supervised-machine-learning",
+      "type": "is_a_type_of"
+    },
+    {
+      "from": "logistic-regression",
+      "to": "binary-classification",
+      "type": "is_used_for"
+    },
+    {
+      "from": "lrsdv-model",
+      "to": "cloaking-device",
+      "type": "is-used-to-study"
+    },
+    {
+      "from": "machine-learning",
+      "to": "expert-systems",
+      "type": "succeeded"
+    },
+    {
+      "from": "machine-learning",
+      "to": "feature-engineering",
+      "type": "required"
+    },
+    {
+      "from": "machine-learning",
+      "to": "general-intelligence-ai",
+      "type": "preceded"
+    },
+    {
+      "from": "machine-programmed-ai",
+      "to": "llm",
+      "type": "describes_creation_of"
+    },
+    {
+      "from": "market-effect",
+      "to": "fair-use",
+      "type": "is_a_factor_of"
+    },
+    {
+      "from": "media-literacy",
+      "to": "hype-machine",
+      "type": "is_a_solution_for"
+    },
+    {
+      "from": "model-explainability",
+      "to": "predictive-analytics",
+      "type": "is_a_concern_for"
+    },
+    {
+      "from": "model-explainability",
+      "to": "the-explanation-trick",
+      "type": "is_addressed_by"
+    },
+    {
+      "from": "model-to-pick-a-model",
+      "to": "ab-testing",
+      "type": "depends_on"
+    },
+    {
+      "from": "modern-ai-chatbots",
+      "to": "ai",
+      "type": "is_a_type_of"
+    },
+    {
+      "from": "naive-bayes",
+      "to": "independence-assumption-in-naive-bayes",
+      "type": "is_based_on"
+    },
+    {
+      "from": "natural-experiment",
+      "to": "quasi-experiment",
+      "type": "is_a_type_of"
+    },
+    {
+      "from": "natural-experiment",
+      "to": "selection-bias",
+      "type": "is_susceptible_to"
+    },
+    {
+      "from": "network-effects",
+      "to": "facebook",
+      "type": "benefits"
+    },
+    {
+      "from": "neural-network-based-ai",
+      "to": "ai-programmed-ai",
+      "type": "is_created_by"
+    },
+    {
+      "from": "neural-precursors-to-behavior-change",
+      "to": "persuasion-machine",
+      "type": "is_a_mechanism_of"
+    },
+    {
+      "from": "news-feed-algorithms",
+      "to": "hype-machine",
+      "type": "component_of"
+    },
+    {
+      "from": "non-parametric-algorithms",
+      "to": "k-nearest-neighbors",
+      "type": "example_is"
+    },
+    {
+      "from": "objectionable-bias",
+      "to": "fairness-aware-machine-learning",
+      "type": "addressed_by"
+    },
+    {
+      "from": "objectionable-bias",
+      "to": "predictive-modeling",
+      "type": "is_a_risk_in"
+    },
+    {
+      "from": "oversampling",
+      "to": "imbalanced-data",
+      "type": "is_a_technique_for"
+    },
+    {
+      "from": "peer-to-peer-lending",
+      "to": "lending-club",
+      "type": "is_a_platform_for"
+    },
+    {
+      "from": "peer-to-peer-lending",
+      "to": "prosper",
+      "type": "is_a_platform_for"
+    },
+    {
+      "from": "peer-to-peer-lending",
+      "to": "securities-and-exchange-commission",
+      "type": "is_regulated_by"
+    },
+    {
+      "from": "persuasion-machine",
+      "to": "attention-economy",
+      "type": "is_a_goal_of"
+    },
+    {
+      "from": "persuasion-machine",
+      "to": "russian-interference-in-2016-election",
+      "type": "was_leveraged_by"
+    },
+    {
+      "from": "political-polarization",
+      "to": "hype-machine",
+      "type": "is_a_potential_consequence_of"
+    },
+    {
+      "from": "political-polarization",
+      "to": "closing-triangles",
+      "type": "is_a_potential_consequence_of"
+    },
+    {
+      "from": "predicting-loan-default",
+      "to": "predictive-modeling",
+      "type": "is_an_application_of"
+    },
+    {
+      "from": "predicting-loan-default",
+      "to": "lendingclub",
+      "type": "is_applied_to_data_from"
+    },
+    {
+      "from": "predictive-analytics",
+      "to": "expected-value-framework",
+      "type": "is_evaluated_by"
+    },
+    {
+      "from": "predictive-modeling",
+      "to": "loan-default",
+      "type": "predicts"
+    },
+    {
+      "from": "predictive-modeling",
+      "to": "data-driven-investment-strategies",
+      "type": "is_a_component_of"
+    },
+    {
+      "from": "predictive-modeling",
+      "to": "leakage",
+      "type": "is_affected_by"
+    },
+    {
+      "from": "predictive-modeling",
+      "to": "data-ingestion-and-cleaning",
+      "type": "requires"
+    },
+    {
+      "from": "predictive-modeling",
+      "to": "cloaking-device",
+      "type": "controlled_by"
+    },
+    {
+      "from": "predictive-modeling",
+      "to": "facebook-audience-network",
+      "type": "used_by"
+    },
+    {
+      "from": "predictive-models-in-music-industry",
+      "to": "spotify",
+      "type": "used-by"
+    },
+    {
+      "from": "privacy",
+      "to": "gdpr",
+      "type": "is_related_to"
+    },
+    {
+      "from": "probabilistic-roi-framework",
+      "to": "expected-value-framework",
+      "type": "is_related_to"
+    },
+    {
+      "from": "quasi-experiment",
+      "to": "ab-testing",
+      "type": "is_an_alternative_to"
+    },
+    {
+      "from": "quasi-experiment",
+      "to": "natural-experiment",
+      "type": "is_a_type_of"
+    },
+    {
+      "from": "reinforcement-learning",
+      "to": "supervised-learning",
+      "type": "is_a_type_of"
+    },
+    {
+      "from": "reinforcement-learning",
+      "to": "credit-assignment-problem",
+      "type": "characterized_by"
+    },
+    {
+      "from": "reskilling",
+      "to": "displacement-of-labor-by-technology",
+      "type": "is_a_solution_for"
+    },
+    {
+      "from": "return-on-investment",
+      "to": "predictive-modeling",
+      "type": "is_estimated_using"
+    },
+    {
+      "from": "roc-curve",
+      "to": "area-under-the-roc-curve",
+      "type": "is_basis_for"
+    },
+    {
+      "from": "roc-curve",
+      "to": "imbalanced-data",
+      "type": "is_used_for"
+    },
+    {
+      "from": "rule-based-expert-systems",
+      "to": "paradigm-shifts-in-ai",
+      "type": "is_an_example_of"
+    },
+    {
+      "from": "russian-interference-2016-election",
+      "to": "persuasion-machine",
+      "type": "is-an-example-of"
+    },
+    {
+      "from": "scatter-plot",
+      "to": "bubble-chart",
+      "type": "is_alternative_to"
+    },
+    {
+      "from": "selection-bias",
+      "to": "natural-experiment",
+      "type": "affects"
+    },
+    {
+      "from": "selection-bias",
+      "to": "ab-testing",
+      "type": "is_avoided_by"
+    },
+    {
+      "from": "short-term-engagement-model",
+      "to": "false-news",
+      "type": "amplifies"
+    },
+    {
+      "from": "short-term-engagement-model",
+      "to": "delete-facebook-movement",
+      "type": "causes"
+    },
+    {
+      "from": "short-term-engagement-model",
+      "to": "stop-hate-for-profit-movement",
+      "type": "causes"
+    },
+    {
+      "from": "skill-bias-technical-change",
+      "to": "the-grapes-of-wrath",
+      "type": "is_illustrated_by"
+    },
+    {
+      "from": "skill-biased-technical-change",
+      "to": "displacement-of-labor-by-technology",
+      "type": "explains"
+    },
+    {
+      "from": "social-validation",
+      "to": "attention-economy",
+      "type": "supports"
+    },
+    {
+      "from": "sparse-data",
+      "to": "fine-grained-behavior-data",
+      "type": "is_a_characteristic_of"
+    },
+    {
+      "from": "spread-of-falsity",
+      "to": "twitter",
+      "type": "studied_on"
+    },
+    {
+      "from": "spread-of-falsity",
+      "to": "science-journal",
+      "type": "published_in"
+    },
+    {
+      "from": "statistical-inference-on-social-media-data",
+      "to": "facebook",
+      "type": "uses-data-from"
+    },
+    {
+      "from": "statistical-inference-on-social-media-data",
+      "to": "black-box-predictive-models",
+      "type": "is-performed-by"
+    },
+    {
+      "from": "structural-reform-of-social-media",
+      "to": "interoperability",
+      "type": "includes"
+    },
+    {
+      "from": "structural-reform-of-social-media",
+      "to": "walled-gardens",
+      "type": "aims_to_dismantle"
+    },
+    {
+      "from": "substitution-ai-in-creative-work",
+      "to": "generative-ai",
+      "type": "is-a-concern-of"
+    },
+    {
+      "from": "supervised-learning",
+      "to": "unsupervised-learning",
+      "type": "contrasted_with"
+    },
+    {
+      "from": "synthetic-voices",
+      "to": "voice-forensics",
+      "type": "analyzed-by"
+    },
+    {
+      "from": "techno-dystopianism",
+      "to": "techno-utopianism",
+      "type": "followed"
+    },
+    {
+      "from": "techno-utopianism",
+      "to": "techno-dystopianism",
+      "type": "preceded"
+    },
+    {
+      "from": "the-explanation-trick",
+      "to": "model-explainability",
+      "type": "is_a_technique_for"
+    },
+    {
+      "from": "the-hype-machine-concept",
+      "to": "attention-economy",
+      "type": "is_driven_by"
+    },
+    {
+      "from": "the-hype-machine-concept",
+      "to": "persuasion-machine",
+      "type": "is_related_to"
+    },
+    {
+      "from": "the-persuasion-machine",
+      "to": "short-term-engagement-model",
+      "type": "enables"
+    },
+    {
+      "from": "theoretical-causal-model",
+      "to": "causal-analytics",
+      "type": "is_a_tool_for"
+    },
+    {
+      "from": "train-test-split",
+      "to": "logistic-regression",
+      "type": "is_a_step_in"
+    },
+    {
+      "from": "training-data-provenance",
+      "to": "artist-consent",
+      "type": "is_a_method_for_enforcing"
+    },
+    {
+      "from": "training-on-publicly-available-material",
+      "to": "generative-ai",
+      "type": "is-a-method-for"
+    },
+    {
+      "from": "transformative-test",
+      "to": "fair-use",
+      "type": "part_of"
+    },
+    {
+      "from": "transformative-use",
+      "to": "fair-use",
+      "type": "is_a_factor_of"
+    },
+    {
+      "from": "transformative-use",
+      "to": "google-books-case",
+      "type": "was_winning_argument_in"
+    },
+    {
+      "from": "transformer-architecture",
+      "to": "general-intelligence-ai",
+      "type": "enabled"
+    },
+    {
+      "from": "trust-in-ai",
+      "to": "cost-of-error",
+      "type": "depends_on"
+    },
+    {
+      "from": "undersampling",
+      "to": "imbalanced-data",
+      "type": "is_a_technique_for"
+    },
+    {
+      "from": "unsupervised-learning",
+      "to": "supervised-learning",
+      "type": "contrasted_with"
+    },
+    {
+      "from": "valuation-thesis",
+      "to": "damodaran-bot",
+      "type": "is_a_key_input_for"
+    },
+    {
+      "from": "variance-in-machine-learning",
+      "to": "bias-variance-tradeoff",
+      "type": "component_of"
+    },
+    {
+      "from": "voice-fakes",
+      "to": "large-language-models",
+      "type": "is_a_capability_of"
+    },
+    {
+      "from": "voice-forensics",
+      "to": "national-institute-of-standards",
+      "type": "has-testing-protocol-from"
+    },
+    {
+      "from": "voice-synthesis",
+      "to": "generative-ai",
+      "type": "is-a-type-of"
+    },
+    {
+      "from": "voice-synthesis",
+      "to": "likeness-rights",
+      "type": "raises-issues-of"
+    },
+    {
+      "from": "voice-synthesis",
+      "to": "holly-plus",
+      "type": "is-exemplified-by"
+    },
+    {
+      "from": "vote-choice-social-media-influence",
+      "to": "persuasion-machine",
+      "type": "is-an-effect-of"
+    },
+    {
+      "from": "voter-turnout-social-media-influence",
+      "to": "persuasion-machine",
+      "type": "is-an-effect-of"
+    },
+    {
+      "from": "walled-gardens",
+      "to": "structural-reform-of-social-media",
+      "type": "is_targeted_by"
+    },
+    {
+      "from": "wisdom-of-crowds",
+      "to": "influencers",
+      "type": "undermined_by"
+    },
+    {
+      "from": "wisdom-of-crowds",
+      "to": "hype-machine",
+      "type": "is_eroded_by"
+    },
+    {
+      "from": "american-pie-song",
+      "to": "ai-model-training",
+      "type": "is_evidence_of_infringement_in"
+    },
+    {
+      "from": "amper-music",
+      "to": "functional-music",
+      "type": "created"
+    },
+    {
+      "from": "andreessen-horowitz",
+      "to": "artist-consent",
+      "type": "opposes"
+    },
+    {
+      "from": "andy-warhol-case",
+      "to": "fair-use",
+      "type": "is_a_precedent_for"
+    },
+    {
+      "from": "aswath-damodaran",
+      "to": "damodaran-bot",
+      "type": "is_the_model_for"
+    },
+    {
+      "from": "aswath-damodaran",
+      "to": "ginsu",
+      "type": "created"
+    },
+    {
+      "from": "auto-tune",
+      "to": "large-language-models",
+      "type": "is_an_analogy_for"
+    },
+    {
+      "from": "been-kim",
+      "to": "google-brain",
+      "type": "works_at"
+    },
+    {
+      "from": "been-kim",
+      "to": "interpretable-machine-learning",
+      "type": "researches"
+    },
+    {
+      "from": "been-kim",
+      "to": "tcav",
+      "type": "created"
+    },
+    {
+      "from": "boomie",
+      "to": "functional-music",
+      "type": "creates"
+    },
+    {
+      "from": "boomy-ai",
+      "to": "functional-music",
+      "type": "creator-of"
+    },
+    {
+      "from": "bruce-g-buchanan",
+      "to": "foster-provost",
+      "type": "advised"
+    },
+    {
+      "from": "canva",
+      "to": "learning-with-machines",
+      "type": "is-tool-for"
+    },
+    {
+      "from": "capital-one",
+      "to": "data-as-an-asset",
+      "type": "exemplifies"
+    },
+    {
+      "from": "carlos-fernandez-lauria",
+      "to": "causal-impact-models",
+      "type": "researches"
+    },
+    {
+      "from": "carlos",
+      "to": "productbooklab-com",
+      "type": "hosts-for"
+    },
+    {
+      "from": "chat-ds",
+      "to": "joao-sedoc",
+      "type": "is_interviewed_by"
+    },
+    {
+      "from": "chat-ds",
+      "to": "foster-provost",
+      "type": "is_interviewed_by"
+    },
+    {
+      "from": "chat-ds",
+      "to": "pandas",
+      "type": "uses"
+    },
+    {
+      "from": "chat-ds",
+      "to": "jupiter-notebook",
+      "type": "uses"
+    },
+    {
+      "from": "chatds",
+      "to": "fine-tuning",
+      "type": "can-be-adapted-via"
+    },
+    {
+      "from": "chatds",
+      "to": "ai-in-medicine",
+      "type": "has-potential-use-case-similar-to"
+    },
+    {
+      "from": "chatgpt",
+      "to": "large-language-models",
+      "type": "is_an_example_of"
+    },
+    {
+      "from": "christina-lehrman",
+      "to": "influencers",
+      "type": "researched"
+    },
+    {
+      "from": "compass",
+      "to": "foster-provost",
+      "type": "employs"
+    },
+    {
+      "from": "compass",
+      "to": "quasi-experiment",
+      "type": "uses"
+    },
+    {
+      "from": "content-id",
+      "to": "youtube",
+      "type": "used-by"
+    },
+    {
+      "from": "cyberwar-book",
+      "to": "kathleen-hall-jamison",
+      "type": "authored-by"
+    },
+    {
+      "from": "cyberwar-book",
+      "to": "russian-interference-2016-election",
+      "type": "discusses"
+    },
+    {
+      "from": "cyc-project",
+      "to": "doug-lenat",
+      "type": "headed_by"
+    },
+    {
+      "from": "cyc-project",
+      "to": "common-sense-in-ai",
+      "type": "attempted_to_build"
+    },
+    {
+      "from": "damodaran-bot",
+      "to": "aswath-damodaran",
+      "type": "is_based_on_thinking_of"
+    },
+    {
+      "from": "damodaran-bot",
+      "to": "vasant-dhar",
+      "type": "was_co_created_by"
+    },
+    {
+      "from": "damodaran-bot",
+      "to": "xiao-sid-dog",
+      "type": "was_co_created_by"
+    },
+    {
+      "from": "damodaran-bot",
+      "to": "agentic-ai",
+      "type": "is_an_instance_of"
+    },
+    {
+      "from": "damodaran-bot",
+      "to": "discounted-cash-flow-analysis",
+      "type": "uses"
+    },
+    {
+      "from": "damodaran-bot",
+      "to": "ginsu",
+      "type": "incorporates"
+    },
+    {
+      "from": "daniel-kahneman",
+      "to": "digital-twins-of-ai-ceos",
+      "type": "discussed"
+    },
+    {
+      "from": "data-science-for-business",
+      "to": "foster-provost",
+      "type": "authored_by"
+    },
+    {
+      "from": "data-science-for-business",
+      "to": "expected-value-framework",
+      "type": "discusses"
+    },
+    {
+      "from": "debot",
+      "to": "ginsu",
+      "type": "contains"
+    },
+    {
+      "from": "debot",
+      "to": "oswath",
+      "type": "emulates"
+    },
+    {
+      "from": "debot",
+      "to": "discounted-cash-flow-analysis",
+      "type": "uses"
+    },
+    {
+      "from": "debot",
+      "to": "automation-frontier",
+      "type": "is_on"
+    },
+    {
+      "from": "demystifying-ai-chats",
+      "to": "youtube",
+      "type": "is_hosted_on"
+    },
+    {
+      "from": "discover-weekly-playlist",
+      "to": "spotify",
+      "type": "feature-of"
+    },
+    {
+      "from": "discover-weekly-playlist",
+      "to": "collaborative-filtering",
+      "type": "based-on"
+    },
+    {
+      "from": "discover-weekly",
+      "to": "spotify",
+      "type": "is-offered-by"
+    },
+    {
+      "from": "discover-weekly",
+      "to": "collaborative-filtering",
+      "type": "is-based-on"
+    },
+    {
+      "from": "doug-lenat",
+      "to": "cyc-project",
+      "type": "headed"
+    },
+    {
+      "from": "dstillery",
+      "to": "foster-provost",
+      "type": "co_founded_by"
+    },
+    {
+      "from": "elon-musk",
+      "to": "muskbot",
+      "type": "is_related_to"
+    },
+    {
+      "from": "facebook-audience-network",
+      "to": "predictive-modeling",
+      "type": "uses"
+    },
+    {
+      "from": "facebook",
+      "to": "friend-suggestion-algorithms",
+      "type": "uses"
+    },
+    {
+      "from": "facebook",
+      "to": "feed-algorithms",
+      "type": "uses"
+    },
+    {
+      "from": "fico-score",
+      "to": "leakage",
+      "type": "can_be_a_source_of"
+    },
+    {
+      "from": "foster-provost",
+      "to": "sinan-aral",
+      "type": "interviewed"
+    },
+    {
+      "from": "foster-provost",
+      "to": "the-hype-machine-book",
+      "type": "is_featured_in"
+    },
+    {
+      "from": "fubon-center-for-technology-business-and-innovation",
+      "to": "nyu-stern",
+      "type": "is-part-of"
+    },
+    {
+      "from": "garry-kasparov",
+      "to": "machine-learning-algorithms",
+      "type": "used_in_analogy_for"
+    },
+    {
+      "from": "gartner",
+      "to": "gartners-hype-cycle",
+      "type": "created"
+    },
+    {
+      "from": "ginsu",
+      "to": "aswath-damodaran",
+      "type": "was_created_by"
+    },
+    {
+      "from": "ginsu",
+      "to": "damodaran-bot",
+      "type": "is_a_component_of"
+    },
+    {
+      "from": "google-books-case",
+      "to": "fair-use",
+      "type": "is_an_example_of"
+    },
+    {
+      "from": "google-books-case",
+      "to": "transformative-use",
+      "type": "was_won_based_on"
+    },
+    {
+      "from": "google-books-case",
+      "to": "fair-use",
+      "type": "is_a_precedent_for"
+    },
+    {
+      "from": "google-books",
+      "to": "fair-use",
+      "type": "example-of"
+    },
+    {
+      "from": "google-brain",
+      "to": "been-kim",
+      "type": "employs"
+    },
+    {
+      "from": "herb-simon",
+      "to": "vasant-dhar",
+      "type": "influenced"
+    },
+    {
+      "from": "holly-herndon",
+      "to": "holly-plus",
+      "type": "created"
+    },
+    {
+      "from": "holly-plus",
+      "to": "holly-herndon",
+      "type": "was-created-by"
+    },
+    {
+      "from": "holly-plus",
+      "to": "voice-synthesis",
+      "type": "is-an-example-of"
+    },
+    {
+      "from": "howie-singer",
+      "to": "warner-music",
+      "type": "worked-at"
+    },
+    {
+      "from": "howie-singer",
+      "to": "universal-music",
+      "type": "consulted-for"
+    },
+    {
+      "from": "howie-singer",
+      "to": "key-changes-book",
+      "type": "authored"
+    },
+    {
+      "from": "hype-machine-book",
+      "to": "hype-machine-concept",
+      "type": "discusses"
+    },
+    {
+      "from": "hype-machine-book",
+      "to": "hyper-socialization",
+      "type": "discusses"
+    },
+    {
+      "from": "hype-machine-book",
+      "to": "russian-interference-2016-election",
+      "type": "discusses"
+    },
+    {
+      "from": "hype-machine",
+      "to": "wisdom-of-crowds",
+      "type": "erodes"
+    },
+    {
+      "from": "integral-ad-science",
+      "to": "foster-provost",
+      "type": "founded_by"
+    },
+    {
+      "from": "international-machine-learning-society",
+      "to": "foster-provost",
+      "type": "has_founding_board_member"
+    },
+    {
+      "from": "international-machine-learning-society",
+      "to": "foster-provost",
+      "type": "has-on-founding-board"
+    },
+    {
+      "from": "international-machine-learning-society",
+      "to": "tom-fawcett",
+      "type": "has-on-board"
+    },
+    {
+      "from": "internist",
+      "to": "expert-systems",
+      "type": "is_an_example_of"
+    },
+    {
+      "from": "internist",
+      "to": "vasant-dhar",
+      "type": "inspired"
+    },
+    {
+      "from": "internist",
+      "to": "jack-myers",
+      "type": "used_by"
+    },
+    {
+      "from": "jack-myers",
+      "to": "internist",
+      "type": "used"
+    },
+    {
+      "from": "jackson-and-gollum",
+      "to": "influencers",
+      "type": "researched"
+    },
+    {
+      "from": "jackson-and-gollum",
+      "to": "wisdom-of-crowds",
+      "type": "researched"
+    },
+    {
+      "from": "jane-yung-jen-hsu",
+      "to": "national-taiwan-university",
+      "type": "works_at"
+    },
+    {
+      "from": "jane-yung-jen-hsu",
+      "to": "augmented-collective-beings",
+      "type": "leads_research_on"
+    },
+    {
+      "from": "jane-yung-jen-hsu",
+      "to": "crowdsourcing",
+      "type": "researches"
+    },
+    {
+      "from": "jiddu-krishnamurthy",
+      "to": "image-forming-defensive-mechanism",
+      "type": "created"
+    },
+    {
+      "from": "jiddu-krishnamurti",
+      "to": "hyper-socialization",
+      "type": "explains"
+    },
+    {
+      "from": "joao-sedoc",
+      "to": "chat-ds",
+      "type": "interviewed"
+    },
+    {
+      "from": "joao-sedoc",
+      "to": "nyu-stern",
+      "type": "affiliated_with"
+    },
+    {
+      "from": "joao-sedoc",
+      "to": "chat-ds",
+      "type": "interviews"
+    },
+    {
+      "from": "john-steinbeck",
+      "to": "the-grapes-of-wrath",
+      "type": "authored"
+    },
+    {
+      "from": "kathleen-hall-jamison",
+      "to": "cyberwar-book",
+      "type": "authored"
+    },
+    {
+      "from": "kathleen-hall-jamison",
+      "to": "nate-silver",
+      "type": "has-opposing-view-to"
+    },
+    {
+      "from": "key-changes-book",
+      "to": "howie-singer",
+      "type": "was-authored-by"
+    },
+    {
+      "from": "lending-club",
+      "to": "peer-to-peer-lending",
+      "type": "is_a_platform_for"
+    },
+    {
+      "from": "lending-club",
+      "to": "prosper",
+      "type": "is_competitor_of"
+    },
+    {
+      "from": "lendingclub",
+      "to": "predicting-loan-default",
+      "type": "provides_data_for"
+    },
+    {
+      "from": "linkedin",
+      "to": "friend-suggestion-algorithms",
+      "type": "uses"
+    },
+    {
+      "from": "llm",
+      "to": "machine-programmed-ai",
+      "type": "is_created_by"
+    },
+    {
+      "from": "machine-learning-journal",
+      "to": "foster-provost",
+      "type": "had-as-editor-in-chief"
+    },
+    {
+      "from": "machine-learning-journal",
+      "to": "tom-fawcett",
+      "type": "has-as-editor"
+    },
+    {
+      "from": "midjourney",
+      "to": "generative-ai",
+      "type": "is-an-example-of"
+    },
+    {
+      "from": "mit-initiative-on-the-digital-economy",
+      "to": "sinan-aral",
+      "type": "has_director"
+    },
+    {
+      "from": "muskbot",
+      "to": "elon-musk",
+      "type": "is_based_on"
+    },
+    {
+      "from": "muskbot",
+      "to": "ai-as-a-successor",
+      "type": "is_an_example_of"
+    },
+    {
+      "from": "mypersonality",
+      "to": "facebook",
+      "type": "is-an-application-on"
+    },
+    {
+      "from": "nate-silver",
+      "to": "kathleen-hall-jamison",
+      "type": "has-opposing-view-to"
+    },
+    {
+      "from": "national-institute-of-standards",
+      "to": "voice-forensics",
+      "type": "provides-testing-protocol-for"
+    },
+    {
+      "from": "new-york-university",
+      "to": "panos-ipeirotis",
+      "type": "employs"
+    },
+    {
+      "from": "new-york-university",
+      "to": "rumi-chunara",
+      "type": "affiliated_with"
+    },
+    {
+      "from": "nyu-center-for-data-science",
+      "to": "foster-provost",
+      "type": "is-co-directed-by"
+    },
+    {
+      "from": "nyu-stern-school-of-business",
+      "to": "foster-provost",
+      "type": "employs"
+    },
+    {
+      "from": "oswath",
+      "to": "debot",
+      "type": "is_emulated_by"
+    },
+    {
+      "from": "panos-ipeirotis",
+      "to": "new-york-university",
+      "type": "works_at"
+    },
+    {
+      "from": "panos-ipeirotis",
+      "to": "crowdsourcing",
+      "type": "researches"
+    },
+    {
+      "from": "paul-bennett",
+      "to": "microsoft-research-ai",
+      "type": "works_at"
+    },
+    {
+      "from": "prosper",
+      "to": "peer-to-peer-lending",
+      "type": "is_a_platform_for"
+    },
+    {
+      "from": "prosper",
+      "to": "lending-club",
+      "type": "is_competitor_of"
+    },
+    {
+      "from": "ronnie-kohavi",
+      "to": "a-b-testing",
+      "type": "advocates_for"
+    },
+    {
+      "from": "rumi-chunara",
+      "to": "new-york-university",
+      "type": "affiliated_with"
+    },
+    {
+      "from": "rumi-chunara",
+      "to": "crowdsourced-data-in-public-health",
+      "type": "presented_on"
+    },
+    {
+      "from": "russian-interference-in-2016-election",
+      "to": "persuasion-machine",
+      "type": "is_an_example_of"
+    },
+    {
+      "from": "science-journal",
+      "to": "spread-of-falsity",
+      "type": "published"
+    },
+    {
+      "from": "scott-page",
+      "to": "wisdom-of-crowds",
+      "type": "researched"
+    },
+    {
+      "from": "scott-page",
+      "to": "influencers",
+      "type": "researched"
+    },
+    {
+      "from": "sean-parker",
+      "to": "dopamine-response-social-media",
+      "type": "commented-on"
+    },
+    {
+      "from": "sean",
+      "to": "vasant-dhar",
+      "type": "hosted"
+    },
+    {
+      "from": "securities-and-exchange-commission",
+      "to": "peer-to-peer-lending",
+      "type": "regulates"
+    },
+    {
+      "from": "shutterstock",
+      "to": "amper-music",
+      "type": "acquired"
+    },
+    {
+      "from": "sinan-aral",
+      "to": "the-hype-machine-book",
+      "type": "authored"
+    },
+    {
+      "from": "sinan-aral",
+      "to": "mit-initiative-on-the-digital-economy",
+      "type": "is_director_of"
+    },
+    {
+      "from": "society-of-composers-and-lyricists-scl",
+      "to": "generative-ai",
+      "type": "is-threatened-by"
+    },
+    {
+      "from": "spotify",
+      "to": "ab-testing",
+      "type": "uses"
+    },
+    {
+      "from": "spotify",
+      "to": "model-to-pick-a-model",
+      "type": "uses"
+    },
+    {
+      "from": "tcav",
+      "to": "been-kim",
+      "type": "created_by"
+    },
+    {
+      "from": "the-grapes-of-wrath",
+      "to": "john-steinbeck",
+      "type": "authored_by"
+    },
+    {
+      "from": "the-grapes-of-wrath",
+      "to": "skill-bias-technical-change",
+      "type": "illustrates_effects_of"
+    },
+    {
+      "from": "the-hype-machine-book",
+      "to": "sinan-aral",
+      "type": "authored_by"
+    },
+    {
+      "from": "the-hype-machine-book",
+      "to": "the-hype-machine-concept",
+      "type": "describes"
+    },
+    {
+      "from": "the-hype-machine-book",
+      "to": "attention-economy",
+      "type": "discusses"
+    },
+    {
+      "from": "the-hype-machine",
+      "to": "feedback-mechanisms-in-social-media",
+      "type": "features"
+    },
+    {
+      "from": "the-social-dilemma",
+      "to": "false-news",
+      "type": "highlights-problem-of"
+    },
+    {
+      "from": "thinking-with-machines",
+      "to": "vasant-dhar",
+      "type": "authored_by"
+    },
+    {
+      "from": "tom-fassett",
+      "to": "data-science-for-business",
+      "type": "authored"
+    },
+    {
+      "from": "tom-fawcett",
+      "to": "foster-provost",
+      "type": "collaborated_with"
+    },
+    {
+      "from": "tom-fawcett",
+      "to": "data-science-for-business",
+      "type": "co_authored"
+    },
+    {
+      "from": "tom-fawcett",
+      "to": "foster-provost",
+      "type": "co-authored-with"
+    },
+    {
+      "from": "tom-fawcett",
+      "to": "data-science-for-business",
+      "type": "authored"
+    },
+    {
+      "from": "tom-fawcett",
+      "to": "machine-learning-journal",
+      "type": "is-editor-of"
+    },
+    {
+      "from": "tom-fawcett",
+      "to": "international-machine-learning-society",
+      "type": "is-board-member-of"
+    },
+    {
+      "from": "twitter",
+      "to": "spread-of-falsity",
+      "type": "is_setting_for"
+    },
+    {
+      "from": "universal-music",
+      "to": "voice-synthesis",
+      "type": "advocates-for-regulation-of"
+    },
+    {
+      "from": "vasant-dhar",
+      "to": "herb-simon",
+      "type": "was_influenced_by"
+    },
+    {
+      "from": "vasant-dhar",
+      "to": "internist",
+      "type": "was_inspired_by"
+    },
+    {
+      "from": "vasant-dhar",
+      "to": "foster-provost",
+      "type": "in_conversation_with"
+    },
+    {
+      "from": "vasant-dhar",
+      "to": "general-intelligence-ai",
+      "type": "coined_term"
+    },
+    {
+      "from": "vasant-dhar",
+      "to": "damodaran-bot",
+      "type": "co-created"
+    },
+    {
+      "from": "vasant-dhar",
+      "to": "learning-with-machines",
+      "type": "advocates-for"
+    },
+    {
+      "from": "vasant-dhar",
+      "to": "sean",
+      "type": "visited-classroom-of"
+    },
+    {
+      "from": "verizon",
+      "to": "foster-provost",
+      "type": "employed"
+    },
+    {
+      "from": "warner-music",
+      "to": "howie-singer",
+      "type": "employed"
+    },
+    {
+      "from": "waymo",
+      "to": "automation-frontier",
+      "type": "is_an_example_of"
+    },
+    {
+      "from": "whimo",
+      "to": "automation-frontier",
+      "type": "is_crossing"
+    },
+    {
+      "from": "xiao-sid-dog",
+      "to": "damodaran-bot",
+      "type": "co-created"
+    },
+    {
+      "from": "xiao-sid-dog",
+      "to": "vasant-dhar",
+      "type": "collaborated_with"
+    },
+    {
+      "from": "index",
+      "to": "persona/foster-provost",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "persona/thinking-patterns",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "persona/intellectual-evolution",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "persona/rhetorical-style-and-pedagogy",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "persona/causal-vs-predictive-targeting",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "persona/counterfactual-explanations-for-inference",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "persona/data-leakage-in-applied-data-science",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "persona/mentor-network-and-influences",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/a-b-testing",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ab-test",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ab-testing",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/adaptive-wisdom-of-crowds",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/agentic-ai",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-as-a-successor",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-as-a-tool-for-augmentation",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-as-an-amplifier-of-knowledge",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-as-an-augmentation-tool",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-generated-likeness",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-hallucination",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-in-medicine",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-insight",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-managed-affairs",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-model-training",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-obligations",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-programmed-ai",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-restrictions",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-rights",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai-scale-advantage",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/ai",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/algorithmic-amplification",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/analytic-engineering",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/area-under-the-roc-curve",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/artist-consent",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/artistic-influence",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/attention-economy",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/attribution-modeling",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/auc",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/audience-selection-for-on-line-brand-advertising",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/augmented-collective-beings",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/automation-frontier",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/bandit-algorithms",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/bandit-modeling",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/bandit-problem",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/base-rate",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/bias-in-machine-learning",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/bias-variance-tradeoff",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/bifurcation-of-humanity",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/big-data-and-data-science",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/big-data",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/binary-classification",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/black-box-predictive-models",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/bubble-chart",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/business-impact-with-machine-learning",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/causal-analytics",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/causal-classification",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/causal-decision-making",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/causal-effect-estimation",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/causal-impact-models",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/causal-inference-at-massive-scale",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/causal-inference",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/causal-targeting",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/churn-prediction",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/cloaking-device",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/closing-triangles",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/collaborative-filtering",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/common-sense-in-ai",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/consent-for-ai-training",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/consequences-of-error",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/consumer-surplus",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/copyright-law",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/corporate-residence-fraud-detection",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/cost-of-error",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/counterfactual-explanations",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/credit-assignment-problem",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/crowdsourced-data-in-public-health",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/crowdsourced-labeling",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/crowdsourcing",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/curation-as-an-artist-role",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/curiosity-in-the-age-of-ai",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/customer-churn",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/data-analytic-thinking",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/data-as-an-asset",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/data-driven-investment-strategies",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/data-ingestion-and-cleaning",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/data-mining",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/data-privacy-and-security",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/data-science",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/dataframe",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/digital-twins-of-ai-ceos",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/discounted-cash-flow-analysis",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/displacement-of-labor-by-technology",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/dopamine-response-social-media",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/echo-chambers-and-filter-bubbles",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/effort-to-cloak",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/equitable-compensation",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/evidence-counterfactual",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/expected-roi-framework",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/expected-value-framework",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/experimentation",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/expert-systems-paradigm",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/expert-systems",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/fair-use",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/fairness-aware-machine-learning",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/false-news-detection-for-users",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/false-news",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/feature-engineering",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/feed-algorithms",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/feedback-mechanisms-in-social-media",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/filter-bubbles-echo-chambers",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/fine-grained-behavior-data",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/fine-tuning",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/four-levers-of-change",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/four-levers",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/friend-suggestion-algorithms",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/functional-music",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/gartners-hype-cycle",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/general-intelligence-ai",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/general-intelligence",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/generative-ai",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/human-machine-intelligence-systems",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/hype-machine-concept",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/hype-machine",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/hyper-socialization",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/image-forming-defensive-mechanism",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/imbalanced-data",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/independence-assumption-in-naive-bayes",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/influencers",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/innovators-dilemma",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/instance-level-classification-explanation",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/interoperability-and-portability",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/interoperability",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/interpretable-machine-learning",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/k-nearest-neighbors",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/large-language-models",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/leakage",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/learning-curve",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/learning-with-machines",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/likely-to-sell-model",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/likeness-rights",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/linear-regression",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/loan-default",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/logistic-regression",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/lrsdv-model",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/machine-learning-algorithms",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/machine-learning",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/machine-programmed-ai",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/market-effect",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/media-literacy",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/model-explainability",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/model-to-pick-a-model",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/modern-ai-chatbots",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/multimodal-models",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/music-sampling",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/naive-bayes",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/natural-experiment",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/network-effects",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/neural-network-based-ai",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/neural-precursors-to-behavior-change",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/news-feed-algorithms",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/non-parametric-algorithms",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/objectionable-bias",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/online-advertising-attribution",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/oversampling",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/paradigm-shifts-in-ai",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/peer-to-peer-lending",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/persuasion-machine",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/political-polarization",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/predicting-loan-default",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/predictive-analytics",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/predictive-modeling",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/predictive-models-in-music-industry",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/predictive-models-in-music",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/privacy",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/probabilistic-roi-framework",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/quasi-experiment",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/reinforcement-learning",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/reskilling",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/response-inhibition",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/return-on-investment",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/roc-curve",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/rule-based-expert-systems",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/russian-interference-2016-election",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/sampling-music",
+      "type": "references"
+    },
+    {
+      "from": "index",
+      "to": "concepts/scatter-plot",
+      "type": "references"
+    },
+    {
+      "from": "causal-vs-predictive-targeting",
+      "to": "foster-provost",
+      "type": "related_to"
+    },
+    {
+      "from": "causal-vs-predictive-targeting",
+      "to": "thinking-patterns",
+      "type": "related_to"
+    },
+    {
+      "from": "causal-vs-predictive-targeting",
+      "to": "intellectual-evolution",
+      "type": "related_to"
+    },
+    {
+      "from": "causal-vs-predictive-targeting",
+      "to": "rhetorical-style-and-pedagogy",
+      "type": "related_to"
+    },
+    {
+      "from": "causal-vs-predictive-targeting",
+      "to": "foster-provost",
+      "type": "part_of"
+    },
+    {
+      "from": "counterfactual-explanations-for-inference",
+      "to": "foster-provost",
+      "type": "related_to"
+    },
+    {
+      "from": "counterfactual-explanations-for-inference",
+      "to": "thinking-patterns",
+      "type": "related_to"
+    },
+    {
+      "from": "counterfactual-explanations-for-inference",
+      "to": "intellectual-evolution",
+      "type": "related_to"
+    },
+    {
+      "from": "counterfactual-explanations-for-inference",
+      "to": "rhetorical-style-and-pedagogy",
+      "type": "related_to"
+    },
+    {
+      "from": "counterfactual-explanations-for-inference",
+      "to": "foster-provost",
+      "type": "part_of"
+    },
+    {
+      "from": "data-leakage-in-applied-data-science",
+      "to": "foster-provost",
+      "type": "related_to"
+    },
+    {
+      "from": "data-leakage-in-applied-data-science",
+      "to": "thinking-patterns",
+      "type": "related_to"
+    },
+    {
+      "from": "data-leakage-in-applied-data-science",
+      "to": "intellectual-evolution",
+      "type": "related_to"
+    },
+    {
+      "from": "data-leakage-in-applied-data-science",
+      "to": "rhetorical-style-and-pedagogy",
+      "type": "related_to"
+    },
+    {
+      "from": "data-leakage-in-applied-data-science",
+      "to": "foster-provost",
+      "type": "part_of"
+    },
+    {
+      "from": "foster-provost",
+      "to": "thinking-patterns",
+      "type": "related_to"
+    },
+    {
+      "from": "foster-provost",
+      "to": "intellectual-evolution",
+      "type": "related_to"
+    },
+    {
+      "from": "foster-provost",
+      "to": "rhetorical-style-and-pedagogy",
+      "type": "related_to"
+    },
+    {
+      "from": "foster-provost",
+      "to": "mentor-network-and-influences",
+      "type": "related_to"
+    },
+    {
+      "from": "intellectual-evolution",
+      "to": "foster-provost",
+      "type": "related_to"
+    },
+    {
+      "from": "intellectual-evolution",
+      "to": "thinking-patterns",
+      "type": "related_to"
+    },
+    {
+      "from": "intellectual-evolution",
+      "to": "rhetorical-style-and-pedagogy",
+      "type": "related_to"
+    },
+    {
+      "from": "intellectual-evolution",
+      "to": "mentor-network-and-influences",
+      "type": "related_to"
+    },
+    {
+      "from": "intellectual-evolution",
+      "to": "foster-provost",
+      "type": "part_of"
+    },
+    {
+      "from": "mentor-network-and-influences",
+      "to": "foster-provost",
+      "type": "related_to"
+    },
+    {
+      "from": "mentor-network-and-influences",
+      "to": "thinking-patterns",
+      "type": "related_to"
+    },
+    {
+      "from": "mentor-network-and-influences",
+      "to": "intellectual-evolution",
+      "type": "related_to"
+    },
+    {
+      "from": "mentor-network-and-influences",
+      "to": "rhetorical-style-and-pedagogy",
+      "type": "related_to"
+    },
+    {
+      "from": "mentor-network-and-influences",
+      "to": "foster-provost",
+      "type": "part_of"
+    },
+    {
+      "from": "rhetorical-style-and-pedagogy",
+      "to": "foster-provost",
+      "type": "related_to"
+    },
+    {
+      "from": "rhetorical-style-and-pedagogy",
+      "to": "thinking-patterns",
+      "type": "related_to"
+    },
+    {
+      "from": "rhetorical-style-and-pedagogy",
+      "to": "intellectual-evolution",
+      "type": "related_to"
+    },
+    {
+      "from": "rhetorical-style-and-pedagogy",
+      "to": "mentor-network-and-influences",
+      "type": "related_to"
+    },
+    {
+      "from": "rhetorical-style-and-pedagogy",
+      "to": "foster-provost",
+      "type": "part_of"
+    },
+    {
+      "from": "thinking-patterns",
+      "to": "foster-provost",
+      "type": "related_to"
+    },
+    {
+      "from": "thinking-patterns",
+      "to": "intellectual-evolution",
+      "type": "related_to"
+    },
+    {
+      "from": "thinking-patterns",
+      "to": "rhetorical-style-and-pedagogy",
+      "type": "related_to"
+    },
+    {
+      "from": "thinking-patterns",
+      "to": "mentor-network-and-influences",
+      "type": "related_to"
+    },
+    {
+      "from": "thinking-patterns",
+      "to": "foster-provost",
+      "type": "part_of"
+    }
+  ]
+}
