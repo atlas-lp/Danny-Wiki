@@ -21,3 +21,6 @@ A performance metric derived from the ROC curve that the chatbot was asked to ca
 
 ---
 *Also referenced in: Foster Provost  Nyu Stern  Knowledge Base*
+
+---
+*Also referenced in: Practical Statistics For Data Scientists   50+ Essential    Bruce, Peter, Bruce, Andrew, Gedeck, Pet Content*

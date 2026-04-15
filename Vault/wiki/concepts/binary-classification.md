@@ -2,6 +2,8 @@
 type: concept
 aliases: [Binary Classification]
 relationships:
+  - target: confusion-matrix
+    type: evaluated_with
   - target: supervised-machine-learning
     type: is_a_type_of
 tags: [machine-learning, modeling]
@@ -21,3 +23,6 @@ A type of machine learning task, such as predicting churn, where the objective i
 
 ---
 *Also referenced in: Foster Provost  Nyu Stern  Knowledge Base*
+
+---
+*Also referenced in: Data Science From Scratch   First Principles With Python    Joel Grus, (Software Engineer)    O Reil Content*

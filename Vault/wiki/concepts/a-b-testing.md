@@ -2,6 +2,22 @@
 type: concept
 aliases: [A/B Testing]
 relationships:
+  - target: treatment
+    type: uses
+  - target: treatment-group
+    type: uses
+  - target: control-group
+    type: uses
+  - target: multi-arm-bandits
+    type: compared-to
+  - target: hypothesis-tests
+    type: is-a
+  - target: bandit-algorithms
+    type: related_to
+  - target: hypothesis-testing
+    type: is_an_application_of
+  - target: null-hypothesis
+    type: tests
   - target: experimentation
     type: is_a
   - target: causal-inference
@@ -33,3 +49,12 @@ A form of experimentation that provides unconfounded data by randomly assigning 
 
 ---
 *Extracted from: Foster Provost  Nyu Stern  Knowledge Base*
+
+---
+*Also referenced in: Data Science From Scratch   First Principles With Python    Joel Grus, (Software Engineer)    O Reil Content*
+
+---
+*Also referenced in: Introduction To Machine Learning With Python   A Guide For    Andreas C  MüLler And Sarah Guido    1 Content*
+
+---
+*Also referenced in: Practical Statistics For Data Scientists   50+ Essential    Bruce, Peter, Bruce, Andrew, Gedeck, Pet Content*

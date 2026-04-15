@@ -2,6 +2,8 @@
 type: concept
 aliases: [Reinforcement Learning]
 relationships:
+  - target: machine-learning
+    type: is-a-type-of
   - target: supervised-learning
     type: is_a_type_of
   - target: credit-assignment-problem
@@ -24,3 +26,6 @@ A type of machine learning characterized by an online setting and the credit ass
 
 ---
 *Also referenced in: Foster Provost  Nyu Stern  Knowledge Base*
+
+---
+*Also referenced in: ǂThe ǂHundred Page Machine Learning Book    Andriy Burkov    Lugar De PublicacióN No Identificado, 2 Content*

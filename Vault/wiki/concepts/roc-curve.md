@@ -2,6 +2,14 @@
 type: concept
 aliases: [ROC Curve]
 relationships:
+  - target: true-positive-rate-tpr
+    type: uses
+  - target: false-positive-rate-fpr
+    type: uses
+  - target: recall
+    type: plots
+  - target: specificity
+    type: plots
   - target: area-under-the-roc-curve
     type: is_basis_for
   - target: imbalanced-data
@@ -24,3 +32,9 @@ A curve created by plotting the true positive rate (sensitivity) against the fal
 
 ---
 *Also referenced in: Foster Provost  Nyu Stern  Knowledge Base*
+
+---
+*Also referenced in: Practical Statistics For Data Scientists   50+ Essential    Bruce, Peter, Bruce, Andrew, Gedeck, Pet Content*
+
+---
+*Also referenced in: ǂThe ǂHundred Page Machine Learning Book    Andriy Burkov    Lugar De PublicacióN No Identificado, 2 Content*

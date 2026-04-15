@@ -24,3 +24,6 @@ An AI technique used by music streaming services like Spotify to create personal
 
 ---
 *Also referenced in: Foster Provost  Nyu Stern  Knowledge Base*
+
+---
+*Also referenced in: ǂThe ǂHundred Page Machine Learning Book    Andriy Burkov    Lugar De PublicacióN No Identificado, 2 Content*

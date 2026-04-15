@@ -2,6 +2,8 @@
 type: concept
 aliases: [Variance (in Machine Learning)]
 relationships:
+  - target: overfitting
+    type: is_related_to
   - target: bias-variance-tradeoff
     type: component_of
 tags: [machine-learning, model-error]
@@ -18,3 +20,6 @@ The error that results from overly complex models that are too sensitive to the 
 
 ---
 *Extracted from: Can An Ai Chatbot Pass A Data Science Interview Eika 9K23V4*
+
+---
+*Also referenced in: ǂThe ǂHundred Page Machine Learning Book    Andriy Burkov    Lugar De PublicacióN No Identificado, 2 Content*

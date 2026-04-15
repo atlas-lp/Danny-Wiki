@@ -2,6 +2,8 @@
 type: entity
 aliases: [Foster Provost]
 relationships:
+  - target: data-science-for-business
+    type: authored
   - target: sinan-aral
     type: interviewed
   - target: the-hype-machine-book
@@ -33,3 +35,6 @@ An NYU Stern Professor and Director of the AI and Data Analytics Initiative who 
 
 ---
 *Also referenced in: Foster Provost  Nyu Stern  Knowledge Base*
+
+---
+*Also referenced in: Introduction To Machine Learning With Python   A Guide For    Andreas C  MüLler And Sarah Guido    1 Content*

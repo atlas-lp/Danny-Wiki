@@ -2,6 +2,18 @@
 type: concept
 aliases: [Data Science]
 relationships:
+  - target: john-tukey
+    type: influenced_by
+  - target: data-analysis
+    type: derived_from
+  - target: hacking-skills
+    type: requires
+  - target: mathematics-and-statistics
+    type: requires
+  - target: python
+    type: can_be_implemented_in
+  - target: network-analysis
+    type: includes_technique
   - target: data-mining
     type: uses-technique
   - target: predictive-analytics
@@ -30,3 +42,9 @@ A field focused on fundamental principles and data-analytic thinking to extract 
 
 ---
 *Extracted from: Foster Provost  Nyu Stern  Knowledge Base*
+
+---
+*Also referenced in: Data Science From Scratch   First Principles With Python    Joel Grus, (Software Engineer)    O Reil Content*
+
+---
+*Also referenced in: Practical Statistics For Data Scientists   50+ Essential    Bruce, Peter, Bruce, Andrew, Gedeck, Pet Content*

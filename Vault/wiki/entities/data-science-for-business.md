@@ -2,6 +2,8 @@
 type: entity
 aliases: [Data Science for Business]
 relationships:
+  - target: tom-fawcett
+    type: authored_by
   - target: foster-provost
     type: authored_by
   - target: expected-value-framework
@@ -24,3 +26,6 @@ A book by Foster Provost that discusses frameworks for applying data science, su
 
 ---
 *Also referenced in: Foster Provost  Nyu Stern  Knowledge Base*
+
+---
+*Also referenced in: Introduction To Machine Learning With Python   A Guide For    Andreas C  MüLler And Sarah Guido    1 Content*

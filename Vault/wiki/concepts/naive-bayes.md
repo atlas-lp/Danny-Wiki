@@ -2,6 +2,18 @@
 type: concept
 aliases: [Naive Bayes]
 relationships:
+  - target: classification-in-machine-learning
+    type: is-a-type-of
+  - target: classification
+    type: is-a
+  - target: linear-models
+    type: is_faster_than
+  - target: bayes-theorem
+    type: based_on
+  - target: conditional-independence-assumption
+    type: uses
+  - target: smoothing
+    type: uses
   - target: independence-assumption-in-naive-bayes
     type: is_based_on
 tags: [machine-learning, classification-algorithm]
@@ -21,3 +33,12 @@ A classification algorithm where the term 'naive' refers to the assumption of in
 
 ---
 *Also referenced in: Foster Provost  Nyu Stern  Knowledge Base*
+
+---
+*Also referenced in: Data Science From Scratch   First Principles With Python    Joel Grus, (Software Engineer)    O Reil Content*
+
+---
+*Also referenced in: Introduction To Machine Learning With Python   A Guide For    Andreas C  MüLler And Sarah Guido    1 Content*
+
+---
+*Also referenced in: Practical Statistics For Data Scientists   50+ Essential    Bruce, Peter, Bruce, Andrew, Gedeck, Pet Content*

@@ -2,6 +2,10 @@
 type: concept
 aliases: [Big Data]
 relationships:
+  - target: mapreduce
+    type: processed_by
+  - target: data-storage-technology
+    type: enabled_by
   - target: data-science
     type: supports
   - target: gartners-hype-cycle
@@ -21,3 +25,9 @@ A supporting technology for data science that Gartner placed near the peak of in
 
 ---
 *Extracted from: Foster Provost  Nyu Stern  Knowledge Base*
+
+---
+*Also referenced in: Practical Statistics For Data Scientists   50+ Essential    Bruce, Peter, Bruce, Andrew, Gedeck, Pet Content*
+
+---
+*Also referenced in: Data Analytics Made Accessible Content*

@@ -18,3 +18,6 @@ An individual who holds the view that social media manipulation would not even r
 
 ---
 *Extracted from: Foster Provost  Nyu Stern  Knowledge Base*
+
+---
+*Also referenced in: Data Analytics Made Accessible Content*

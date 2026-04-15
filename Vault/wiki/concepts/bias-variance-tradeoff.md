@@ -2,6 +2,8 @@
 type: concept
 aliases: [Bias-Variance Tradeoff]
 relationships:
+  - target: regularization
+    type: is_related_to
   - target: bias-in-machine-learning
     type: involves
   - target: variance-in-machine-learning
@@ -24,3 +26,6 @@ The trade-off between the complexity of a machine-learning model and its ability
 
 ---
 *Also referenced in: Foster Provost  Nyu Stern  Knowledge Base*
+
+---
+*Also referenced in: ǂThe ǂHundred Page Machine Learning Book    Andriy Burkov    Lugar De PublicacióN No Identificado, 2 Content*

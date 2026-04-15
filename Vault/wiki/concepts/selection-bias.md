@@ -2,6 +2,8 @@
 type: concept
 aliases: [Selection Bias]
 relationships:
+  - target: bias
+    type: is_a_type_of
   - target: natural-experiment
     type: affects
   - target: ab-testing
@@ -24,3 +26,6 @@ A systematic issue in non-randomized studies where there is a confounding factor
 
 ---
 *Also referenced in: Foster Provost  Nyu Stern  Knowledge Base*
+
+---
+*Also referenced in: Practical Statistics For Data Scientists   50+ Essential    Bruce, Peter, Bruce, Andrew, Gedeck, Pet Content*
