@@ -196,3 +196,7 @@ Append-only chronological record of ingests, queries, and wiki updates.
 - persona_written: 0
 - index_rebuilt: True
 - elapsed_s: 155.0
+
+## [2026-04-16] synthesize | eigenvectors-visual-and-spectral-bridge
+- Pages created: eigenvectors-visual-and-spectral-bridge.md
+- From query: Can you explain eigen vectors visually?

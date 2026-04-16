@@ -293,7 +293,7 @@ def do_rag_search(
 # ---------------------------------------------------------------------------
 
 
-def tool_graph_traverse(slug: str, hops: int = 1, max_nodes: int = 5, graph: dict = None) -> list:
+def tool_graph_traverse(slug: str, hops: int = 1, max_nodes: int = 8, graph: dict = None) -> list:
     """
     BFS from slug, return neighbor pages with full markdown content.
     WIKI LLM reads this content to decide which slugs to select — it does NOT
@@ -504,7 +504,7 @@ from established knowledge — no raw source excerpts or chapter-level detail ne
 ---
 ## STEP 2 — Only if BM25 is NOT sufficient: call graph_traverse
 
-Call `graph_traverse` on the most relevant BM25 slug(s) to surface related pages.
+Call `graph_traverse` on the most relevant BM25 slug(s) to surface related pages either from the previously provided pages or from the index.md provided.
 You may call it on multiple slugs in parallel in a single response.
 
 After reading the returned pages, select the best ones and set:
@@ -517,7 +517,7 @@ After reading the returned pages, select the best ones and set:
 ```json
 {
   "sufficient": true,
-  "selected_slugs": ["slug-one", "slug-two"],
+  "selected_slugs": ["slug-one", "slug-two",...],
   "note": ""
 }
 ```
@@ -623,8 +623,8 @@ def run_wiki_llm(
                 print(f"[WikiLLM] graph_traverse({block.input.get('slug')})")
                 result = tool_graph_traverse(
                     slug=block.input.get("slug", ""),
-                    hops=block.input.get("hops", 1),
-                    max_nodes=block.input.get("max_nodes", 5),
+                    hops=block.input.get("hops", 3),
+                    max_nodes=block.input.get("max_nodes", 8),
                     graph=graph,
                 )
                 tool_results.append({
@@ -711,7 +711,7 @@ _METADATA_SCHEMA = """\
 _METADATA_MARKER = "\n[METADATA]\n"
 
 _MAIN_LLM_SYSTEM_BASE = """\
-You are Dee — a Digital Transformation professor with three decades of teaching experience.
+You are Danny — a Data Analysis professor with three decades of teaching experience.
 
 ## Voice & Style
 - Blend personal narrative with domain principles — open with an anecdote when it adds warmth
@@ -725,9 +725,9 @@ You are Dee — a Digital Transformation professor with three decades of teachin
 ## Source attribution
 End your answer with this block (before [METADATA]):
 
-My Memory: [wiki page titles you drew on, or 'Found Nothing in My Memory']
-My Library: [RAG source titles from rag_search results, or 'Found Nothing in My Library']
-General Knowledge: [note any inferences beyond the provided sources]
+**My Memory:** [wiki page titles you drew on, or 'Found Nothing in My Memory']
+**My Library:** [RAG source titles from rag_search results, IF the library(RAG) wasn't used, Then say "Didn't use the library" or  only if the library doesnt have anything relevant say "Found Nothing in My Library"]
+**General Knowledge:** [ONLY AFTER THE LIBRARY(RAG) IS SEARCHED AND NOTHING IS FOUND, you may use your general knowledge to answer, IF NOT used say "Didn't use general knowledge"]
 
 ## RAG instruction
 {rag_instruction}
@@ -752,7 +752,7 @@ Rules:
 
 _RAG_INSTRUCTION_SUFFICIENT = (
     "The wiki context is **complete** for this query. "
-    "Answer from wiki only — do NOT call `rag_search`."
+    "Answer from wiki only — DO NOT call `rag_search` or use your general knowledge to answer."
 )
 _RAG_INSTRUCTION_INSUFFICIENT = (
     "The wiki context is **incomplete**. "
@@ -861,7 +861,7 @@ def run_main_llm_streaming(
                     query=block.input.get("query", user_query),
                     chunks=chunks,
                     faiss_index=faiss_index,
-                    top_k=block.input.get("top_k", 5),
+                    top_k=block.input.get("top_k", 7),
                 )
                 tool_results.append({
                     "type": "tool_result",
@@ -1017,23 +1017,31 @@ def _write_wiki_page(page_data: dict, kb: KnowledgeBase, original_query: str = "
     )
     content = frontmatter + f"# {title}\n\n" + body
 
-    # Write file atomically (write → rename avoids partial reads)
-    out_dir = WIKI_DIR / "synthesized"
-    out_dir.mkdir(parents=True, exist_ok=True)
+    # Write file atomically to disk.
+    # On Vercel the filesystem is read-only — catch OSError so the GitHub push
+    # and in-memory KB update still happen (Vercel redeploys after the push,
+    # picking up the new .md on the next cold start).
+    out_dir  = WIKI_DIR / "synthesized"
     out_path = out_dir / f"{slug}.md"
-    tmp_path = out_path.with_suffix(".tmp")
-    tmp_path.write_text(content, encoding="utf-8")
-    tmp_path.replace(out_path)
-    print(f"[WikiUpdate] Wrote {out_path.relative_to(PROJECT_ROOT)}")
+    disk_ok  = False
+    try:
+        out_dir.mkdir(parents=True, exist_ok=True)
+        tmp_path = out_path.with_suffix(".tmp")
+        tmp_path.write_text(content, encoding="utf-8")
+        tmp_path.replace(out_path)
+        print(f"[WikiUpdate] Wrote {out_path.relative_to(PROJECT_ROOT)}")
+        disk_ok = True
+    except OSError as e:
+        print(f"[WikiUpdate] Disk write skipped (read-only fs — will push to GitHub): {e}")
 
-    # Patch _graph.json on disk
-    graph = load_graph()
+    # Patch _graph.json on disk (skip if filesystem is read-only)
+    graph = _load_graph()
     graph["nodes"][slug] = {
         "type": page_type,
         "title": title,
         "aliases": aliases,
         "tags": tags,
-        "path": str(out_path.relative_to(VAULT)),
+        "path": f"wiki/synthesized/{slug}.md",
     }
     for r in rels:
         graph["edges"].append({
@@ -1041,12 +1049,16 @@ def _write_wiki_page(page_data: dict, kb: KnowledgeBase, original_query: str = "
             "to": r.get("target", ""),
             "type": r.get("type", "related_to"),
         })
-    GRAPH_PATH.write_text(
-        json.dumps(graph, indent=2, ensure_ascii=False), encoding="utf-8"
-    )
+    if disk_ok:
+        try:
+            GRAPH_PATH.write_text(
+                json.dumps(graph, indent=2, ensure_ascii=False), encoding="utf-8"
+            )
+        except OSError:
+            pass
 
-    # Update in-memory KB under lock — BM25 rebuild is also inside the lock
-    # so concurrent queries see either the old or the new index, never a partial rebuild
+    # Update in-memory KB under lock — BM25 rebuild included.
+    # This works on both local and Vercel (memory is always writable).
     new_page_entry = {
         "slug": slug, "title": title, "aliases": aliases,
         "tags": tags, "content": content, "path": str(out_path), "type": page_type,
@@ -1058,18 +1070,20 @@ def _write_wiki_page(page_data: dict, kb: KnowledgeBase, original_query: str = "
         else:
             kb.wiki_pages.append(new_page_entry)
         kb.graph = graph
-        # BM25 rebuild inside the lock — no query can see a half-rebuilt index
         kb.bm25 = _build_wiki_bm25(kb.wiki_pages) if _HAS_BM25 else None
 
     # Append to index.md and refresh KB cache
     new_index_content = None
-    if INDEX_MD_PATH.exists():
-        entry = f"\n- [[synthesized/{slug}|{title}]] — synthesized from query\n"
-        with open(INDEX_MD_PATH, "a", encoding="utf-8") as f:
-            f.write(entry)
-        new_index_content = INDEX_MD_PATH.read_text(encoding="utf-8")
-        with kb._lock:
-            kb.index_md = new_index_content
+    try:
+        if INDEX_MD_PATH.exists():
+            entry = f"\n- [[synthesized/{slug}|{title}]] — synthesized from query\n"
+            with open(INDEX_MD_PATH, "a", encoding="utf-8") as f:
+                f.write(entry)
+            new_index_content = INDEX_MD_PATH.read_text(encoding="utf-8")
+            with kb._lock:
+                kb.index_md = new_index_content
+    except OSError:
+        pass
 
     # Append to log.md
     today = date.today().isoformat()
@@ -1078,8 +1092,11 @@ def _write_wiki_page(page_data: dict, kb: KnowledgeBase, original_query: str = "
         f"- Pages created: {out_path.name}\n"
         f"- From query: {original_query}\n"
     )
-    with open(LOG_MD_PATH, "a", encoding="utf-8") as f:
-        f.write(log_entry)
+    try:
+        with open(LOG_MD_PATH, "a", encoding="utf-8") as f:
+            f.write(log_entry)
+    except OSError:
+        pass
 
     # Push wiki page + index.md to GitHub (push on every write)
     today_str = date.today().isoformat()
@@ -1121,7 +1138,7 @@ def _pipeline_setup(user_query: str, kb: KnowledgeBase, client: Anthropic):
 
     page_by_slug = {p["slug"]: p for p in wiki_pages}
 
-    bm25_results = bm25_wiki_search(user_query, wiki_pages, bm25, top_k=2)
+    bm25_results = bm25_wiki_search(user_query, wiki_pages, bm25, top_k=5)
     print(f"[BM25]   top pages: {[r['page']['title'] for r in bm25_results]}")
 
     wiki_result = run_wiki_llm(

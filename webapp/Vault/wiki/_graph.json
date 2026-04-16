@@ -32762,6 +32762,22 @@
         "rag-stub"
       ],
       "path": "wiki\\stubs\\stub-ǂthe-ǂhundred-page-machine-learning-book-andriy-burkov-lugar-de-publicacion-no-i.md"
+    },
+    "eigenvectors-visual-and-spectral-bridge": {
+      "type": "synthesized",
+      "title": "Eigenvectors: Visual Intuition and the Spectral Bridge",
+      "aliases": [
+        "eigenvector-intuition",
+        "eigenvectors-visual"
+      ],
+      "tags": [
+        "linear-algebra",
+        "eigenvectors",
+        "spectral-theory",
+        "orthonormal",
+        "visualization"
+      ],
+      "path": "wiki\\synthesized\\eigenvectors-visual-and-spectral-bridge.md"
     }
   },
   "edges": [
@@ -53379,6 +53395,21 @@
       "from": "thinking-patterns",
       "to": "foster-provost",
       "type": "part_of"
+    },
+    {
+      "from": "eigenvectors-visual-and-spectral-bridge",
+      "to": "orthonormal-list",
+      "type": "extends"
+    },
+    {
+      "from": "eigenvectors-visual-and-spectral-bridge",
+      "to": "adjoint-of-a-linear-map",
+      "type": "related"
+    },
+    {
+      "from": "eigenvectors-visual-and-spectral-bridge",
+      "to": "basis",
+      "type": "related"
     }
   ]
 }
