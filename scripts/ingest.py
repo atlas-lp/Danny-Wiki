@@ -32,7 +32,12 @@ from chunker import (
 # ---------------------------------------------------------------------------
 
 PROJECT_ROOT = Path(__file__).parent.parent
-VAULT = PROJECT_ROOT / "webapp" /"Vault"
+try:
+    from dotenv import load_dotenv as _load_dotenv
+    _load_dotenv(PROJECT_ROOT / ".env")
+except ImportError:
+    pass
+VAULT = PROJECT_ROOT / os.environ.get("WIKI_VAULT_NAME", "webapp/Vault")
 RAW_DIR = VAULT / "raw"
 WIKI_DIR = VAULT / "wiki"
 LOG_FILE = WIKI_DIR / "log.md"
@@ -61,12 +66,6 @@ def get_already_ingested():
             return {}
     return {}
 
-def route_file(file_path):
-    """Determine routing: 'wiki' or 'rag'."""
-    words = count_words(str(file_path))
-    pages = get_page_count(str(file_path))
-
-    return "rag", words, pages
 
 def save_ingested(ingested):
     """Write the ingested tracking file."""
@@ -107,14 +106,12 @@ def cmd_scan():
 
     for f in files:
         rel = str(f.relative_to(PROJECT_ROOT))
-        route, words, pages = route_file(f)
 
         # Check if already ingested via structured tracking
         already = rel in ingested
         status = " [DONE]" if already else " [NEW]"
 
-        page_info = f", {pages} pages" if pages else ""
-        print(f"{rel}  ({words} words{page_info}){status}")
+        print(f" {rel} {status}")
 
         if not already:
             rag_files.append((f, words, pages))

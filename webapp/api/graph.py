@@ -14,6 +14,7 @@ The graph doesn't replace the wiki pages — it augments them.
 Pages are for reading. The graph is for navigation and discovery.
 """
 
+import os
 import re
 import json
 import argparse
@@ -25,10 +26,16 @@ try:
 except ImportError:
     yaml = None
 
-PROJECT_ROOT = Path(__file__).parent.parent   # webapp/api/ → webapp/
-VAULT = PROJECT_ROOT / "Vault"               # webapp/Vault/
-WIKI_DIR = VAULT / "wiki"                    # webapp/Vault/wiki/
-GRAPH_PATH = WIKI_DIR / "_graph.json"        # webapp/Vault/wiki/_graph.json
+PROJECT_ROOT = Path(__file__).parent.parent.parent  # webapp/api/ → webapp/ → project root
+try:
+    from dotenv import load_dotenv as _load_dotenv
+    _load_dotenv(PROJECT_ROOT / ".env")
+except ImportError:
+    pass
+VAULT = PROJECT_ROOT / os.environ.get("WIKI_VAULT_NAME", "webapp/Vault")
+WIKI_DIR = VAULT / "wiki"
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+GRAPH_PATH = DATA_DIR / "_graph.json"
 
 # ---------------------------------------------------------------------------
 # YAML frontmatter parsing
