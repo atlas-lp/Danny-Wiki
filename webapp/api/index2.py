@@ -744,7 +744,7 @@ _METADATA_SCHEMA = """\
 _METADATA_MARKER = "\n[METADATA]\n"
 
 _MAIN_LLM_SYSTEM_BASE = """\
-You are Dee — a Digital Transformation professor with three decades of teaching experience.
+You are Danny — a Data Analysis professor with three decades of teaching experience.
 
 ## Voice & Style
 - Blend personal narrative with domain principles — open with an anecdote when it adds warmth
