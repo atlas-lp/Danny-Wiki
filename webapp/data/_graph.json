@@ -1120,16 +1120,10 @@
       "path": "wiki\\concepts\\argsort.md"
     },
     "argument-unpacking-args-kwargs": {
-      "type": "concept",
+      "type": "unknown",
       "title": "Argument Unpacking (*args, **kwargs)",
-      "aliases": [
-        "Argument Unpacking (*args",
-        "**kwargs)"
-      ],
-      "tags": [
-        "python",
-        "functions"
-      ],
+      "aliases": [],
+      "tags": [],
       "path": "wiki\\concepts\\argument-unpacking-args-kwargs.md"
     },
     "array-aggregation": {
@@ -11799,18 +11793,10 @@
       "path": "wiki\\concepts\\isometry.md"
     },
     "isomorphism-between-lvw-and-fmn": {
-      "type": "concept",
+      "type": "unknown",
       "title": "Isomorphism between L(V, W) and F^{m,n}",
-      "aliases": [
-        "Isomorphism between L(V",
-        "W) and F^{m",
-        "n}"
-      ],
-      "tags": [
-        "linear-maps",
-        "matrices",
-        "vector-spaces"
-      ],
+      "aliases": [],
+      "tags": [],
       "path": "wiki\\concepts\\isomorphism-between-lvw-and-fmn.md"
     },
     "isomorphism": {
@@ -13364,16 +13350,10 @@
       "path": "wiki\\concepts\\low-rank-approximation-of-linear-maps.md"
     },
     "lprun-magic-command": {
-      "type": "concept",
+      "type": "unknown",
       "title": "%lprun Magic Command",
-      "aliases": [
-        "%lprun Magic Command"
-      ],
-      "tags": [
-        "ipython",
-        "magic-command",
-        "profiling"
-      ],
+      "aliases": [],
+      "tags": [],
       "path": "wiki\\concepts\\lprun-magic-command.md"
     },
     "lrsdv-model": {
@@ -17034,16 +17014,10 @@
       "path": "wiki\\concepts\\passive-ids.md"
     },
     "paste-and-cpaste-magic": {
-      "type": "concept",
+      "type": "unknown",
       "title": "%paste and %cpaste",
-      "aliases": [
-        "%paste and %cpaste"
-      ],
-      "tags": [
-        "ipython",
-        "magic-commands",
-        "code-execution"
-      ],
+      "aliases": [],
+      "tags": [],
       "path": "wiki\\concepts\\paste-and-cpaste-magic.md"
     },
     "patches-in-matplotlib": {
@@ -19982,15 +19956,10 @@
       "path": "wiki\\concepts\\rule-based-predictive-model.md"
     },
     "run-command": {
-      "type": "concept",
+      "type": "unknown",
       "title": "%run Command",
-      "aliases": [
-        "%run Command"
-      ],
-      "tags": [
-        "ipython",
-        "magic-command"
-      ],
+      "aliases": [],
+      "tags": [],
       "path": "wiki\\concepts\\run-command.md"
     },
     "runtime": {
@@ -23242,16 +23211,10 @@
       "path": "wiki\\concepts\\time-complexity.md"
     },
     "time-magic-command": {
-      "type": "concept",
+      "type": "unknown",
       "title": "%time Magic Command",
-      "aliases": [
-        "%time Magic Command"
-      ],
-      "tags": [
-        "ipython",
-        "magic-command",
-        "performance"
-      ],
+      "aliases": [],
+      "tags": [],
       "path": "wiki\\concepts\\time-magic-command.md"
     },
     "time-series-data-analysis": {
@@ -23373,18 +23336,10 @@
       "path": "wiki\\concepts\\time-zone-localization-and-conversion.md"
     },
     "timeit-magic-command": {
-      "type": "concept",
+      "type": "unknown",
       "title": "%timeit",
-      "aliases": [
-        "%timeit"
-      ],
-      "tags": [
-        "ipython",
-        "magic-commands",
-        "profiling",
-        "magic-command",
-        "performance"
-      ],
+      "aliases": [],
+      "tags": [],
       "path": "wiki\\concepts\\timeit-magic-command.md"
     },
     "timestamp-to-period-conversion": {
@@ -28892,7 +28847,9 @@
       "type": "entity",
       "title": "Key Changes: The Ten Times Technology has Transformed the Music Industry",
       "aliases": [
-        "Key Changes: The Ten Times Technology has Transformed the Music Industry"
+        {
+          "Key Changes": "The Ten Times Technology has Transformed the Music Industry"
+        }
       ],
       "tags": [
         "book",
@@ -32424,16 +32381,10 @@
       "path": "wiki\\entities\\wes-mckinney.md"
     },
     "what-is-data-science": {
-      "type": "entity",
+      "type": "unknown",
       "title": "What is data science?",
-      "aliases": [
-        "What is data science?"
-      ],
-      "tags": [
-        "essay",
-        "corpus",
-        "data-science"
-      ],
+      "aliases": [],
+      "tags": [],
       "path": "wiki\\entities\\what-is-data-science.md"
     },
     "whatsapp": {
@@ -40285,17 +40236,17 @@
     {
       "from": "isomorphism-between-lvw-and-fmn",
       "to": "isomorphism",
-      "type": "is_an_example_of"
+      "type": "references"
     },
     {
       "from": "isomorphism-between-lvw-and-fmn",
       "to": "linear-map",
-      "type": "relates_to"
+      "type": "references"
     },
     {
       "from": "isomorphism-between-lvw-and-fmn",
       "to": "matrix-representation",
-      "type": "relates_to"
+      "type": "references"
     },
     {
       "from": "isomorphism",
@@ -41440,12 +41391,12 @@
     {
       "from": "lprun-magic-command",
       "to": "line-profiler",
-      "type": "is_provided_by"
+      "type": "references"
     },
     {
       "from": "lprun-magic-command",
       "to": "micro-profiling",
-      "type": "is_a_tool_for"
+      "type": "references"
     },
     {
       "from": "lrsdv-model",
@@ -43360,7 +43311,7 @@
     {
       "from": "paste-and-cpaste-magic",
       "to": "magic-commands",
-      "type": "is_a"
+      "type": "references"
     },
     {
       "from": "patches-in-matplotlib",
@@ -45260,7 +45211,7 @@
     {
       "from": "run-command",
       "to": "ipython",
-      "type": "is_a_feature_of"
+      "type": "references"
     },
     {
       "from": "runtime",
@@ -47080,7 +47031,7 @@
     {
       "from": "time-magic-command",
       "to": "code-timing",
-      "type": "is_a_method_for"
+      "type": "references"
     },
     {
       "from": "time-series-data-analysis",
@@ -47140,17 +47091,17 @@
     {
       "from": "timeit-magic-command",
       "to": "magic-commands",
-      "type": "is_a"
+      "type": "references"
     },
     {
       "from": "timeit-magic-command",
       "to": "code-timing",
-      "type": "is_a_method_for"
+      "type": "references"
     },
     {
       "from": "timeit-magic-command",
       "to": "time-magic-command",
-      "type": "is_more_precise_than"
+      "type": "references"
     },
     {
       "from": "timestamp-to-period-conversion",
