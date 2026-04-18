@@ -32880,6 +32880,26 @@
         "bootstrap"
       ],
       "path": "wiki\\synthesized\\random-forest-double-decorrelation.md"
+    },
+    "robust-pipeline-covariate-shift-label-noise-mnar": {
+      "type": "synthesized",
+      "title": "Robust Modeling Pipeline for Covariate Shift, Label Noise, and MNAR Data",
+      "aliases": [
+        "Robust Pipeline Architecture",
+        "MNAR-Aware Pipeline",
+        "Distributionally Robust Pipeline"
+      ],
+      "tags": [
+        "robust-statistics",
+        "pipeline",
+        "covariate-shift",
+        "label-noise",
+        "missing-data",
+        "distributionally-robust-optimization",
+        "model-building",
+        "workflow-management"
+      ],
+      "path": "wiki/synthesized/robust-pipeline-covariate-shift-label-noise-mnar.md"
     }
   },
   "edges": [
@@ -66942,6 +66962,31 @@
       "from": "random-forest-double-decorrelation",
       "to": "automatic-feature-selection",
       "type": "relates-to"
+    },
+    {
+      "from": "robust-pipeline-covariate-shift-label-noise-mnar",
+      "to": "pipeline-method",
+      "type": "extends"
+    },
+    {
+      "from": "robust-pipeline-covariate-shift-label-noise-mnar",
+      "to": "pipeline-class",
+      "type": "extends"
+    },
+    {
+      "from": "robust-pipeline-covariate-shift-label-noise-mnar",
+      "to": "information-leakage",
+      "type": "prevents"
+    },
+    {
+      "from": "robust-pipeline-covariate-shift-label-noise-mnar",
+      "to": "cross-validation",
+      "type": "used_with"
+    },
+    {
+      "from": "robust-pipeline-covariate-shift-label-noise-mnar",
+      "to": "algorithm-chains-and-pipelines",
+      "type": "extends"
     }
   ]
 }

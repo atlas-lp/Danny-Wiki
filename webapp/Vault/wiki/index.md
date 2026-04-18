@@ -2678,3 +2678,5 @@ Master catalog — 2662 pages · last rebuilt 2026-04-18
 - [[stubs/stub-vasant-dhar-on-thinking-with-machines-with-foster-provost-aa-0s60eapk|Vasant Dhar On Thinking With Machines With Foster Provost]] — This is a fireside chat at NYU Stern (November 17, 2025) where Vasant Dhar discusses his new book "Thinking With Machine
 - [[stubs/stub-ve-open-apis-financial-services-ebook-content|Open APIs in Financial Services Ebook Content]] — This is the Red Hat Special Edition of "Open APIs in Financial Services For Dummies" (Wiley), authored by Alessandro Pet
 - [[stubs/stub-ǂthe-ǂhundred-page-machine-learning-book-andriy-burkov-lugar-de-publicacion-no-i|The Hundred-Page Machine Learning Book — Andriy Burkov]] — This is Andriy Burkov's concise yet comprehensive introduction to machine learning, covering the field from foundational
+
+- [[synthesized/robust-pipeline-covariate-shift-label-noise-mnar|Robust Modeling Pipeline for Covariate Shift, Label Noise, and MNAR Data]] — synthesized from query
