@@ -32896,6 +32896,22 @@
         "statistics"
       ],
       "path": "wiki/synthesized/python-vs-r-comparison.md"
+    },
+    "overfitting-remedies-unified": {
+      "type": "synthesized",
+      "title": "Overfitting Remedies: A Unified Framework",
+      "aliases": [
+        "Avoiding Overfitting",
+        "Overfitting Prevention"
+      ],
+      "tags": [
+        "overfitting",
+        "regularization",
+        "model-tuning",
+        "model-complexity",
+        "generalization"
+      ],
+      "path": "wiki/synthesized/overfitting-remedies-unified.md"
     }
   },
   "edges": [
@@ -66973,6 +66989,46 @@
       "from": "python-vs-r-comparison",
       "to": "two-language-problem",
       "type": "relates_to"
+    },
+    {
+      "from": "overfitting-remedies-unified",
+      "to": "overfitting",
+      "type": "extends"
+    },
+    {
+      "from": "overfitting-remedies-unified",
+      "to": "regularization",
+      "type": "extends"
+    },
+    {
+      "from": "overfitting-remedies-unified",
+      "to": "pruning",
+      "type": "extends"
+    },
+    {
+      "from": "overfitting-remedies-unified",
+      "to": "regularization-in-linear-models",
+      "type": "extends"
+    },
+    {
+      "from": "overfitting-remedies-unified",
+      "to": "l1-regularization",
+      "type": "extends"
+    },
+    {
+      "from": "overfitting-remedies-unified",
+      "to": "l2-regularization",
+      "type": "extends"
+    },
+    {
+      "from": "overfitting-remedies-unified",
+      "to": "model-complexity",
+      "type": "extends"
+    },
+    {
+      "from": "overfitting-remedies-unified",
+      "to": "overfitting-in-decision-trees",
+      "type": "extends"
     }
   ]
 }
