@@ -2679,4 +2679,4 @@ Master catalog — 2662 pages · last rebuilt 2026-04-18
 - [[stubs/stub-ve-open-apis-financial-services-ebook-content|Open APIs in Financial Services Ebook Content]] — This is the Red Hat Special Edition of "Open APIs in Financial Services For Dummies" (Wiley), authored by Alessandro Pet
 - [[stubs/stub-ǂthe-ǂhundred-page-machine-learning-book-andriy-burkov-lugar-de-publicacion-no-i|The Hundred-Page Machine Learning Book — Andriy Burkov]] — This is Andriy Burkov's concise yet comprehensive introduction to machine learning, covering the field from foundational
 
-- [[synthesized/overfitting-prevention-strategies|Overfitting Prevention Strategies]] — synthesized from query
+- [[synthesized/logistic-regression-conceptual-arc|Logistic Regression: Full Conceptual Arc]] — synthesized from query
