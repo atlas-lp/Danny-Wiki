@@ -32881,37 +32881,21 @@
       ],
       "path": "wiki\\synthesized\\random-forest-double-decorrelation.md"
     },
-    "python-vs-r-comparison": {
+    "overfitting-prevention-strategies": {
       "type": "synthesized",
-      "title": "Python vs. R: A Comparison",
-      "aliases": [
-        "Python vs R",
-        "Python and R comparison"
-      ],
-      "tags": [
-        "python",
-        "r",
-        "programming-language",
-        "data-science",
-        "statistics"
-      ],
-      "path": "wiki/synthesized/python-vs-r-comparison.md"
-    },
-    "overfitting-remedies-unified": {
-      "type": "synthesized",
-      "title": "Overfitting Remedies: A Unified Framework",
+      "title": "Overfitting Prevention Strategies",
       "aliases": [
         "Avoiding Overfitting",
-        "Overfitting Prevention"
+        "Overfitting Mitigation"
       ],
       "tags": [
+        "machine-learning",
         "overfitting",
         "regularization",
         "model-tuning",
-        "model-complexity",
         "generalization"
       ],
-      "path": "wiki/synthesized/overfitting-remedies-unified.md"
+      "path": "wiki/synthesized/overfitting-prevention-strategies.md"
     }
   },
   "edges": [
@@ -66976,58 +66960,43 @@
       "type": "relates-to"
     },
     {
-      "from": "python-vs-r-comparison",
-      "to": "python",
-      "type": "extends"
-    },
-    {
-      "from": "python-vs-r-comparison",
-      "to": "r-language",
-      "type": "extends"
-    },
-    {
-      "from": "python-vs-r-comparison",
-      "to": "two-language-problem",
-      "type": "relates_to"
-    },
-    {
-      "from": "overfitting-remedies-unified",
+      "from": "overfitting-prevention-strategies",
       "to": "overfitting",
       "type": "extends"
     },
     {
-      "from": "overfitting-remedies-unified",
+      "from": "overfitting-prevention-strategies",
       "to": "regularization",
       "type": "extends"
     },
     {
-      "from": "overfitting-remedies-unified",
-      "to": "pruning",
+      "from": "overfitting-prevention-strategies",
+      "to": "pre-pruning",
       "type": "extends"
     },
     {
-      "from": "overfitting-remedies-unified",
-      "to": "regularization-in-linear-models",
+      "from": "overfitting-prevention-strategies",
+      "to": "post-pruning",
       "type": "extends"
     },
     {
-      "from": "overfitting-remedies-unified",
-      "to": "l1-regularization",
+      "from": "overfitting-prevention-strategies",
+      "to": "ensemble-learning",
       "type": "extends"
     },
     {
-      "from": "overfitting-remedies-unified",
-      "to": "l2-regularization",
-      "type": "extends"
-    },
-    {
-      "from": "overfitting-remedies-unified",
+      "from": "overfitting-prevention-strategies",
       "to": "model-complexity",
       "type": "extends"
     },
     {
-      "from": "overfitting-remedies-unified",
-      "to": "overfitting-in-decision-trees",
+      "from": "overfitting-prevention-strategies",
+      "to": "overfitting-and-underfitting",
+      "type": "extends"
+    },
+    {
+      "from": "overfitting-prevention-strategies",
+      "to": "l1-regularization-lasso",
       "type": "extends"
     }
   ]
