@@ -2682,3 +2682,5 @@ Master catalog — 2662 pages · last rebuilt 2026-04-18
 - [[synthesized/robust-pipeline-covariate-shift-label-noise-mnar|Robust Modeling Pipeline for Covariate Shift, Label Noise, and MNAR Data]] — synthesized from query
 
 - [[synthesized/observational-causal-inference-hierarchy|Observational Causal Inference: Credible Counterfactuals Under Weak Assumptions]] — synthesized from query
+
+- [[synthesized/relu-call-option-payoff-analogy|ReLU and Call Option Payoff Analogy]] — synthesized from query

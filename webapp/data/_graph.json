@@ -32918,6 +32918,22 @@
         "data-science"
       ],
       "path": "wiki/synthesized/observational-causal-inference-hierarchy.md"
+    },
+    "relu-call-option-payoff-analogy": {
+      "type": "synthesized",
+      "title": "ReLU and Call Option Payoff Analogy",
+      "aliases": [
+        "ReLU Call Option Analogy",
+        "Call Option ReLU Connection"
+      ],
+      "tags": [
+        "neural-networks",
+        "activation-function",
+        "finance",
+        "options",
+        "approximation-theory"
+      ],
+      "path": "wiki/synthesized/relu-call-option-payoff-analogy.md"
     }
   },
   "edges": [
@@ -67029,6 +67045,26 @@
     {
       "from": "observational-causal-inference-hierarchy",
       "to": "predictive-analytics",
+      "type": "extends"
+    },
+    {
+      "from": "relu-call-option-payoff-analogy",
+      "to": "relu",
+      "type": "extends"
+    },
+    {
+      "from": "relu-call-option-payoff-analogy",
+      "to": "rectified-linear-unit",
+      "type": "extends"
+    },
+    {
+      "from": "relu-call-option-payoff-analogy",
+      "to": "nonlinear-function",
+      "type": "extends"
+    },
+    {
+      "from": "relu-call-option-payoff-analogy",
+      "to": "sigmoid-function",
       "type": "extends"
     }
   ]
