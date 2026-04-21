@@ -1,6 +1,6 @@
 # Wiki Index
 
-Master catalog — 2662 pages · last rebuilt 2026-04-18
+Master catalog — 2662 pages · last rebuilt 2026-04-21
 
 ## Persona Pages (8)
 
@@ -2679,8 +2679,4 @@ Master catalog — 2662 pages · last rebuilt 2026-04-18
 - [[stubs/stub-ve-open-apis-financial-services-ebook-content|Open APIs in Financial Services Ebook Content]] — This is the Red Hat Special Edition of "Open APIs in Financial Services For Dummies" (Wiley), authored by Alessandro Pet
 - [[stubs/stub-ǂthe-ǂhundred-page-machine-learning-book-andriy-burkov-lugar-de-publicacion-no-i|The Hundred-Page Machine Learning Book — Andriy Burkov]] — This is Andriy Burkov's concise yet comprehensive introduction to machine learning, covering the field from foundational
 
-- [[synthesized/robust-pipeline-covariate-shift-label-noise-mnar|Robust Modeling Pipeline for Covariate Shift, Label Noise, and MNAR Data]] — synthesized from query
-
-- [[synthesized/observational-causal-inference-hierarchy|Observational Causal Inference: Credible Counterfactuals Under Weak Assumptions]] — synthesized from query
-
-- [[synthesized/relu-call-option-payoff-analogy|ReLU and Call Option Payoff Analogy]] — synthesized from query
+- [[synthesized/data-science-roadmap|Data Science Roadmap]] — synthesized from query

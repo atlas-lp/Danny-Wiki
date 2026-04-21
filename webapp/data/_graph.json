@@ -32881,59 +32881,22 @@
       ],
       "path": "wiki\\synthesized\\random-forest-double-decorrelation.md"
     },
-    "robust-pipeline-covariate-shift-label-noise-mnar": {
+    "data-science-roadmap": {
       "type": "synthesized",
-      "title": "Robust Modeling Pipeline for Covariate Shift, Label Noise, and MNAR Data",
+      "title": "Data Science Roadmap",
       "aliases": [
-        "Robust Pipeline Architecture",
-        "MNAR-Aware Pipeline",
-        "Distributionally Robust Pipeline"
+        "Road Map to Data Science",
+        "Learning Path for Data Science",
+        "Data Science Learning Progression"
       ],
       "tags": [
-        "robust-statistics",
-        "pipeline",
-        "covariate-shift",
-        "label-noise",
-        "missing-data",
-        "distributionally-robust-optimization",
-        "model-building",
-        "workflow-management"
+        "data-science",
+        "learning-path",
+        "roadmap",
+        "machine-learning",
+        "python"
       ],
-      "path": "wiki/synthesized/robust-pipeline-covariate-shift-label-noise-mnar.md"
-    },
-    "observational-causal-inference-hierarchy": {
-      "type": "synthesized",
-      "title": "Observational Causal Inference: Credible Counterfactuals Under Weak Assumptions",
-      "aliases": [
-        "Causal Estimation Without Randomization",
-        "Observational Causal Methods Hierarchy"
-      ],
-      "tags": [
-        "causal-inference",
-        "observational-data",
-        "confounders",
-        "selection-bias",
-        "counterfactual-reasoning",
-        "quasi-experiment",
-        "data-science"
-      ],
-      "path": "wiki/synthesized/observational-causal-inference-hierarchy.md"
-    },
-    "relu-call-option-payoff-analogy": {
-      "type": "synthesized",
-      "title": "ReLU and Call Option Payoff Analogy",
-      "aliases": [
-        "ReLU Call Option Analogy",
-        "Call Option ReLU Connection"
-      ],
-      "tags": [
-        "neural-networks",
-        "activation-function",
-        "finance",
-        "options",
-        "approximation-theory"
-      ],
-      "path": "wiki/synthesized/relu-call-option-payoff-analogy.md"
+      "path": "wiki/synthesized/data-science-roadmap.md"
     }
   },
   "edges": [
@@ -66998,73 +66961,18 @@
       "type": "relates-to"
     },
     {
-      "from": "robust-pipeline-covariate-shift-label-noise-mnar",
-      "to": "pipeline-method",
+      "from": "data-science-roadmap",
+      "to": "data-science-for-business",
       "type": "extends"
     },
     {
-      "from": "robust-pipeline-covariate-shift-label-noise-mnar",
-      "to": "pipeline-class",
+      "from": "data-science-roadmap",
+      "to": "data-analytic-thinking",
       "type": "extends"
     },
     {
-      "from": "robust-pipeline-covariate-shift-label-noise-mnar",
-      "to": "information-leakage",
-      "type": "prevents"
-    },
-    {
-      "from": "robust-pipeline-covariate-shift-label-noise-mnar",
-      "to": "cross-validation",
-      "type": "used_with"
-    },
-    {
-      "from": "robust-pipeline-covariate-shift-label-noise-mnar",
-      "to": "algorithm-chains-and-pipelines",
-      "type": "extends"
-    },
-    {
-      "from": "observational-causal-inference-hierarchy",
-      "to": "causal-vs-predictive-targeting",
-      "type": "extends"
-    },
-    {
-      "from": "observational-causal-inference-hierarchy",
-      "to": "causal-inference",
-      "type": "extends"
-    },
-    {
-      "from": "observational-causal-inference-hierarchy",
-      "to": "causal-effect-estimation",
-      "type": "extends"
-    },
-    {
-      "from": "observational-causal-inference-hierarchy",
-      "to": "causal-impact-models",
-      "type": "extends"
-    },
-    {
-      "from": "observational-causal-inference-hierarchy",
-      "to": "predictive-analytics",
-      "type": "extends"
-    },
-    {
-      "from": "relu-call-option-payoff-analogy",
-      "to": "relu",
-      "type": "extends"
-    },
-    {
-      "from": "relu-call-option-payoff-analogy",
-      "to": "rectified-linear-unit",
-      "type": "extends"
-    },
-    {
-      "from": "relu-call-option-payoff-analogy",
-      "to": "nonlinear-function",
-      "type": "extends"
-    },
-    {
-      "from": "relu-call-option-payoff-analogy",
-      "to": "sigmoid-function",
+      "from": "data-science-roadmap",
+      "to": "expected-value-framework",
       "type": "extends"
     }
   ]
