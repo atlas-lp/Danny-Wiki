@@ -1,6 +1,6 @@
 # Wiki Index
 
-Master catalog — 2662 pages · last rebuilt 2026-04-21
+Master catalog — 2667 pages · last rebuilt 2026-04-24
 
 ## Persona Pages (8)
 
@@ -2654,10 +2654,15 @@ Master catalog — 2662 pages · last rebuilt 2026-04-21
 - [[entities/youtube|YouTube]] — A platform where the recording of the 'demystifying AI chats' will be made available.
 - [[entities/zhang-wang-2007|Zhang-Wang-2007]] — A special algorithm used in machine learning and statistical software to quickly calculate an approximate percentile wit
 
-## Query-Synthesized Pages (2)
+## Query-Synthesized Pages (7)
 
+- [[synthesized/data-science-roadmap|Data Science Roadmap]] — A five-phase learning progression that integrates the Provost/Fawcett business-thinking framework (*Data Science for Bus
 - [[synthesized/eigenvectors-visual-and-spectral-bridge|Eigenvectors: Visual Intuition and the Spectral Bridge]] — Most vectors change both **direction and magnitude** when a linear transformation is applied. An **eigenvector** is spec
+- [[synthesized/observational-causal-inference-hierarchy|Observational Causal Inference: Credible Counterfactuals Under Weak Assumptions]] — Provost's framing of causal analytics as 'predicting both sides of the counterfactual'—what would happen under treatment
+- [[synthesized/pd-grouper-generalization|Group by a non-index datetime column at monthly frequency]] — `pd.TimeGrouper`, described in McKinney's *Python for Data Analysis* (2017), has since been deprecated and replaced by t
 - [[synthesized/random-forest-double-decorrelation|Random Forest: Double Decorrelation as the Core Mechanism]] — Random forests are often described loosely as "many decision trees averaged together," but this undersells the precise m
+- [[synthesized/relu-call-option-payoff-analogy|ReLU and Call Option Payoff Analogy]] — The ReLU (Rectified Linear Unit) activation function and the European call option payoff are mathematically identical up
+- [[synthesized/robust-pipeline-covariate-shift-label-noise-mnar|Evaluate on val fold (no weights at inference)]] — A four-layer pipeline architecture that addresses the joint challenges of covariate shift, label noise, and Missing Not 
 
 ## RAG Stubs (17)
 
@@ -2678,7 +2683,3 @@ Master catalog — 2662 pages · last rebuilt 2026-04-21
 - [[stubs/stub-vasant-dhar-on-thinking-with-machines-with-foster-provost-aa-0s60eapk|Vasant Dhar On Thinking With Machines With Foster Provost]] — This is a fireside chat at NYU Stern (November 17, 2025) where Vasant Dhar discusses his new book "Thinking With Machine
 - [[stubs/stub-ve-open-apis-financial-services-ebook-content|Open APIs in Financial Services Ebook Content]] — This is the Red Hat Special Edition of "Open APIs in Financial Services For Dummies" (Wiley), authored by Alessandro Pet
 - [[stubs/stub-ǂthe-ǂhundred-page-machine-learning-book-andriy-burkov-lugar-de-publicacion-no-i|The Hundred-Page Machine Learning Book — Andriy Burkov]] — This is Andriy Burkov's concise yet comprehensive introduction to machine learning, covering the field from foundational
-
-- [[synthesized/data-science-roadmap|Data Science Roadmap]] — synthesized from query
-
-- [[synthesized/pd-grouper-generalization|pd.Grouper: Generalization of pd.TimeGrouper]] — synthesized from query
