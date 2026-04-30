@@ -826,12 +826,12 @@ python webapp/api/index2.py --query "What is microequity?"
 
 ```bash
 cd webapp
-docker build -t danny-backend .
+docker build -t Danny-backend .
 docker run -p 8080:8080 \
   -e ANTHROPIC_API_KEY=... \
   -e GEMINI_API_KEY=... \
   -e GITHUB_TOKEN=... \
-  danny-backend
+  Danny-backend
 # Open http://localhost:8080
 ```
 
@@ -850,6 +850,8 @@ docker run -p 8080:8080 \
 | `MAIN_LLM_MODEL` | Optional | Override answer agent model (default: `claude-opus-4-6`) |
 | `WIKI_LLM_PROVIDER` | Optional | `claude` or `nebius` (default: `claude`) |
 | `MAIN_LLM_PROVIDER` | Optional | `claude` or `nebius` (default: `claude`) |
+| `NEBIUS_API_KEY` | Required if using Nebius | Nebius API key (replaces `ANTHROPIC_API_KEY` when provider is `nebius`) |
+| `NEBIUS_BASE_URL` | Optional | Nebius API base URL (default: `https://api.tokenfactory.nebius.com/v1/`) |
 
 ---
 
