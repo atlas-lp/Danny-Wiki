@@ -328,12 +328,10 @@ if bloom_level:
 │   ├── kaggle_tag_blooms.ipynb        # Notebook: run Bloom's tagging on Kaggle GPU
 │   ├── auto_wiki_builder.py           # Auto-create wiki pages from structured data
 │   ├── extract_entities.py            # Named entity extraction
-│   ├── sync_wiki.py                   # Push/pull wiki to GitHub
 │   ├── remove_chunks.py               # Deindex specific chunks
 │   ├── remove_wiki_page.py            # Delete a wiki page + update graph
 │   ├── download_models.py             # Pre-download fastembed ONNX model
-│   ├── npy_to_faiss.py                # Convert numpy arrays to FAISS index
-│   └── wiki_logger.py                 # Append-only wiki log helper
+│   └── npy_to_faiss.py                # Convert numpy arrays to FAISS index
 │
 ├── data/                              # Generated RAG data (local only, not deployed)
 │   ├── chunks.json                    # RAG chunks with 3072-dim embeddings (~19 MB)
@@ -595,8 +593,6 @@ python scripts/auto_wiki_builder.py --all --model claude-sonnet-4-6
 
 | Script | Purpose |
 |--------|---------|
-| `wiki_logger.py` | Helper for appending structured entries to `log.md` |
-| `sync_wiki.py` | Push/pull wiki pages to/from GitHub manually |
 | `remove_wiki_page.py` | Delete a wiki page, clean cross-references, update graph |
 | `remove_chunks.py` | Deindex specific chunks from `data/chunks.json` |
 | `npy_to_faiss.py` | Convert a `.npy` embedding matrix to a FAISS index |
