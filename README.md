@@ -1,6 +1,6 @@
-# Danny — Dual-LLM Knowledge Chatbot
+# Danny — A Data Analytics Prof. Chatbot
 
-A hybrid knowledge system for **Prof. Deepa Mani** (ISB) combining an LLM-maintained wiki (synthesised insights) with vector RAG (large source documents). Deployed as a streaming chatbot: **frontend on Vercel, backend on Google Cloud Run**.
+A hybrid knowledge system combining an LLM-maintained wiki (synthesised insights) with vector RAG (large source documents). Deployed as a streaming chatbot: **frontend on Vercel, backend on Google Cloud Run**.
 
 Adaptable to any professor or domain expert.
 
@@ -70,7 +70,7 @@ All source files are chunked and embedded into the RAG database. Wiki pages (con
 |--------|------|-------|---------|
 | `concepts/` | concept | ~420 | Business, tech, innovation concepts extracted from sources |
 | `entities/` | entity | ~200 | Companies, people, institutions |
-| `persona/` | persona | 8 | Prof. Deepa Mani's intellectual identity, thinking patterns, rhetorical style |
+| `persona/` | persona | 8 | Prof. Dannypa Mani's intellectual identity, thinking patterns, rhetorical style |
 | `stubs/` | stub | ~10 | Pointers to RAG-indexed large documents (books, long papers) |
 | `synthesized/` | synthesized | growing | Novel connections created at query time by MAIN_LLM |
 
@@ -85,7 +85,7 @@ aliases: [Digital Transformation, DT]
 relationships:
   - target: platform-structures
     type: related_to
-  - target: deepa-mani
+  - target: Dannypa-mani
     type: proposed_by
 tags: [strategy, technology]
 ---
@@ -97,7 +97,7 @@ Body text...
 ## Relationships
 
 - **related_to**: [[platform-structures|Platform Structures]]
-- **proposed_by**: [[deepa-mani|Deepa Mani]]
+- **proposed_by**: [[Dannypa-mani|Dannypa Mani]]
 
 ---
 *Extracted from: Driving Digital Strategy*
